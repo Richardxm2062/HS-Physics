@@ -27,7 +27,7 @@
 \end{comment}
 
 
-\title{高中物理讲义 \quad 功率}
+\title{高中物理讲义}
 
 \author{学生: 马小花儿 \quad 教师: 马祥芸}
 
@@ -120,9 +120,9 @@
         \item 运动分类(单选4分):
         \begin{itemize}
             \item 自由落体: \textbf{仅}受重力的竖直向下运动
-            \item 平抛运动: 水平方向速度恒定,竖直方向自由落体,轨迹为\textbf{抛物线}
-            \item 曲线运动: 速度方向随时发生变化,加速度方向不定,\textbf{曲率半径}描述轨迹弯曲程度
+            \item 平抛运动: 水平方向速度恒定,竖直方向自由落体,轨迹为\textbf{抛物线}(斜抛同样成立)
             \item 圆周运动: 围绕某点或轴沿着圆形轨道运动,加速度指向圆心,速度方向沿切线
+            \item 曲线运动: 速度方向随时发生变化,加速度方向不定,\textbf{曲率半径}描述轨迹弯曲程度
             \item 绕星运动: 引力作用下的运动,椭圆或近似圆周轨道
         \end{itemize}
 
@@ -164,7 +164,7 @@
         \begin{enumerate}[label=\Alph*.]
             \item 从滑梯上匀速滑下的小朋友机械能守恒
             \item 被踢出的足球,离开脚面后在空中的运动(忽略空气阻力)过程中足球机械能守恒
-            \item 光滑平面上运动的物体碰撞另一物体后,两者系统机械能守恒
+            \item 光滑平面上运动的物体碰撞另一物体后粘连运动,两者组成的系统机械能守恒
             \item 自由落体的物体下落压缩一弹簧并向上弹的过程机械能守恒一直守恒
         \end{enumerate}
 
@@ -174,7 +174,141 @@
         考虑始末状态机械能守恒,但非一直保持机械能守恒,弹簧具有弹性势能
         
         \hspace{2em}
+
+    \item 万有引力
+    
             
+    \hspace{2em}
+
+    \item 功能关系
+        \begin{enumerate}
+            \item[一、] 基础概念
+            \begin{enumerate}
+                \item 功的定义:力在物体位移的方向上产生的作用$ W = \va{F} \vdot \va{x} = Fx\cos{\theta}$
+                
+                \vspace{-1em}
+
+                \hspace{-1em}\begin{adjustbox}{minipage=0.37\linewidth, bgcolor=gray!20, padding=1em}
+                    \small % 将字号变小为 small
+                    力对物体作用\,在空间上的累积\,的物理量
+                \end{adjustbox}
+
+                \vspace{-1em}
+
+                \item 功的正负与计算:
+                \begin{itemize}
+                    \item[]
+                    $$
+                    \begin{cases}
+                        \text{正功:} \quad W > 0 & \text{(锐角)}  \\
+                        \text{负功:} \quad W < 0 & \text{钝角}  \\
+                        \text{不做功:} \quad W = 0 & \text{直角}  
+                    \end{cases}
+                    \hspace{2em}
+                    \begin{cases}
+                       \text{直线运动} \quad F\,x\cos{\theta}  \\
+                        \text{曲线运动} \quad F\,x
+                    \end{cases}
+                    $$
+                \end{itemize}
+
+                
+
+            \end{enumerate}
+
+            
+
+            
+        \end{enumerate}
+
+        \vspace{1em}
+
+        \textbf{检测:} 
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.9\textwidth]{pictures/1.png}
+        \end{figure}
+        
+        \vspace{1em}
+
+        \textbf{答案:} 
+            \begin{enumerate}[label=(\arabic*)]
+                \item $W_{1} = 16 J$
+                \item $W_{2} = -8.4J$
+                \item $W_{3} = 0$
+                \item $W_{4} = 0$
+                \item $W = 7.6J$
+            \end{enumerate}
+
+        \textbf{解析:} 
+            \begin{enumerate}[label=(\arabic*)]
+                \item $W_{1} = Fl\cos{\theta} = 10 \cross 2 \cross \frac{4}{5} = 16 J$
+                \item $N = mg - F\sin{\theta} = 14 N \quad f = - N \mu = -4.2N \quad W_{2} = fl = -4.2 \cross 2 = -8.4J$
+                \item $W_{3} = 0$
+                \item $W_{4} = 0$
+                \item $F = F\cos{\theta} + f = 10 \cross \frac{4}{5} - 4.2 = 3.8N \quad W = Fl = 3.8 \cross 2 = 7.6J$
+            \end{enumerate}
+        
+        \vspace{2em}
+
+        \textbf{检测:} 
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.9\textwidth]{pictures/2.png}
+        \end{figure}
+        
+        \vspace{1em}
+
+        \textbf{答案:} 
+            \begin{enumerate}[label=(\arabic*)]
+                \item $W_{F} = FL\sin{\theta} $
+                \item $W_{G} = -mgL(1-\cos{\theta})$
+            \end{enumerate}
+
+        \textbf{解析:} 
+            \begin{enumerate}[label=(\arabic*)]
+                \item $W_{F} = F x_{F} = F L \sin{\theta} $
+                \item $W_{G} = -mg x_{G} = -mg(L - L \cos{\theta}) = -mgL(1-\cos{\theta})$
+            \end{enumerate}
+
+        \textbf{扩展:}
+            \begin{enumerate}[label=(\arabic*)]
+                \item 绳子拉力$T$所做的功$W_{T}$? $\lra W_{T} = 0$
+                \item 若受到空气阻力$f$大小不变,试问$W_{f}$? $\lra W_{f} = -f \cross 2\pi L \cross \frac{\theta}{2 \pi} = -fL\theta $
+            \end{enumerate}
+
+        
+        \vspace{2em}
+
+        \textbf{检测:} 
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.9\textwidth]{pictures/3.png}
+        \end{figure}
+        
+        \vspace{1em}
+
+        \textbf{答案:} 
+            \begin{enumerate}[label=(\arabic*)]
+                \item[] $W_{F} = 40J $
+            \end{enumerate}
+
+        \textbf{解析:} 
+            \begin{enumerate}[label=(\arabic*)]
+                \item[] $W_{F} = 4 \cross 4 + 3 \cross 8 = 16 +24 = 40J $
+            \end{enumerate}
+
+        \textbf{扩展:}
+            \begin{enumerate}[label=(\arabic*)]
+                \item $0-4m内,F = -4 N不变,W_{F}$? $\lra W_{F} = -4 \cross 4 + 3 \cross 8 = -16 + 24 = 8J$ 
+                \item 若$F = kx \hspace{0.5em} (k>0)$,试问当位移从$0$到$x_{0}$,整个过程$W_{F}$? 
+                \item [] 
+                $$
+                \triangle x = \dfrac{x_{0}}{n} \hspace{0.5em} (n \rightarrow +\infty)
+                $$
+            \end{enumerate}
+
+
 
 
     \end{itemize}
