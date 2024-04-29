@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  29 APR 2024 21:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  29 APR 2024 21:06
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -879,7 +879,7 @@ Package hyperref Info: Link coloring ON on input line 34.
  [1
 
 ] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 178--182
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
@@ -888,11 +888,7 @@ File: pictures/1.png Graphic file (type bmp)
 <pictures/1.png>
 File: pictures/2.png Graphic file (type bmp)
 <pictures/2.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4]
+ [4]
 File: pictures/3.png Graphic file (type bmp)
 <pictures/3.png>
  [5] [6] (./讲义.aux)
@@ -904,12 +900,12 @@ Package rerunfilecheck Info: File `讲义.out' has not changed.
 (rerunfilecheck)             Checksum: 7AA604AA5EC5E62F3DA3D7524DF70771;180.
  ) 
 Here is how much of TeX's memory you used:
- 30659 strings out of 475591
- 640682 string characters out of 5773842
+ 30654 strings out of 475591
+ 640572 string characters out of 5773842
  1941438 words of memory out of 5000000
- 51460 multiletter control sequences out of 15000+600000
+ 51455 multiletter control sequences out of 15000+600000
  569061 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,12n,120p,588b,729s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,120p,588b,797s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 讲义.pdf (6 pages).
