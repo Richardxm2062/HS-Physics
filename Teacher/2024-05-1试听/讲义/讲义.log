@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  29 APR 2024 21:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  29 APR 2024 21:57
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -406,6 +406,8 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip64
 \thm@headsep=\skip65
 \dth@everypar=\toks34
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/cases/cases.sty
 Package: cases 2020/03/29 ver 3.2
 \numc@numwid=\dimen273
@@ -556,8 +558,6 @@ Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks36
 \verbatim@line=\toks37
 \verbatim@in@stream=\read2
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/extarrows/extarrows.sty
-Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
@@ -741,7 +741,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box78
 \tcb@temp=\box79
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 92.
+Package hyperref Info: Option `colorlinks' set `true' on input line 93.
 \c@thm=\count359
 \c@lemma=\count360
 \c@corollary=\count361
@@ -891,7 +891,10 @@ File: pictures/2.png Graphic file (type bmp)
  [4]
 File: pictures/3.png Graphic file (type bmp)
 <pictures/3.png>
- [5] [6] (./讲义.aux)
+ [5]
+File: pictures/4.png Graphic file (type bmp)
+<pictures/4.png>
+ [6] (./讲义.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -900,12 +903,12 @@ Package rerunfilecheck Info: File `讲义.out' has not changed.
 (rerunfilecheck)             Checksum: 7AA604AA5EC5E62F3DA3D7524DF70771;180.
  ) 
 Here is how much of TeX's memory you used:
- 30654 strings out of 475591
- 640572 string characters out of 5773842
+ 30664 strings out of 475591
+ 640740 string characters out of 5773842
  1941438 words of memory out of 5000000
- 51455 multiletter control sequences out of 15000+600000
+ 51464 multiletter control sequences out of 15000+600000
  569061 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,12n,120p,588b,797s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,120p,588b,729s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 讲义.pdf (6 pages).
