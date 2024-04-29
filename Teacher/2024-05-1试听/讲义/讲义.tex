@@ -29,7 +29,7 @@
 
 \title{高中物理讲义}
 
-\author{学生: 马小花儿 \quad 教师: 马祥芸}
+\author{学生: 谢 \quad 教师: 马祥芸}
 
 \begin{document}
 
@@ -184,9 +184,9 @@
 
     \item 功能关系
           \begin{enumerate}
-              \item[一、] 基础概念
+              \item[一、] 功(Work)
                   \begin{enumerate}
-                      \item 功的定义:力在物体位移的方向上产生的作用$ W = \va{F} \vdot \va{x} = Fx\cos{\theta}$
+                      \item 功的定义:力在物体位移的方向上产生的作用(标量)$ W = \va{F} \vdot \va{x} = Fx\cos{\theta}$,单位\textbf{焦耳$J$}
 
                             \vspace{-1em}
 
@@ -315,19 +315,35 @@
 
                             \begin{align*}
                                 \triangle x     & = \dfrac{x_{0}}{n} \hspace{0.5em} (n \rightarrow \infty) \hspace{2em}
-                                x_{i} = i \triangle x \hspace{0.5em}(i = 1,2,3 \dots \infty)                                                                                                           \\
+                                x_{i} = i \triangle x \hspace{0.5em}(i = 1,2,3 \cdots \infty)                                                                                                           \\
                                 \triangle W_{i} & = F_{i} \triangle x = k x_{i} \triangle x  \hspace{2em} \sum_{i=1}^{n}\triangle W_{i} =
-                                k(x_{1}+x_{2}+x_{3} \dots x_{n} )\triangle x                                                                                                                           \\
-                                W               & = k \triangle x (\triangle x + 2 \triangle x +3 \triangle x \dots + n \triangle x) = k \triangle x \qty{ \dfrac{(\triangle x + n \triangle x)n}{2} } \\
-                                W               & = \dfrac{k}{2} \qty{ n (\triangle x)^{2} + (n \triangle x)^{2}}  \hspace{2em} n\triangle x = x_{0}                                                   \\
-                                W               & = \dfrac{k}{2} \qty{ x_{0} \triangle x + x_{0}^{2}}  \quad x_{0} \triangle x \text{相比} x_{0}^{2} \text{为小量舍去}                                        \\
+                                k(x_{1}+x_{2}+x_{3} \cdots x_{n} )\triangle x                                                                                                                           \\
+                                W               & = k \triangle x (\triangle x + 2 \triangle x +3 \triangle x \cdots + n \triangle x) = k \triangle x \qty{ \dfrac{(\triangle x + n \triangle x)n}{2} } \\
+                                W               & = \dfrac{k}{2} \qty{ n (\triangle x)^{2} + (n \triangle x)^{2}}  \hspace{2em} n\triangle x = x_{0}                                                    \\
+                                W               & = \dfrac{k}{2} \qty{ x_{0} \triangle x + x_{0}^{2}}  \quad x_{0} \triangle x \text{相比} x_{0}^{2} \text{为小量舍去}                                         \\
                                 W               & = \frac{1}{2} k x_{0}^{2}
                             \end{align*}
                   \end{enumerate}
 
                   \vspace{2em}
 
-              \item[二、] 动能定理
+              \item[二、] 动能(Kinetic Energy)与动能定理
+                  \begin{enumerate}
+                      \item 动能定义:物体运动时所具备的能量(标量)$E_{k} = \frac{1}{2}mv^{2}$,单位\textbf{焦耳$J$}
+                      \item 动能定理:合力对物体所做的功，等于物体动能的差$W_{total} = \triangle E_{k} = E_{kt} - E_{k0}$
+                            $$
+                                W_{total} = \va{F}_{total} \vdot \va{x} = W_{1} + W{2} \cdots W_{n}
+                            $$
+
+                            \begin{proof}
+                                \begin{align*}
+                                    2\va{a} \vdot \va{x} &= v_{t}^{2} - v_{0}^{2}   \\
+                                    2 \dfrac{\va{F}_{total}}{m} \vdot \va{x} = v_{t}^{2} - v_{0}^{2}  \quad & \lra  \quad \va{F}_{total} \vdot \va{x} = \frac{1}{2}mv_{t}^{2} -\frac{1}{2}mv_{0}^{2}
+                                \end{align*}
+                            \end{proof}
+
+
+                  \end{enumerate}
 
           \end{enumerate}
 \end{itemize}
