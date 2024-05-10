@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  10 MAY 2024 19:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  10 MAY 2024 19:43
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -936,14 +936,14 @@ File: pictures/4.png Graphic file (type bmp)
 <pictures/4.png>
 File: pictures/5.png Graphic file (type bmp)
 <pictures/5.png>
+ [3]
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
- [3]
+ [4]
 File: pictures/6.png Graphic file (type bmp)
 <pictures/6.png>
 File: pictures/7.png Graphic file (type bmp)
 <pictures/7.png>
- [4]
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
  [5]

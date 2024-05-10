@@ -5,4 +5,4 @@
 \contentsline {subsection}{\numberline {2.2}单杆电源类}{6}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}单杆电容类}{7}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}电容充电式}{7}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}电容放电式}{8}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2}电容放电式}{9}{subsubsection.2.3.2}%
