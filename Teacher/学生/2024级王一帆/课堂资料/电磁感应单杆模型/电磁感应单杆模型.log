@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  10 MAY 2024 17:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  10 MAY 2024 18:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -791,82 +791,82 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 94.
 ) (./电磁感应单杆模型.aux)
 \openout1 = `电磁感应单杆模型.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
-LaTeX Font Info:    Redeclaring math accent \check on input line 14.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 14.
+(Font)              `operators' in the math version `normal' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 14.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 14.
+(Font)              `operators' in the math version `bold' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 14.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 14.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 14.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 14.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 14.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 14.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 14.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 14.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 14.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -909,14 +909,14 @@ Package caption Info: changepage package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 14.
+Package hyperref Info: Link coloring ON on input line 27.
 (./电磁感应单杆模型.out) (./电磁感应单杆模型.out)
 \@outlinefile=\write4
 \openout4 = `电磁感应单杆模型.out'.
 
 \c@lstlisting=\count369
 
-Package chemgreek Info: Activating mapping `fontspec' on line 14.
+Package chemgreek Info: Activating mapping `fontspec' on line 27.
 
  (./电磁感应单杆模型.toc)
 \tf@toc=\write5
@@ -929,133 +929,64 @@ File: pictures/1.png Graphic file (type bmp)
 <pictures/1.png>
 File: pictures/2.png Graphic file (type bmp)
 <pictures/2.png>
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:42: Missing number, treated as zero.
-<to be read again> 
-                   |
-l.42 \begin{tabular*}{|c|c|c|}
-                              
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:42: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   |
-l.42 \begin{tabular*}{|c|c|c|}
-                              
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:42: Package calc Error: `|' invalid at this point.
-
-See the calc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \begin{tabular*}{|c|c|c|}
-                              
-I expected to see one of: + - * / )
-
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:43: LaTeX Error: Illegal character in array arg.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43             &
-                   图1 & 图2   \\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:43: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.43             & 图1 &
-                        图2   \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:44: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.44     通电时   &
-                     &       \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:44: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.44     通电时   &     &
-                             \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:45: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.45     断电时   &
-                     &       \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:45: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.45     断电时   &     &
-                             \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \hbox (29.96515pt too wide) in alignment at lines 43--46
-[]
- []
-
-
-/Users/richard/Github/HS-Physics/Teacher/学生/2024级王一帆/课堂资料/电磁感应单杆模型/电磁感应单杆模型.tex:51: LaTeX Error: \begin{tabular*} on input line 42 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.51 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[2] (./电磁感应单杆模型.aux)
+File: pictures/3.png Graphic file (type bmp)
+<pictures/3.png>
+ [2]
+File: pictures/4.png Graphic file (type bmp)
+<pictures/4.png>
+File: pictures/5.png Graphic file (type bmp)
+<pictures/5.png>
+File: ./pictures/17.png Graphic file (type bmp)
+<./pictures/17.png>
+ [3]
+File: pictures/6.png Graphic file (type bmp)
+<pictures/6.png>
+File: pictures/7.png Graphic file (type bmp)
+<pictures/7.png>
+ [4]
+File: ./pictures/18.png Graphic file (type bmp)
+<./pictures/18.png>
+ [5]
+File: pictures/8.png Graphic file (type bmp)
+<pictures/8.png>
+File: pictures/9.png Graphic file (type bmp)
+<pictures/9.png>
+File: ./pictures/10.png Graphic file (type bmp)
+<./pictures/10.png>
+File: ./pictures/19.png Graphic file (type bmp)
+<./pictures/19.png>
+ [6]
+File: pictures/11.png Graphic file (type bmp)
+<pictures/11.png>
+File: pictures/12.png Graphic file (type bmp)
+<pictures/12.png>
+ [7]
+File: pictures/13.png Graphic file (type bmp)
+<pictures/13.png>
+File: pictures/14.png Graphic file (type bmp)
+<pictures/14.png>
+File: pictures/15.png Graphic file (type bmp)
+<pictures/15.png>
+File: pictures/16.png Graphic file (type bmp)
+<pictures/16.png>
+ [8]
+File: pictures/20.png Graphic file (type bmp)
+<pictures/20.png>
+ [9] (./电磁感应单杆模型.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `电磁感应单杆模型.out' has not changed.
-(rerunfilecheck)             Checksum: 5854F702CE55048979F60AB17F8EE978;244.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 42 (\begingroup)
-### bottom level 
+(rerunfilecheck)             Checksum: 7708AEC5D0C73F1422546C41F2F95BC2;824.
+ ) 
 Here is how much of TeX's memory you used:
- 31472 strings out of 475591
- 658368 string characters out of 5773842
- 1917438 words of memory out of 5000000
- 52290 multiletter control sequences out of 15000+600000
+ 31641 strings out of 475591
+ 661625 string characters out of 5773842
+ 1925438 words of memory out of 5000000
+ 52440 multiletter control sequences out of 15000+600000
  565056 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,7n,120p,608b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,8n,120p,608b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 电磁感应单杆模型.pdf (2 pages).
+Output written on 电磁感应单杆模型.pdf (9 pages).
