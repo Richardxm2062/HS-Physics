@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}电感在电路中的表现}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}通电自感与断电自感}{2}{subsection.1.1}%
