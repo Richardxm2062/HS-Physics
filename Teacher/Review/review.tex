@@ -65,11 +65,11 @@ $$
     \item 振子方程: $\sin{(\omega t + \varphi)}$
     \item 同侧法: 质点振动速度方向$v_{f}$与波传播方向$u$在正弦函数线的同一侧
     \item 摆周期: $T = 2\pi \sqrt{\frac{L}{g}}$
-    \item 受迫振动:在周期性外力的持续作用下而进行的振动称为\textbf{受迫振动},振动稳定后齐\textbf{频率}等于外力驱动频率
+    \item 受迫振动:在周期性外力的持续作用下而进行的振动称为\textbf{受迫振动},振动稳定后其\textbf{频率}等于外力驱动频率
     \item 等效绳长与等效加速度问题:
           \begin{itemize}
               \item 等效绳长: 确定为简谐振动,通过几何关系确定摆心
-              \item 等效加速度: 主要区别电梯摆和电场摆,前者需要变换参考系(非惯性力)
+              \item 等效加速度: 主要区别电场摆和电梯摆,后者需要变换参考系(非惯性力)
           \end{itemize}
     \item  造成波的多解性的三大原因:
           \begin{itemize}
@@ -101,11 +101,27 @@ $$
     \begin{itemize}
         \item 展开
               $$ \sin{(\theta \pm \beta)} = \sin{\theta}\cos{\theta} \pm \cos{\theta}\sin{\theta} $$
-              $$ \cos{(\theta \pm \beta)} = \cos{\theta}\cos{\theta} \mp \sin{\theta}\sin{\theta} $$
+              $$ \cos{(\theta \pm \beta)} = \cos{\theta}\cos{\beta} \mp \sin{\theta}\sin{\beta} $$
               $$ \tan{(\theta \pm \beta)} = \dfrac{\tan{\theta} \pm \tan{\beta}}{1 \mp \tan{\theta}\tan{\beta}}$$
 
-        \item 余补关系
-              $$ \sin{(\pi - \theta)} = \sin{\theta} \quad \cos{(\pi - \theta)} = - \cos{\theta} \quad \tan{(\pi - \theta)} = -\tan{\theta}$$
+        \item 互余($\theta + \beta = \frac{\pi}{2}$)
+              $$
+                \sin{\theta} = \cos{\beta}  \quad   \tan{\theta} = \frac{1}{\tan{\beta}}
+              $$
+
+        \item 互补($\theta + \beta = \pi$)
+              $$
+                  \sin{\theta} = \sin{\beta} \quad \cos{\theta} = - \cos{\beta}
+                  \quad \tan{\theta} = - \tan{\beta}
+              $$
+        \item 半周期与奇偶性
+             $$
+             \sin{(\theta \pm \pi)} = -\sin{\theta}   \quad   \sin{(\theta - \beta)} = - \sin{(\beta - \theta)}
+             $$
+
+             $$
+             \cos{(\theta \pm \pi)} = -\cos{\theta}   \quad   \cos{(\theta - \beta)} =  \cos{(\beta - \theta)}
+             $$
 
               \includegraphics[width = 20em]{./pictures/1.png}
 
@@ -518,35 +534,35 @@ $$
 
 \subsection{天然放射性现象}
 \begin{itemize}
-    \item 定义: 放射性元素\textbf{原子核内部自发}放出射线的现象 
-    \item 三种射线: 
-    \begin{itemize}
-        \item[] $\alpha$射线: $^{2}_{4}He$原子核 \, 速度$0.1c$ 
-        \item[] $\beta$射线: $^{-1}_{0}e$ \, 速度$0.99c$
-        \item[] $\gamma$射线: $^{0}_{0}n$电磁波 \, 速度$c$
-        \item[] 电离能力: 使得被射线辐射的物质发生电离的能力 $\alpha > \beta > \gamma$
-        
-        \vspace{-1em}
-        \begin{adjustbox}{minipage=0.91\linewidth, bgcolor=gray!20, padding=1em}
-            \small 
-            距离足够近，放射性同位素释放出的$\alpha$粒子就足以穿透皮肤从而杀死皮下的重要组织的细胞.
-            相比$\gamma$射线和$x$光对细胞造成毁伤的能力,$\alpha$射线对细胞所造成的损坏程度超过其二十倍以上
-        \end{adjustbox}
-        \vspace{-1em}
+    \item 定义: 放射性元素\textbf{原子核内部自发}放出射线的现象
+    \item 三种射线:
+          \begin{itemize}
+              \item[] $\alpha$射线: $^{2}_{4}He$原子核 \, 速度$0.1c$
+              \item[] $\beta$射线: $^{-1}_{0}e$ \, 速度$0.99c$
+              \item[] $\gamma$射线: $^{0}_{0}n$电磁波 \, 速度$c$
+              \item[] 电离能力: 使得被射线辐射的物质发生电离的能力 $\alpha > \beta > \gamma$
 
-        \item[] 穿透能力: 穿透物质能力 $\gamma > \beta > \alpha$ \, (甚至不能穿透一张纸) 
-        \item[] 磁场半径: $ r = \dfrac{mv}{qB} \quad q_{\alpha} = 2 q_{\beta} 
-        \quad m_{\alpha} \gg m_{\beta} \lra r_{\alpha} > r_{\beta} $ 
-        \item[] 电场偏转: $ a = \dfrac{Eq}{m} \quad q_{\alpha} = 2 q_{\beta} 
-        \quad m_{\alpha} \gg m_{\beta} \quad a_{\alpha} < a_{\beta} $
+                  \vspace{-1em}
+                  \begin{adjustbox}{minipage=0.91\linewidth, bgcolor=gray!20, padding=1em}
+                      \small
+                      距离足够近，放射性同位素释放出的$\alpha$粒子就足以穿透皮肤从而杀死皮下的重要组织的细胞.
+                      相比$\gamma$射线和$x$光对细胞造成毁伤的能力,$\alpha$射线对细胞所造成的损坏程度超过其二十倍以上
+                  \end{adjustbox}
+                  \vspace{-1em}
 
-        \vspace{-1em}
-        \begin{adjustbox}{minipage=0.4\linewidth, bgcolor=gray!20, padding=1em}
-            \small 
-            $\beta$粒子相比$\alpha$粒子在电磁场中更易发生偏转
-        \end{adjustbox}
-        \vspace{-1em}
-    \end{itemize}
+              \item[] 穿透能力: 穿透物质能力 $\gamma > \beta > \alpha$ \, (甚至不能穿透一张纸)
+              \item[] 磁场半径: $ r = \dfrac{mv}{qB} \quad q_{\alpha} = 2 q_{\beta}
+                      \quad m_{\alpha} \gg m_{\beta} \lra r_{\alpha} > r_{\beta} $
+              \item[] 电场偏转: $ a = \dfrac{Eq}{m} \quad q_{\alpha} = 2 q_{\beta}
+                      \quad m_{\alpha} \gg m_{\beta} \quad a_{\alpha} < a_{\beta} $
+
+                  \vspace{-1em}
+                  \begin{adjustbox}{minipage=0.4\linewidth, bgcolor=gray!20, padding=1em}
+                      \small
+                      $\beta$粒子相比$\alpha$粒子在电磁场中更易发生偏转
+                  \end{adjustbox}
+                  \vspace{-1em}
+          \end{itemize}
 \end{itemize}
 
 \vspace{2em}
@@ -554,25 +570,25 @@ $$
 \subsection{放射性元素的衰变}
 \begin{enumerate}
     \item 原子核的表示: $_{Z}^{A}X$ \quad ($A$表质量数,$Z$为原子核的电荷数 \, eg. $_{4}^{2}He$)
-    
-    \vspace{-1em}
-    \begin{adjustbox}{minipage=0.32\linewidth, bgcolor=gray!20, padding=1em}
-        \small 
-        同位素: \, 质子数一样,质量数不一样
-    \end{adjustbox}
-    \vspace{-1em}
+
+          \vspace{-1em}
+          \begin{adjustbox}{minipage=0.32\linewidth, bgcolor=gray!20, padding=1em}
+              \small
+              同位素: \, 质子数一样,质量数不一样
+          \end{adjustbox}
+          \vspace{-1em}
 
     \item 衰变形式:
-    \begin{itemize}
-        \item[] $\alpha$衰变: 放射性元素原子核放出$\alpha$粒子
-        $$
-        \nuc{238}{92}{U} \xlongrightarrow{\quad\quad} \nuc{234}{90}{Th}  + \nuc{4}{2}{He}
-        $$ 
-        \item[] $\beta$衰变: 放射性元素原子核放出$\beta$粒子
-        $$
-        \nuc{234}{90}{Th} \xlongrightarrow{\quad\quad}  \nuc{234}{91}{Pa}+ \nuc{0}{-1}{e}
-        $$ 
-    \end{itemize}
+          \begin{itemize}
+              \item[] $\alpha$衰变: 放射性元素原子核放出$\alpha$粒子
+                  $$
+                      \nuc{238}{92}{U} \xlongrightarrow{\quad\quad} \nuc{234}{90}{Th}  + \nuc{4}{2}{He}
+                  $$
+              \item[] $\beta$衰变: 放射性元素原子核放出$\beta$粒子
+                  $$
+                      \nuc{234}{90}{Th} \xlongrightarrow{\quad\quad}  \nuc{234}{91}{Pa}+ \nuc{0}{-1}{e}
+                  $$
+          \end{itemize}
 \end{enumerate}
 
 
