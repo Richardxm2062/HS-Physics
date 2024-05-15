@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  15 MAY 2024 15:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  15 MAY 2024 18:08
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -970,7 +970,13 @@ File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [12] [13] (./review.aux)
+ [12]
+File: ./pictures/20.png Graphic file (type bmp)
+<./pictures/20.png>
+ [13]
+File: ./pictures/21.png Graphic file (type bmp)
+<./pictures/21.png>
+ [14] (./review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -979,12 +985,12 @@ Package rerunfilecheck Info: File `review.out' has not changed.
 (rerunfilecheck)             Checksum: BDB0A3C489ED53D0C88043F521FAD067;2708.
  ) 
 Here is how much of TeX's memory you used:
- 31726 strings out of 475591
- 664161 string characters out of 5773842
- 1935438 words of memory out of 5000000
- 52502 multiletter control sequences out of 15000+600000
+ 31744 strings out of 475591
+ 664541 string characters out of 5773842
+ 1938438 words of memory out of 5000000
+ 52518 multiletter control sequences out of 15000+600000
  569045 words of font info for 106 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,13n,120p,587b,714s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,16n,120p,587b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (13 pages).
+Output written on review.pdf (14 pages).
