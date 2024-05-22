@@ -568,10 +568,10 @@ $$
 \begin{itemize}
     \item 正解:\quad C
     \item 总结:\quad 质量亏损释放能量,质量增大吸收能量
-    
-    \hspace{3.3em}在计算某两种元素原子核的平均质量时,并不是简单的加和
-    
-    \hspace{3.3em}例如$B \, C$两种元素混合后其平均质量值应该介于两者之间.
+
+          \hspace{3.3em}在计算某两种元素原子核的平均质量时,并不是简单的加和
+
+          \hspace{3.3em}例如$B \, C$两种元素混合后其平均质量值应该介于两者之间.
 \end{itemize}
 
 \vspace{2em}
@@ -582,8 +582,8 @@ $$
 \begin{itemize}
     \item 正解:\quad BD
     \item 总结:\quad 比结合能越大则原子核状态更稳定,具备更低的能量状态.因此当比结合能上升时释放能量
-    
-    \hspace{3.3em}多元素的比结合能的计算类同理与平均质量
+
+          \hspace{3.3em}多元素的比结合能的计算类同理与平均质量
 \end{itemize}
 
 
@@ -708,6 +708,150 @@ $$
               S     & = S_{0} - S_{1} = (\frac{8-\pi}{4}) \vdot (\frac{m v_{0}}{qB_{2}})^{2}
           \end{align*}
 \end{itemize}
+
+\vspace{2em}
+
+\subsection{2024八中高考适应性月考(六)}
+\subsubsection{I-1:万有引力航天}
+
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.2-1.png}
+
+\begin{itemize}
+    \item 正解: A
+    \item 总结: 正确选项容易选出,仅需要判断此时的万有引力的大小,没有涉及变轨时的加减速.选项$C$的引力势能的计算是$E_{p} = - \frac{GmM}{R}$.
+          但是这里注意是两个卫星的机械能比较,无法知道质量关系(易错点)
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{I-2:势能计算}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.2-2.png}
+
+\begin{itemize}
+    \item 正解: C
+    \item 总结: 比较有新意的一道题,重点在于找到等势能的两点并连接,$\varphi_{1} \, \varphi_{2}$的大小位置,应该根据对称性计算出$\varphi = 0$
+          的两个位置的角度为$\frac{2\pi}{3} \, \frac{5\pi}{6} $,由此可以得到电场线的方向.
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{II-1:纯电阻动生电动势杆模型}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.2-3.png}
+
+\begin{itemize}
+    \item 正解: BC
+    \item 总结: 注意有两个磁场区域均在切割.$C$选项需要求得第二个匀速运动的速度大小$\frac{1}{4}v_{0}$在根据动量定理(平均值法)计算时间.
+          选项$D$使用动能定理即可
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-1:变质量多次碰撞与数列}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.2-4.png}
+
+\begin{itemize}
+    \item 正解: \begin{enumerate}[label = (\arabic*)]
+              \item $60N$
+              \item $\sqrt{2} \, m \slash s$
+              \item $E_{kn0} = \frac{1}{n} E_{k10} - \frac{2^{2} + 3^{2} + \cdots n^{2}}{n} mg\mu d$
+          \end{enumerate}
+    \item 总结: 重点在于第三问,每次质量碰撞后会发生改变,这会影响每一阶段的动量定理以及摩擦力做功
+
+          \hspace{3em}得到递推公式后变成数学问题
+
+          \begin{align*}
+                                & \text{假设第}n-1\text{次碰撞后的动能为}  E_{k(n-1)1}\text{,此时有}n\text{个物块粘黏}                      \\
+              E_{kn0}           & = E_{k(n-1)1} - nmg\mu d                                                               \\
+                                & \text{研究第}n-1\text{次碰撞过程}     \text{,物块由}n-1\text{个增大到}n\text{个}                       \\
+              nmV_{(n-1)1}      & = (n-1)mV_{(n)0}                                                                       \\
+              V_{(n-1)1}        & = \frac{n-1}{n} V_{(n-1)0}                                                             \\
+              E_{k(n-1)1}       & = \frac{1}{2} n m V_{k(n-1)1}^{2} = \frac{1}{2} n m (\frac{n-1}{n})^{2} V_{(n-1)0}^{2} \\
+              E_{k(n-1)1}       & = \frac{n-1}{n} \frac{1}{2} (n-1) m V_{(n-1)0}^{2} = \frac{n-1}{n} E_{k(n-1)0}         \\
+              E_{kn0}           & = \frac{n-1}{n} E_{k(n-1)0} - nmg \mu d \quad (\text{递推公式})                            \\
+              n E_{kn0}         & = (n-1) E_{k(n-1)0} - n^{2} mg \mu d                                                   \\
+              (n-1) E_{k(n-1)0} & = (n-2) E_{k(n-2)0} - (n-1)^{2}mg \mu d                                                \\
+                                & \cdots                                                                                 \\
+              2E_{k20}          & = E_{k10} - 2^{2} mg \mu d                                                             \\
+                                & \text{累加相消}                                                                            \\
+              n E_{kn0}         & = E_{k10} - (2^{2} + 3^{2} + \cdots n^{2}) mg \mu d                                    \\
+              E_{kn0}           & = \frac{1}{n} E_{k10} - \frac{(2^{2} + 3^{2} + \cdots n^{2})}{n} mg \mu d
+          \end{align*}
+
+\end{itemize}
+
+
+
+
+
+
+
+\subsection{2024八中高考适应性月考(七)}
+\subsubsection{I-1:霍尔元件}
+
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.3-1.png}
+
+
+\begin{itemize}
+    \item 正解: B
+    \item 总结: 霍尔元件的载流子是电子,在具体分析电荷偏转积累的时候必须考虑的是电子的移动才能正确判断极板的正负.同时涉及
+          电流的微观表达式进行解题$I = nevs$.
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{II-1:弹簧与杆环模型}
+
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.3-2.png}
+
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.3-3.png}
+
+
+\begin{itemize}
+    \item 正解: BCD
+    \item 总结: $C$选项比较难做,需要求解出在刚好发生相对滑动的时候整体向上的加速度为$g$,而在刚接触弹簧的时候加速向下也为$g$.
+          同时此时的速度为$\sqrt{gh}$,因此可以由对称性判断在刚好发生相对滑动的时候的速度为$\sqrt{gh}$.$D$选项对杆而言,回到
+          相同的加速度意味着压缩到最底端后再向上运动到之前的长度,此过程中杆的重力势能不变,弹性势能不变,甚至摩擦力在这个对称过程中
+          所做功为$0$,因此仅需要计算环所受摩擦力做的功即可(初速度加速度知道,时间为$2t$,摩擦力大小知道)
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{III-2:电容测量实验}
+
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.3-4.png}
+
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.3-5.png}
+
+\begin{itemize}
+    \item 正解: \begin{enumerate}[label = (\arabic*)]
+              \item a \,
+              \item 2.00 \, $3.5 \cross 10^{-3}$左右
+              \item 可以,纵截距的大小表示初始放电时的电流大小,此时的电压可近似当作电容稳定时的电压值,除以电流得到电阻,再减去$R_{1}$
+          \end{enumerate}
+    \item 总结: 初始状态滑动变阻器置于支路分压最大的一端以保护电路
+
+          \hspace{3em}$C = \frac{Q}{U} = \frac{I \triangle t}{U} \lra I-t\text{图 围成的面积是总电荷量}$
+
+          \hspace{3em}通过计算每个方格的电荷量大小同时数方格再除以稳定状态时的电压得到电容大小.
+    \item 扩展: 电阻的作用是为了延缓电容器充电或放电的速度.
+
+          \hspace{3em}在同一$I-t$图中充放电的电流方向不同因此位于不同象限.电压同象限
+
+          \hspace{3em}电容器的充电电路中的\textbf{短路或漏电}分析,可以先假设电容器短路,计算短路电流与纵截距比较大小,
+
+          \hspace{3em}若远小于纵截距电流值说明电容器在一边漏电一边充电,导致电流表计数稳定为一较小定植
+
+          \hspace{3em}纵截距:表示初始放电电流,电阻越小电流值越大
+
+          \hspace{3em}横截距: 表示总的充放电时间,电阻越大时间越长
+\end{itemize}
+
+
+
+
+
+
+
 
 
 
