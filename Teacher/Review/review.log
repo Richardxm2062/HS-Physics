@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  24 MAY 2024 16:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  25 MAY 2024 17:11
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -997,20 +997,13 @@ File: ./pictures/22.png Graphic file (type bmp)
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-
-
-Package rerunfilecheck Warning: File `review.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `review.out':
-(rerunfilecheck)             Before: 69BA70CA56588C7755B6CE098EBA0287;4014
-(rerunfilecheck)             After:  225717F2E1A88A4700DC5F4B0C4A2EE8;4089.
+Package rerunfilecheck Info: File `review.out' has not changed.
+(rerunfilecheck)             Checksum: 225717F2E1A88A4700DC5F4B0C4A2EE8;4089.
  ) 
 Here is how much of TeX's memory you used:
  31790 strings out of 475591
  666678 string characters out of 5773842
- 1942438 words of memory out of 5000000
+ 1943438 words of memory out of 5000000
  52561 multiletter control sequences out of 15000+600000
  569053 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
