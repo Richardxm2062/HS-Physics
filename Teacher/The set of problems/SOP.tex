@@ -592,7 +592,7 @@ $$
 \begin{itemize}
     \item 正解:\quad $P_{B} = P_{A} + \rho g (h_{3} - h_{1}) $
     \item 总结:\quad 前两管: $ P_{B} + \rho g h_{1} = P_{C}\text{,后两管} P_{C} + \rho g h_{3} = P_{0}$
-          
+
 \end{itemize}
 
 \vspace{2em}
@@ -604,6 +604,36 @@ $$
     \item 正解:\quad C
     \item 总结:\quad 外界大气压的作用应该被计算进去
 \end{itemize}
+
+\vspace{2em}
+
+\subsection{I-3: 图像计算}
+\includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-3.png}
+
+\begin{itemize}
+    \item 正解:\quad D
+    \item 总结:\quad 首先应该向左平移$y$轴,使得横坐标换算成开尔文温度.
+    
+    \hspace{3.3em}新的坐标系下,斜线$OA$满足$P = \frac{C}{V}T$斜率为定值,因此为等容过程.
+    
+    \hspace{3.3em}$T = 273k$时过$P_{0}$,此时气体体积为$22.4L$,因此$V_{A} = 22.4L$,横线$A \ra B$为等压过程,计算温度只比即可求得$V_{B}$
+\end{itemize}
+
+\vspace{2em}
+
+\subsection{I-4: 液柱动力学问题}
+\includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-4.png}
+
+\begin{itemize}
+    \item 正解:\quad B
+    \item 总结:\quad 动力学问题主要在于分析好初末态,同时列受力分析方程.
+    
+    \hspace{3.3em}初态$PS + mg = P_{0}S$,末态自由落体加速度为$g$
+    
+    \hspace{3.3em}$P^{'}S + mg - P_{0}S = ma = mg \lra P^{'} = P_{0}$液柱上方压强增大,因此液柱上方体积减小
+\end{itemize}
+
+
 
 
 
@@ -906,6 +936,49 @@ $$
               \item 考察周期性运动,每次弹回$AB$间有一新距离,且这个距离和上一次距离有一比例关系
           \end{enumerate}
 \end{itemize}
+
+\vspace{2em}
+
+\subsection{2024八中高考适应性月考(五)}
+\subsubsection{I-1: 质子数-中子数元素衰变图}
+\begin{minipage}{0.6\textwidth}
+    \includegraphics[width=\textwidth,keepaspectratio]{./pictures/3.5-1.png}
+\end{minipage}
+\hfill
+\begin{minipage}{0.35\textwidth}
+    \includegraphics[width=\textwidth,keepaspectratio]{./pictures/3.5-2.png}
+\end{minipage}
+
+\begin{itemize}
+    \item 正解: C
+    \item 总结: 横坐标为中子数;$\nuc{207}{81}{Y}$还可以进行$\beta$衰变到$\nuc{207}{82}{X}$,衰变途径$2 \cross 2 = 4$,没有特别。
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{I-2: 隐含全反射考察}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.5-3.png}
+
+\begin{itemize}
+    \item 正解: C
+    \item 总结: 实际上是在计算临界的全反射现象,要考虑到某一条的两端可以朝两个方向射出被全反射的光(二维下),同时要计算两个端点,会发现中间有空白区域无法有光,
+    画出俯视图,每个点在水面上可被观察到成圆形,沿着正方形边缘平移此圆,中间有一正方形区域为无光区域,计算面积时,将图像补充为$1m$的正方形减去中间和四个角
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{II-1: 双约束磁场周期问题}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.5-4.png}
+
+\begin{itemize}
+    \item 正解: ACD
+    \item 总结:最后一个选项不算难,要考虑到出射时的双约束,即时间约束,与几何约束.假设$OSM$($M$为出射点)构成的角
+          为$\theta$,时间被约束为$\frac{\pi - 2\theta + 2n\pi}{\omega^{'}}$,几何被约束为$r = R\tan{\theta}$,
+          再列出射时满足的路径或者弧度(粒子转过弧度为$2\theta$)等式,
+          且$ 0 \leq \theta \leq \frac{\pi}{2}$,得到$0 \leq \theta = \frac{(2n+1)\pi}{20} \leq \frac{\pi}{2} \lra 0 \leq n \leq 4.5$,
+          $n$为整数时仅有$5$个
+\end{itemize}
+
 
 
 

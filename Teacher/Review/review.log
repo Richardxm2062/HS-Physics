@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  27 MAY 2024 16:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  28 MAY 2024 09:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -948,27 +948,24 @@ File: ./pictures/5.png Graphic file (type bmp)
 <./pictures/5.png>
 File: ./pictures/6.png Graphic file (type bmp)
 <./pictures/6.png>
+ [16]
 File: ./pictures/7.png Graphic file (type bmp)
 <./pictures/7.png>
 File: ./pictures/8.png Graphic file (type bmp)
 <./pictures/8.png>
- [16]
+ [17]
 File: ./pictures/9.png Graphic file (type bmp)
 <./pictures/9.png>
- [17]
 File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
+ [18]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
 <./pictures/13.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[18]
+ [19]
 File: ./pictures/14.png Graphic file (type bmp)
 <./pictures/14.png>
 File: ./pictures/15.png Graphic file (type bmp)
@@ -977,33 +974,35 @@ File: ./pictures/16.png Graphic file (type bmp)
 <./pictures/16.png>
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+ [20]
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
-[19]
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [20]
+ [21]
 File: ./pictures/20.png Graphic file (type bmp)
 <./pictures/20.png>
- [21]
+ [22]
 File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
 
 Missing character: There is no 氘 (U+6C18) in font [lmroman12-regular]:mapping=tex-text;!
-[22]
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
- [23] (./review.aux)
+[23] [24] (./review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: 885B46366CD6D5826146EDC800491FC9;5166.
+
+
+Package rerunfilecheck Warning: File `review.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `review.out':
+(rerunfilecheck)             Before: 6D08E0E99E586C2E5C40271F42EFD714;5226
+(rerunfilecheck)             After:  B33F8481677DCB0704F65B791AC290D7;5274.
  ) 
 Here is how much of TeX's memory you used:
  31811 strings out of 475591
@@ -1014,4 +1013,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  98i,16n,120p,587b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (23 pages).
+Output written on review.pdf (24 pages).
