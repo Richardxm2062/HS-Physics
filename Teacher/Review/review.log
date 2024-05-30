@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  28 MAY 2024 12:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  30 MAY 2024 16:39
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -987,23 +987,4 @@ File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
 
 Missing character: There is no 氘 (U+6C18) in font [lmroman12-regular]:mapping=tex-text;!
-File: ./pictures/22.png Graphic file (type bmp)
-<./pictures/22.png>
-[23] [24] (./review.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2022/08/05>
- ***********
-Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: B33F8481677DCB0704F65B791AC290D7;5274.
- ) 
-Here is how much of TeX's memory you used:
- 31811 strings out of 475591
- 667106 string characters out of 5773842
- 1947438 words of memory out of 5000000
- 52580 multiletter control sequences out of 15000+600000
- 569053 words of font info for 107 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 98i,16n,120p,587b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on review.pdf (24 pages).
+File: ./pictures/22.png Graphic file (
