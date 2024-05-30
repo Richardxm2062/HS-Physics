@@ -651,6 +651,32 @@ $$
 
 \vspace{2em}
 
+\subsubsection{I-5: 斜试管液面移动与稳态分析}
+\includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-6.png}
+
+
+\begin{itemize}
+    \item 正解:\quad $D$
+    \item 总结:\quad (此题有时候瞬态与稳态的$\triangle$是混用的,变化量与变化量绝对值$\triangle$也是混用的)
+          \begin{enumerate}[label = (\arabic*)]
+              \item 判断移动使用瞬态公式(这里的$\triangle$表示的瞬态并非题干中的稳态)
+                    \begin{align*}
+                         & \triangle P_{A} = \frac{P_{A}}{T} \triangle T  \quad  \triangle P_{B} = \frac{P_{B}}{T} \triangle T \\
+                         & P_{B} > P_{A} \lra \triangle P_{B} > \triangle P_{A} \quad \text{液柱向上移动}                         \\
+                         & \text{在此向上移动的过程中,液面的上下表面的面积也在发生改变,液体的高度因为面积的增大而减小}
+                    \end{align*}
+              \item 由于整个管内是封闭的,且认为液体的体积是不会改变的,因此$\triangle V_{A} = \triangle V_{B}$  
+              \item $P_{A}^{'} + h^{'} = P_{B}^{'} \quad h^{'} \text{是由}h\text{变小} \, \triangle h < 0 \lra \triangle P_{A} > \triangle P_{B} $
+              \item 需要列受力分析方程$ F_{A}^{'} + F_{\text{斜}} + mg = F_{B}^{'}$
+              
+              由于液面的上升,液面高度下降了,压在侧面的液体体积减少,因此$\triangle F_{\text{斜}} < 0 \lra \triangle F_{A} > \triangle F_{B}$
+          \end{enumerate}
+\end{itemize}
+
+
+
+\vspace{2em}
+
 \section{高三}
 
 \subsection{2023届巴蜀中学高考适应性月考(十)}
@@ -999,18 +1025,18 @@ $$
 \includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.5-6.png}
 
 \begin{itemize}
-    \item 正解: 
-    
-    \hspace{3.3em}(1) $AB$ \hspace{2em} (2) $D$ \hspace{2em}  (3) $B$ \hspace{2em}  (4) $a_{2} - a_{1}$
+    \item 正解:
+
+          \hspace{3.3em}(1) $AB$ \hspace{2em} (2) $D$ \hspace{2em}  (3) $B$ \hspace{2em}  (4) $a_{2} - a_{1}$
     \item 总结:
-    \begin{enumerate}[label = (\arabic*)]
-        \item 跳过
-        \item 活塞最前方有一段无法被排出测量的体积$V_{0}$,$P,V$都是实际的测量值,因此满足的物态方程应该在
-        
-        体积项加上$V_{0}$.$P$的测量是准确的.$P(V+V_{0}) = C \lra V = \frac{C}{P} - V_{0}$
-        \item 漏气后$C$减少(物质的量减少了),因此斜率下降,截距不变
-        \item 添加大米后新方程满足$P(V + V_{0} - V_{\text{米}}) = C$,仅发生了截距的变化
-    \end{enumerate}
+          \begin{enumerate}[label = (\arabic*)]
+              \item 跳过
+              \item 活塞最前方有一段无法被排出测量的体积$V_{0}$,$P,V$都是实际的测量值,因此满足的物态方程应该在
+
+                    体积项加上$V_{0}$.$P$的测量是准确的.$P(V+V_{0}) = C \lra V = \frac{C}{P} - V_{0}$
+              \item 漏气后$C$减少(物质的量减少了),因此斜率下降,截距不变
+              \item 添加大米后新方程满足$P(V + V_{0} - V_{\text{米}}) = C$,仅发生了截距的变化
+          \end{enumerate}
 \end{itemize}
 
 \vspace{2em}
@@ -1021,25 +1047,25 @@ $$
     \includegraphics[width=0.65\textwidth,keepaspectratio]{./pictures/3.6-1.png}
 
     \includegraphics[width=0.55\textwidth,keepaspectratio]{./pictures/3.6-2.png}
-    
+
 \end{center}
 
 
 \begin{itemize}
     \item 正解: $(1) \frac{1}{2}L \quad (2) \frac{2}{3}L$
     \item 总结: 第二问,物块$E$的上下表面均有摩擦面,事实上水平拉力作用在$E$上,因此\textbf{摩擦力传下不传上}
-    
-    \hspace{2.6em}$D$与$E$之间不存在静摩擦力,如果存在则物块$D$水平方向上无其他力使之平衡
 
-    \item 拓展: 
-    
-    \includegraphics[width=0.55\textwidth,keepaspectratio]{./pictures/3.6-3.png}
+          \hspace{2.6em}$D$与$E$之间不存在静摩擦力,如果存在则物块$D$水平方向上无其他力使之平衡
 
-    \hspace{2.6em} 答案$ACD$(实验见素材里的力学文件夹)
-    
+    \item 拓展:
+
+          \includegraphics[width=0.55\textwidth,keepaspectratio]{./pictures/3.6-3.png}
+
+          \hspace{2.6em} 答案$ACD$(实验见素材里的力学文件夹)
+
 \end{itemize}
 
-    
+
 
 
 \end{document}

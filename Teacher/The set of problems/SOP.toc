@@ -42,9 +42,10 @@
 \contentsline {subsubsection}{\numberline {2.3.3}I-3: 图像计算}{24}{subsubsection.2.3.3}%
 \contentsline {subsubsection}{\numberline {2.3.4}I-4: 液柱动力学问题}{24}{subsubsection.2.3.4}%
 \contentsline {subsubsection}{\numberline {2.3.5}I-5: 两气挤压问题}{24}{subsubsection.2.3.5}%
-\contentsline {section}{\numberline {3}高三}{25}{section.3}%
-\contentsline {subsection}{\numberline {3.1}2023届巴蜀中学高考适应性月考(十)}{25}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}I-6:同步卫星}{25}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.6}I-5: 斜试管液面移动与稳态分析}{25}{subsubsection.2.3.6}%
+\contentsline {section}{\numberline {3}高三}{26}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2023届巴蜀中学高考适应性月考(十)}{26}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}I-6:同步卫星}{26}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}II-1:简谐波的图像问题}{26}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}II-3:动生电动势的平均值问题}{27}{subsubsection.3.1.3}%
 \contentsline {subsubsection}{\numberline {3.1.4}IV-1:均匀滴落的沙漏问题}{28}{subsubsection.3.1.4}%
