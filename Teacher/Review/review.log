@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  30 MAY 2024 16:39
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  31 MAY 2024 18:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -924,48 +924,48 @@ Package chemgreek Info: Activating mapping `fontspec' on line 9.
 \tf@toc=\write5
 \openout5 = `review.toc'.
 
- [2] [3]
+ [2] [3] [4]
 File: ./pictures/1.png Graphic file (type bmp)
 <./pictures/1.png>
- [4] [5]
+ [5] [6]
 File: ./pictures/2.png Graphic file (type bmp)
 <./pictures/2.png>
 File: ./pictures/3.png Graphic file (type bmp)
 <./pictures/3.png>
- [6] [7] [8] [9]
+ [7] [8] [9] [10]
 File: ./pictures/23.png Graphic file (type bmp)
 <./pictures/23.png>
- [10] [11]
+ [11] [12]
 File: ./pictures/24.png Graphic file (type bmp)
 <./pictures/24.png>
 File: ./pictures/25.png Graphic file (type bmp)
 <./pictures/25.png>
- [12] [13] [14]
+ [13] [14] [15]
 File: ./pictures/4.png Graphic file (type bmp)
 <./pictures/4.png>
- [15]
+ [16]
 File: ./pictures/5.png Graphic file (type bmp)
 <./pictures/5.png>
 File: ./pictures/6.png Graphic file (type bmp)
 <./pictures/6.png>
- [16]
+ [17]
 File: ./pictures/7.png Graphic file (type bmp)
 <./pictures/7.png>
 File: ./pictures/8.png Graphic file (type bmp)
 <./pictures/8.png>
- [17]
+ [18]
 File: ./pictures/9.png Graphic file (type bmp)
 <./pictures/9.png>
 File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
- [18]
+ [19]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
 <./pictures/13.png>
- [19]
+ [20]
 File: ./pictures/14.png Graphic file (type bmp)
 <./pictures/14.png>
 File: ./pictures/15.png Graphic file (type bmp)
@@ -974,36 +974,40 @@ File: ./pictures/16.png Graphic file (type bmp)
 <./pictures/16.png>
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
- [20]
+ [21]
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [21]
+ [22]
 File: ./pictures/20.png Graphic file (type bmp)
 <./pictures/20.png>
- [22]
+ [23]
 File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
 
 Missing character: There is no 氘 (U+6C18) in font [lmroman12-regular]:mapping=tex-text;!
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
-[23] [24] (./review.aux)
+[24] [25] (./review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: B33F8481677DCB0704F65B791AC290D7;5274.
+(rerunfilecheck)             Checksum: 94415A050B033493B4BB9A466348C3F7;5350.
  ) 
 Here is how much of TeX's memory you used:
- 31811 strings out of 475591
- 667106 string characters out of 5773842
- 1947438 words of memory out of 5000000
- 52580 multiletter control sequences out of 15000+600000
- 569053 words of font info for 107 fonts, out of 8000000 for 9000
+ 31819 strings out of 475591
+ 667319 string characters out of 5773842
+ 1946438 words of memory out of 5000000
+ 52584 multiletter control sequences out of 15000+600000
+ 569085 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,16n,120p,587b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,16n,120p,587b,753s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (24 pages).
+Output written on review.pdf (25 pages).
