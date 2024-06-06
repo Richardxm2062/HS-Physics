@@ -630,14 +630,14 @@ $$
 
 \vspace{2em}
 
-\subsubsection{I-5: 两气挤压问题}
+\subsubsection{I-5: 等体两气挤压问题}
 \includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-5.png}
 
 \begin{itemize}
     \item 正解:\quad 向上移动
     \item 总结:\quad 三个状态参量中,真正使得液柱移动的物理量是$P$,在查理定律中$\frac{P}{T} = \frac{C}{V}$
 
-          \hspace{3.3em}升温瞬间可视为等体过程,因此函数为过原点的直线可得$\frac{P}{T} = \frac{\triangle P}{\triangle T}$
+          \hspace{3.3em}升温瞬间可视为\textbf{等体}过程,因此函数为过原点的直线可得$\frac{P}{T} = \frac{\triangle P}{\triangle T}$
 
           \hspace{3.3em}$ \triangle P_{1} = \frac{P_{1}}{T_{1}} \triangle T = \frac{C}{V_{1}} \triangle T $
 
@@ -646,29 +646,52 @@ $$
 
 \vspace{2em}
 
-\subsubsection{I-5: 斜试管液面移动与稳态分析}
+\subsubsection{I-5: 斜试管等体变化液面移动与稳态分析}
 \includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-6.png}
 
 
 \begin{itemize}
     \item 正解:\quad $D$
     \item 总结:\quad (此题有时候瞬态与稳态的$\triangle$是混用的,变化量与变化量绝对值$\triangle$也是混用的)
-          \begin{enumerate}[label = (\arabic*)]
-              \item 判断移动使用瞬态公式(这里的$\triangle$表示的瞬态并非题干中的稳态)
-                    \begin{align*}
-                         & \triangle P_{A} = \frac{P_{A}}{T} \triangle T  \quad  \triangle P_{B} = \frac{P_{B}}{T} \triangle T \\
-                         & P_{B} > P_{A} \lra \triangle P_{B} > \triangle P_{A} \quad \text{液柱向上移动}                            \\
-                         & \text{在此向上移动的过程中,液面的上下表面的面积也在发生改变,液体的高度因为面积的增大而减小}
-                    \end{align*}
-              \item 由于整个管内是封闭的,且认为液体的体积是不会改变的,因此$\triangle V_{A} = \triangle V_{B}$
-              \item $P_{A}^{'} + h^{'} = P_{B}^{'} \quad h^{'} \text{是由}h\text{变小} \, \triangle h < 0 \lra \triangle P_{A} > \triangle P_{B} $
-              \item 需要列受力分析方程$ F_{A}^{'} + F_{\text{斜}} + mg = F_{B}^{'}$
 
-                    由于液面的上升,液面高度下降了,压在侧面的液体体积减少,因此$\triangle F_{\text{斜}} < 0 \lra \triangle F_{A} > \triangle F_{B}$
-          \end{enumerate}
+          \hspace{2.5em}\begin{minipage}{0.88\textwidth}
+              \begin{enumerate}[label = (\arabic*)]
+                  \item 判断移动使用瞬态公式(这里的$\triangle$表示的瞬态并非题干中的稳态)
+                        \begin{align*}
+                             & \triangle P_{A} = \frac{P_{A}}{T} \triangle T  \quad  \triangle P_{B} = \frac{P_{B}}{T} \triangle T \\
+                             & P_{B} > P_{A} \lra \triangle P_{B} > \triangle P_{A} \quad \text{液柱向上移动}                            \\
+                             & \text{向上移动的过程中,液面上下表面的面积也在发生改变,液体的高度因为面积的增大而减小}
+                        \end{align*}
+                  \item 由于整个管内是封闭的,且认为液体的体积是不会改变的,因此$\triangle V_{A} = \triangle V_{B}$
+                  \item $P_{A}^{'} + h^{'} = P_{B}^{'} \quad h^{'} \text{是由}h\text{变小} \, \triangle h < 0 \lra \triangle P_{A} > \triangle P_{B} $
+                  \item 需要列受力分析方程$ F_{A}^{'} + F_{\text{斜}} + mg = F_{B}^{'}$
+
+                        由于液面的上升,液面高度下降了,压在侧面的液体体积减少,因此$\triangle F_{\text{斜}} < 0 \lra \triangle F_{A} > \triangle F_{B}$
+              \end{enumerate}
+          \end{minipage}
 \end{itemize}
 
+\vspace{2em}
 
+\subsubsection{I-6: 等压液面移动问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-7.png}
+
+\begin{itemize}
+    \item 正解:\quad $B$
+    \item 总结:\quad
+
+          \hspace{3em}\begin{minipage}{0.88\textwidth}
+              此题不能使用等体过程的$\frac{\triangle P}{\triangle T}$进行分析
+
+              两试管各自独立,区别于等体两气挤压问题(作用对象为同一个液柱)
+
+              但两试管均连通大气$P_{0} + h_{1} = P_{A} \quad P_{0} + h_{2} = P_{B}$
+
+              因此可视作等压过程,同有过原点的直线$V = \frac{1}{P} T \lra \frac{V}{T} = \frac{\triangle V}{\triangle T}$
+
+              $V_{A} = \frac{\triangle V_{A}}{\triangle T} T \quad V_{A} > V_{B} (\text{两者均为负数,液柱下移})\lra \triangle V_{A} > \triangle V_{B}$ 
+          \end{minipage}
+\end{itemize}
 
 \vspace{2em}
 
