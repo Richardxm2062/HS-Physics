@@ -1377,11 +1377,17 @@ $$
                         m(v_{y_3} - v_{y_{2}})                       & = -(kv_{y_{2}} + qB_{1}v_{x_{2}}) \triangle t                                         \\
                         \cdots  \cdots \cdots                        & \cdots  \cdots \cdots \cdots \cdots                                                   \\
                         m(v_{y_n} - v_{y_{n-1}})                     & = -(kv_{y_{n-1}} + qB_{1}v_{x_{n-1}}) \triangle t                                     \\
-                        \sum_{n=2}^{+\infty} m \triangle v_{y_{n}}   & = - m v = - (\sum_{n=2}^{+\infty} k v_{y_{n-1}} + qB_{1} v_{x_{n-1}}) \triangle t     \\
+                        \sum_{n=2}^{+\infty} m \triangle v_{y_{n}}   & = - m v = - \sum_{n=2}^{+\infty} (k v_{y_{n-1}} + qB_{1} v_{x_{n-1}}) \triangle t     \\
                         \sum_{n=2}^{+\infty} v_{y_{n-1}} \triangle t & = 0 \quad \sum_{n=2}^{+\infty} v_{x_{n-1}} \triangle t = x \quad \text{这也是不需要运动时间的原因} \\
                         mv                                           & = qB_{1}x \lra x = \frac{mv}{qB_{1}} = d
                     \end{align*}
+                
+                \item 水平方向上: $\, \sum_{n=1}^{+\infty} qky_{n} v_{y_{n}} \triangle t = mv$
+                
+                      $ v_{y_{n}} \triangle t = \triangle x \lra qk \sum_{n=1}^{+\infty} y_{n} \triangle x \, \text{为}y=kx\text{纵坐标为}d\text{时与}x\text{轴围城的面积} \, \frac{d^{2}}{2}
+                       \lra v = \frac{qkd^{2}}{2m} $
           \end{enumerate}
+        
 \end{itemize}
 
 
