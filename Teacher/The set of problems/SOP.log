@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  8 JUN 2024 18:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  12 JUN 2024 19:09
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1141,19 +1141,22 @@ File: ./pictures/3.11-3.png Graphic file (type bmp)
  [50]
 File: ./pictures/3.11-4.png Graphic file (type bmp)
 <./pictures/3.11-4.png>
- [51] [52] (./SOP.aux)
+ [51]
+File: ./pictures/3.11-5.png Graphic file (type bmp)
+<./pictures/3.11-5.png>
+ [52] (./SOP.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `SOP.out' has not changed.
-(rerunfilecheck)             Checksum: 706F1F5F1EB853E0866BC0EF045D8EDE;14711.
+(rerunfilecheck)             Checksum: D802BFD63D06747475F42506A3FB5A80;14894.
  ) 
 Here is how much of TeX's memory you used:
- 32275 strings out of 475591
- 679499 string characters out of 5773842
+ 32284 strings out of 475591
+ 679725 string characters out of 5773842
  1955438 words of memory out of 5000000
- 53001 multiletter control sequences out of 15000+600000
+ 53009 multiletter control sequences out of 15000+600000
  566940 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,15n,120p,599b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s

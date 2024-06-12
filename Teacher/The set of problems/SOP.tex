@@ -1245,7 +1245,11 @@ $$
 
 \begin{itemize}
     \item 正解:\quad $D$
-    \item 总结:通过计算角速度即可,单位为\textbf{年}时,需要将计算出的时间除以地球周期
+    \item 总结:\quad 通过计算角速度即可,单位为\textbf{年}时,需要将计算出的时间除以地球周期
+
+          \hspace{3.2em}数学关系满足角速度差$\triangle \omega$乘以$\triangle t = $  行星多转过的弧度
+
+          \hspace{3.2em}$D$选项的另一个结果为分子部分为$(\pi - 2 \theta) \sqrt{\sin^3{\theta}}$
 \end{itemize}
 
 \vspace{2em}
@@ -1332,12 +1336,12 @@ $$
                   \item[] 在此选项中,仅有安培力做功,而安培力做功实际是电容的电场能增加.
                   \item[] 所以在不考虑导体棒的电阻情况下
                   \item[] 能量转化角度就是,机械能损失变为电容器的电场能,其大小为克服安培力做功大小
-                  \item 已经算初加速度,隔离分析即可
+                  \item 已经算初加速度,隔离分析$M$即可(隔离分析$m$是不可行的)
                   \item 此问在电阻类的计算通常是$q = \overline{I} \triangle t$(全过程方程)
                   \item[] 然而显然在此问电流是无法用欧姆定律表示的,所以使用瞬态方程
-                  \item $I = \frac{\triangle q}{\triangle t} \lra I \triangle t = CBd \triangle v$
+                      $I = \frac{\triangle q}{\triangle t} \lra I \triangle t = CBd \triangle v$
                   \item[] $\triangle v$通过确定的下降高度和匀加速运动计算
-                \end{enumerate}
+              \end{enumerate}
           \end{minipage}
 \end{itemize}
 
@@ -1352,6 +1356,36 @@ $$
 
           \hspace{3.2em}热力学第三定律$Q = \triangle \varepsilon + W$,其中规定系统对外做功$W>0$
 \end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-2: 洛伦兹力分量动量定理}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.11-5.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, v_{1} = \frac{qdB_{1}}{m} \hspace{1em} v_{2} = \frac{qd(B_{1}+B_{2})}{m} \quad (2) \, (d,0) \quad (3) \, v = \frac{qkd^{2}}{2m}$
+    \item 总结:\quad
+          \begin{enumerate}[label = (\arabic*)]
+              \item 不难,找到相似三角形或者其他几何关系即可
+              \item 本质上由题目给的条件知道了竖直方向上的位移$y = 0$
+
+                    同时由于\textbf{周期大小仅与磁场与荷质比有关},运动时间也是已知的为$\frac{3}{4}T$(不知道也能做)
+
+                    在竖直方向上使用动量定理,并认为力在一个$\triangle t$内维持不变
+                    \begin{align*}
+                        m(v_{y_2} - v_{y_{1}})                       & = -(kv_{y_{1}} + qB_{1}v_{x_{1}}) \triangle t                                         \\
+                        m(v_{y_3} - v_{y_{2}})                       & = -(kv_{y_{2}} + qB_{1}v_{x_{2}}) \triangle t                                         \\
+                        \cdots  \cdots \cdots                        & \cdots  \cdots \cdots \cdots \cdots                                                   \\
+                        m(v_{y_n} - v_{y_{n-1}})                     & = -(kv_{y_{n-1}} + qB_{1}v_{x_{n-1}}) \triangle t                                     \\
+                        \sum_{n=2}^{+\infty} m \triangle v_{y_{n}}   & = - m v = - (\sum_{n=2}^{+\infty} k v_{y_{n-1}} + qB_{1} v_{x_{n-1}}) \triangle t     \\
+                        \sum_{n=2}^{+\infty} v_{y_{n-1}} \triangle t & = 0 \quad \sum_{n=2}^{+\infty} v_{x_{n-1}} \triangle t = x \quad \text{这也是不需要运动时间的原因} \\
+                        mv                                           & = qB_{1}x \lra x = \frac{mv}{qB_{1}} = d
+                    \end{align*}
+          \end{enumerate}
+\end{itemize}
+
+
+
 
 
 \end{document}
