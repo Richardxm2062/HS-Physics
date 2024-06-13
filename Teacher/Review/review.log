@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  31 MAY 2024 18:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  13 JUN 2024 16:08
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -994,10 +994,6 @@ File: ./pictures/22.png Graphic file (type bmp)
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `review.out' has not changed.
 (rerunfilecheck)             Checksum: 94415A050B033493B4BB9A466348C3F7;5350.
  ) 

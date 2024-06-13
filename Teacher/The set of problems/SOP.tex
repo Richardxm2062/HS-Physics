@@ -725,8 +725,53 @@ $$
     \item 总结:\quad
 
           \hspace{3em}\begin{minipage}{0.88\textwidth}
+              \begin{enumerate}[label = (\Alph*)]
+                  \item 通常当多个变量发生变化,优先假设$V$不变,因此瞬态满足$\frac{P}{T} = \frac{\triangle P}{\triangle T} = C$
 
+                        $P = P_{0} + h$方程右边暂时不变,环境温度上升$\triangle T > 0 \lra \triangle P > 0$,压强$P$增大
+
+                        虽然体积$V$减小导致$h$又下降,但稳态总有$P$变大,因此需要$h$变大,$A$正确
+                  \item $P_{0}$上升,$P$上升,等温条件下$V$下降,因此试管左边的体积下降导致$h$变小
+                  \item 可以从两个角度思考,只要持续往里加水银,必然会使得液面高$h$上升
+
+                        另一个角度,瞬态时$h$变大,$P$变大,$V$减小,末态方程$P^{'} = P_{0} + h^{'}$
+
+                        结果上必然有$P^{'}>P$,因此$h$变大
+                  \item 自由落体需要列动力学方程,$P_{0}S + mg - P^{'}S = mg \lra P^{'} = P_{0}$压强变小,体积变大,$h$上升
+              \end{enumerate}
           \end{minipage}
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{I-9: 充气问题}
+\includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-10.png}
+
+\begin{itemize}
+    \item 正解:\quad $C$
+    \item 总结:\quad
+
+          \hspace{3.2em}\begin{minipage}{0.88\textwidth}
+              \begin{align*}
+                                        & \text{由于是限容问题,本质上是求}:\triangle n \llra \triangle V                                           \\
+                  P_{0}V                & = n_{1}RT                                                                                   \\
+                  PV                    & = n_{2}RT \quad \lra \quad (P-P_{0})V = (n_{2} - n_{1})RT                                   \\
+                  P_{0} \triangle V     & = \triangle n RT = (n_{2} - n_{1})RT  \quad \lra \quad \triangle V = (\frac{P}{P_{0}} - 1)V \\
+                                        & \text{或者使用一个方程要求: 原状态 \, + \, 打入气 = 末状态}                                                    \\
+                  P_{0} V + P_{0} V_{0} & = PV \quad \lra \quad \triangle V = (\frac{P}{P_{0}} - 1)V
+              \end{align*}
+          \end{minipage}
+
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-1: 放气问题}
+\includegraphics[width = 0.55\textwidth,keepaspectratio]{./pictures/2.3-11.png}
+
+\begin{itemize}
+    \item 正解:\quad $25$次
+    \item 总结:\quad 主要在于排出气体的压强与水压+大气压平衡,是恒压为$1 \, atm + P_{\text{水}}$,其中$P_{\text{水}} = 15 \, atm$
 \end{itemize}
 
 
@@ -1303,7 +1348,27 @@ $$
           \hspace{3.2em}由此可知在圆周运动中角速度方向应该为顺时针,$y = 20 sin(-\pi t + \pi) \, cm$
 \end{itemize}
 
+\vspace{2em}
 
+\subsubsection{I-2: 双球杆连接的运动过程分析}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.11-6.png}
+
+\begin{itemize}
+    \item 正解:\quad C
+    \item 总结:\quad 拒绝脑内分析(认为杆与墙壁成$45^\circ$时,$A$达到最大速度).
+    
+    \hspace{3.2em}必须求解$v_{A}$的具体表达式以求解最值
+
+    \hspace{3.2em}$v_{A}^{2} = 2gl (\cos^{2}{\theta} - \cos^{3}{\theta}) \quad$ ($\theta$为$B$与墙面的夹角),求此函数的最值设$\cos{\theta} = x \in [0,1]$,求导计算
+
+    \hspace{3.2em}事实上杆(轻杆)存在一个内力为$0$的状态,此时$v_{A}$的速度达到最大
+
+    \hspace{3.2em}求墙壁对$B$的冲量等价于求最后小球$A$获得的水平动量(内部相互作用不影响水平总动量)
+
+    \hspace{3.2em}轻杆的力的方向分析仅允许沿杆方向
+
+    \hspace{3.2em}更细致的讨论,见教学研究论文文件夹下的「双球轻杆模型.pdf」(强烈推荐)
+\end{itemize}
 
 \vspace{2em}
 
@@ -1381,13 +1446,13 @@ $$
                         \sum_{n=2}^{+\infty} v_{y_{n-1}} \triangle t & = 0 \quad \sum_{n=2}^{+\infty} v_{x_{n-1}} \triangle t = x \quad \text{这也是不需要运动时间的原因} \\
                         mv                                           & = qB_{1}x \lra x = \frac{mv}{qB_{1}} = d
                     \end{align*}
-                
-                \item 水平方向上: $\, \sum_{n=1}^{+\infty} qky_{n} v_{y_{n}} \triangle t = mv$
-                
-                      $ v_{y_{n}} \triangle t = \triangle x \lra qk \sum_{n=1}^{+\infty} y_{n} \triangle x \, \text{为}y=kx\text{纵坐标为}d\text{时与}x\text{轴围城的面积} \, \frac{d^{2}}{2}
-                       \lra v = \frac{qkd^{2}}{2m} $
+
+              \item 水平方向上: $\, \sum_{n=1}^{+\infty} qky_{n} v_{y_{n}} \triangle t = mv$
+
+                    $ v_{y_{n}} \triangle t = \triangle x \lra qk \sum_{n=1}^{+\infty} y_{n} \triangle x \, \text{为}y=kx\text{纵坐标为}d\text{时与}x\text{轴围城的面积} \, \frac{d^{2}}{2}
+                        \lra v = \frac{qkd^{2}}{2m} $
           \end{enumerate}
-        
+
 \end{itemize}
 
 
