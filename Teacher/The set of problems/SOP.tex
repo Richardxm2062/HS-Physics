@@ -753,7 +753,7 @@ $$
 
           \hspace{3.2em}\begin{minipage}{0.88\textwidth}
               \begin{align*}
-                                        & \text{由于是限容问题,本质上是求}:\triangle n \llra \triangle V                                           \\
+                                        & \text{由于是限容问题,本质上是求}:\triangle n \llra \triangle V                                          \\
                   P_{0}V                & = n_{1}RT                                                                                   \\
                   PV                    & = n_{2}RT \quad \lra \quad (P-P_{0})V = (n_{2} - n_{1})RT                                   \\
                   P_{0} \triangle V     & = \triangle n RT = (n_{2} - n_{1})RT  \quad \lra \quad \triangle V = (\frac{P}{P_{0}} - 1)V \\
@@ -792,8 +792,8 @@ $$
 \begin{itemize}
     \item 正解:\quad $(1) \, \frac{1}{2}l$  $(2) \, \frac{P_{0}S + mg}{P_{0}S + ma} l$
     \item 总结:\quad $(2)$问在于水平放置的刚开始左端气压为初始竖直状态下的气压,稳定时液柱向右以加速度$a$运动
-    
-    \hspace{3.2em}$PS - P_{0}S = ma \quad$ (水平后液柱重力竖直向下,对分析过程并不产生作用)
+
+          \hspace{3.2em}$PS - P_{0}S = ma \quad$ (水平后液柱重力竖直向下,对分析过程并不产生作用)
 \end{itemize}
 
 \vspace{2em}
@@ -833,16 +833,15 @@ $$
 \begin{itemize}
     \item 正解:\quad $(1) \, 24 \, cm$  $(2) \, 23.5 \, cm $
     \item 总结:\quad $(1)$问注意在分析平衡方程时,水平的液柱并不产生作用,只需要竖直部分
-    
-    \hspace{3.2em}$(2)$问应当注意的时需要分析液柱是否被完全挤压出竖直部分,当为完全挤压时$P = P_{0}$
 
-    \hspace{3.2em}具体分析方法为假设刚好完全挤压出去,得到此时所需要的压强$P_{x}$,比较和刚竖直时的压强
+          \hspace{3.2em}$(2)$问应当注意的时需要分析液柱是否被完全挤压出竖直部分,当为完全挤压时$P = P_{0}$
 
-    \hspace{3.2em}若$P_{x}$较小则将继续挤压,那么$P = P_{0}$.否则只挤出一部分,竖直方向仍有水银柱
+          \hspace{3.2em}具体分析方法为假设刚好完全挤压出去,得到此时所需要的压强$P_{x}$,比较和刚竖直时的压强
+
+          \hspace{3.2em}若$P_{x}$较小则将继续挤压,那么$P = P_{0}$.否则只挤出一部分,竖直方向仍有水银柱
 \end{itemize}
 
 \vspace{2em}
-
 
 \subsubsection{IV-7: L型试管分类讨论问题2}
 \includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-18.png}
@@ -850,8 +849,54 @@ $$
 \begin{itemize}
     \item 正解:\quad $(1) \, 516 \, k$  $(2) \, 52.6 \, cm $
     \item 总结:\quad $(2)$问的特殊点就在于,液柱完全被挤压出竖直方向($P_{x} = 80 \, cmHg < 96 \, cmHg$)
-    
-    \hspace{3.2em}所以被封空气柱的压强应当$76 \, cmHg$计算
+
+          \hspace{3.2em}所以被封空气柱的压强应当$76 \, cmHg$计算
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-8: 挤压液体临界情况分析}
+如图所示,一竖直放置且开口向上的玻璃管,长度为$L = 94 \, cm$,管里一段长为$h = 24 \, cm$的水银柱封闭
+
+一段理想气体,气体的长度为$l = 50 \, cm$,环境温度为$27 ^{\circ} C$,大气压强为$76 \, cmHg$,求:
+
+$(1)$当水银柱恰好上升到玻璃管顶部,此时气体温度为多少？
+
+$(2)$要使水银全部溢出，则气体温度为多少？
+
+\vspace{1em}
+
+\begin{minipage}{0.4\textwidth}
+    \includegraphics[width = 0.16\textwidth,keepaspectratio]{./pictures/2.3-19.png}
+\end{minipage}
+\hfill
+\begin{minipage}{0.5\textwidth}
+    \includegraphics[width = 0.8\textwidth,keepaspectratio]{./pictures/2.3-20.png}
+\end{minipage}
+
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, 420 \, k$  $(2) \, 433.5 \, k $
+    \item 总结:\quad $(2)$问的临界情况比较特殊,液体是连续不断的被挤压出试管
+
+          \hspace{3.2em}所以在此过程中液体的质量在不断减少,所需要的压强也变少了
+
+          \hspace{3.2em}所以达到某个临界温度时,停止升温,依靠自身的压强可以完成后续的挤压过程
+
+          \hspace{3.2em}因此需要假设所剩液柱高度为$x \, cm$时,后续依靠自身压强
+
+          \hspace{3.2em}$\frac{100 \, S \, 50 }{300} = \frac{(76+x)(94-x) \, S}{T} \quad \lra \quad T = \frac{3}{50} (76+x)(94-x)$
+
+          \hspace{3.2em}该函数在$x \in [0,24] $区间上的图像如右上所示.物理过程$x$逐渐减小(函数从右向左看).
+
+          \hspace{3.2em}在此区间抛物线函数上,取到最大温度$T = 433.5k$后(对应$x=9cm$)
+
+          \hspace{3.2em}则可靠当前压强继续挤压液体溢出.若是直接使用完全溢出后连通大气的压强计算
+
+          \hspace{3.2em}得到的温度$T = 428.64 \, k$恰是越过了抛物线顶端向左的一个值
+
+          \hspace{3.2em}所以符合物理实际过程的温度是顶端温度$433.5 \, k$
+
 \end{itemize}
 
 \vspace{2em}
@@ -1435,18 +1480,18 @@ $$
 \begin{itemize}
     \item 正解:\quad C
     \item 总结:\quad 拒绝脑内分析(认为杆与墙壁成$45^\circ$时,$A$达到最大速度).
-    
-    \hspace{3.2em}必须求解$v_{A}$的具体表达式以求解最值
 
-    \hspace{3.2em}$v_{A}^{2} = 2gl (\cos^{2}{\theta} - \cos^{3}{\theta}) \quad$ ($\theta$为$B$与墙面的夹角),求此函数的最值设$\cos{\theta} = x \in [0,1]$,求导计算
+          \hspace{3.2em}必须求解$v_{A}$的具体表达式以求解最值
 
-    \hspace{3.2em}事实上杆(轻杆)存在一个内力为$0$的状态,此时$v_{A}$的速度达到最大
+          \hspace{3.2em}$v_{A}^{2} = 2gl (\cos^{2}{\theta} - \cos^{3}{\theta}) \quad$ ($\theta$为$B$与墙面的夹角),求此函数的最值设$\cos{\theta} = x \in [0,1]$,求导计算
 
-    \hspace{3.2em}求墙壁对$B$的冲量等价于求最后小球$A$获得的水平动量(内部相互作用不影响水平总动量)
+          \hspace{3.2em}事实上杆(轻杆)存在一个内力为$0$的状态,此时$v_{A}$的速度达到最大
 
-    \hspace{3.2em}轻杆的力的方向分析仅允许沿杆方向
+          \hspace{3.2em}求墙壁对$B$的冲量等价于求最后小球$A$获得的水平动量(内部相互作用不影响水平总动量)
 
-    \hspace{3.2em}更细致的讨论,见教学研究论文文件夹下的「双球轻杆模型.pdf」(强烈推荐)
+          \hspace{3.2em}轻杆的力的方向分析仅允许沿杆方向
+
+          \hspace{3.2em}更细致的讨论,见教学研究论文文件夹下的「双球轻杆模型.pdf」(强烈推荐)
 \end{itemize}
 
 \vspace{2em}

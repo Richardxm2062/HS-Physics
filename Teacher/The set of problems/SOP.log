@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  14 JUN 2024 17:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  14 JUN 2024 22:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1064,125 +1064,60 @@ File: ./pictures/2.3-17.png Graphic file (type bmp)
  [31]
 File: ./pictures/2.3-18.png Graphic file (type bmp)
 <./pictures/2.3-18.png>
+File: ./pictures/2.3-19.png Graphic file (type bmp)
+<./pictures/2.3-19.png>
+File: ./pictures/2.3-20.png Graphic file (type bmp)
+<./pictures/2.3-20.png>
+ [32]
 File: ./pictures/3.1-1.png Graphic file (type bmp)
 <./pictures/3.1-1.png>
- [32]
+ [33]
 File: ./pictures/3.1-2.png Graphic file (type bmp)
 <./pictures/3.1-2.png>
- [33]
 File: ./pictures/3.1-3.png Graphic file (type bmp)
 <./pictures/3.1-3.png>
  [34]
 File: ./pictures/3.1-4.png Graphic file (type bmp)
 <./pictures/3.1-4.png>
+ [35]
 File: ./pictures/3.1-5.png Graphic file (type bmp)
 <./pictures/3.1-5.png>
 File: ./pictures/3.1-6.png Graphic file (type bmp)
 <./pictures/3.1-6.png>
- [35]
+ [36]
 File: ./pictures/3.1-7.png Graphic file (type bmp)
 <./pictures/3.1-7.png>
- [36]
+ [37]
 File: ./pictures/3.2-1.png Graphic file (type bmp)
 <./pictures/3.2-1.png>
 File: ./pictures/3.2-2.png Graphic file (type bmp)
 <./pictures/3.2-2.png>
 File: ./pictures/3.2-3.png Graphic file (type bmp)
 <./pictures/3.2-3.png>
- [37]
+ [38]
 File: ./pictures/3.2-4.png Graphic file (type bmp)
 <./pictures/3.2-4.png>
- [38]
+ [39]
 File: ./pictures/3.3-1.png Graphic file (type bmp)
 <./pictures/3.3-1.png>
 File: ./pictures/3.3-2.png Graphic file (type bmp)
 <./pictures/3.3-2.png>
- [39]
+ [40]
 File: ./pictures/3.3-4.png Graphic file (type bmp)
 <./pictures/3.3-4.png>
- [40]
+ [41]
 File: ./pictures/3.4-1.png Graphic file (type bmp)
 <./pictures/3.4-1.png>
 File: ./pictures/3.4-2.png Graphic file (type bmp)
 <./pictures/3.4-2.png>
- [41]
+ [42]
 File: ./pictures/3.4-3.png Graphic file (type bmp)
 <./pictures/3.4-3.png>
- [42]
+ [43]
 File: ./pictures/3.5-1.png Graphic file (type bmp)
 <./pictures/3.5-1.png>
 File: ./pictures/3.5-2.png Graphic file (type bmp)
 <./pictures/3.5-2.png>
- [43]
+ [44]
 File: ./pictures/3.5-3.png Graphic file (type bmp)
 <./pictures/3.5-3.png>
-File: ./pictures/3.5-4.png Graphic file (type bmp)
-<./pictures/3.5-4.png>
-File: ./pictures/3.5-5.png Graphic file (type bmp)
-<./pictures/3.5-5.png>
- [44]
-File: ./pictures/3.6-1.png Graphic file (type bmp)
-<./pictures/3.6-1.png>
- [45]
-File: ./pictures/3.6-3.png Graphic file (type bmp)
-<./pictures/3.6-3.png>
-File: ./pictures/3.7-1.png Graphic file (type bmp)
-<./pictures/3.7-1.png>
- [46]
-File: ./pictures/3.7-3.png Graphic file (type bmp)
-<./pictures/3.7-3.png>
-File: ./pictures/3.7-4.png Graphic file (type bmp)
-<./pictures/3.7-4.png>
- [47]
-File: ./pictures/3.7-2.png Graphic file (type bmp)
-<./pictures/3.7-2.png>
-File: ./pictures/3.8-1.png Graphic file (type bmp)
-<./pictures/3.8-1.png>
-File: ./pictures/3.8-2.png Graphic file (type bmp)
-<./pictures/3.8-2.png>
- [48]
-File: ./pictures/3.9-1.png Graphic file (type bmp)
-<./pictures/3.9-1.png>
- [49]
-File: ./pictures/3.10-1.png Graphic file (type bmp)
-<./pictures/3.10-1.png>
- [50]
-File: ./pictures/3.10-2.png Graphic file (type bmp)
-<./pictures/3.10-2.png>
- [51]
-File: ./pictures/3.10-2.png Graphic file (type bmp)
-<./pictures/3.10-2.png>
- [52]
-File: ./pictures/3.11-1.png Graphic file (type bmp)
-<./pictures/3.11-1.png>
- [53]
-File: ./pictures/3.11-6.png Graphic file (type bmp)
-<./pictures/3.11-6.png>
- [54]
-File: ./pictures/3.11-2.png Graphic file (type bmp)
-<./pictures/3.11-2.png>
-File: ./pictures/3.11-3.png Graphic file (type bmp)
-<./pictures/3.11-3.png>
- [55]
-File: ./pictures/3.11-4.png Graphic file (type bmp)
-<./pictures/3.11-4.png>
-File: ./pictures/3.11-5.png Graphic file (type bmp)
-<./pictures/3.11-5.png>
- [56] [57] (./SOP.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2022/08/05>
- ***********
-Package rerunfilecheck Info: File `SOP.out' has not changed.
-(rerunfilecheck)             Checksum: 1873A4295778523966DFD9425F1E9130;16545.
- ) 
-Here is how much of TeX's memory you used:
- 32374 strings out of 475591
- 681985 string characters out of 5773842
- 1955438 words of memory out of 5000000
- 53089 multiletter control sequences out of 15000+600000
- 566940 words of font info for 93 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 98i,15n,120p,599b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on SOP.pdf (57 pages).
