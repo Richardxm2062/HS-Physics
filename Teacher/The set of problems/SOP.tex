@@ -889,6 +889,8 @@ $(2)$要使水银全部溢出，则气体温度为多少？
 
           \hspace{3.2em}该函数在$x \in [0,24] $区间上的图像如右上所示.物理过程$x$逐渐减小(函数从右向左看).
 
+          \hspace{3.2em}$x$从大变小的过程中,需要的温度逐渐上升.
+
           \hspace{3.2em}在此区间抛物线函数上,取到最大温度$T = 433.5k$后(对应$x=9cm$)
 
           \hspace{3.2em}则可靠当前压强继续挤压液体溢出.若是直接使用完全溢出后连通大气的压强计算
@@ -897,6 +899,96 @@ $(2)$要使水银全部溢出，则气体温度为多少？
 
           \hspace{3.2em}所以符合物理实际过程的温度是顶端温度$433.5 \, k$
 
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-9: 双气缸平衡问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-21.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, 4 \, T$  $(2) \, 5:4 $
+    \item 总结:\quad 隐含的条件是,在平衡状态下活塞是无法移动的,因此两边气体的压强必然相等
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-10: 双气缸平衡问题2}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-22.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, \frac{5}{3} \, P_{0}$  $(2) \, \frac{4}{3} T_{0} $
+    \item 总结:\quad 此题的对于可导热气缸$A$而言,其温度始终与环境温度一致
+    
+    \hspace{3.2em} 注意活塞和气缸$B$是不导热的,所以打开阀门后$B$的温度发生变化
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-11: 双活塞平衡问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-23.png}
+
+\begin{itemize}
+    \item 正解:\quad $a$活塞向上移动$\frac{1}{12} \, L \quad b$活塞向上移动$\frac{1}{4} \, L$
+    \item 总结:\quad 此题注意活塞与大气相连,因此平衡态三气恒压为大气压.
+    
+    \hspace{3.2em}且求出$a$活塞向上移动$\frac{1}{12} \, L $后,在求$b$活塞时得出$\frac{2}{3} \, L \quad $变为$\frac{1}{2} \, L $ 
+
+    \hspace{3.2em}活塞$B$实际的移动距离需要考虑活塞$a$的移动距离$ \frac{2}{3} \, L + \frac{1}{12} \, L - x = \frac{1}{2} \, L \quad \lra x = \frac{1}{4} \, L$
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-12: 双活塞漏气问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-24.png}
+
+\begin{itemize}
+    \item 正解:\quad $\triangle L = \frac{V}{S}(2 - \frac{(P_{0} + \frac{3mg}{S})}{P_{0} + \frac{mg}{S}})$
+    \item 总结:\quad 活塞$B$漏气会使得下方气体(气压更大)向上充气.但是整体的而言气体都在容器内
+    
+    \hspace{3.2em}所以本质此问题是一个充气问题,需要用到涉及物质的量的方程  
+    
+    \hspace{3.2em}$\frac{(P_{0} + \frac{mg}{S}) V}{T_{0}} + \frac{(P_{0} + \frac{2mg}{S}) V}{T_{0}} = \frac{(P_{0} + \frac{mg}{S}) V^{'}}{T_{0}}  
+    \quad \lra V^{'} = \frac{(P_{0} + \frac{3mg}{S})}{P_{0} + \frac{mg}{S}}$
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-13: U型管问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-25.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, P_{1} = P_{0} + \frac{mg}{S} \quad (2) \, T_{1} = (1 + \frac{mg}{P_{0}S}) T_{0} \quad (3) \, T^{'} 
+    = (1 + \frac{mg}{P_{0}S} + \frac{\rho g L}{P_{0}}) T_{0}$
+    \item 总结:\quad 主要在于液面高度差$L$,在实际分析左侧试管下降高度为$\frac{1}{2}L$
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-14: U型管移动问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-26.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, 8 \, cm \quad (2) \, 270 \, k$
+    \item 总结:\quad $(1)$问容易得到错误答案$6 \, cm$,通过计算两管新的液柱高度差为$4 \, cm$,需要分步分析
+    
+    \hspace{3.2em}由于$A$管液面上升了$2 \, cm$,即先向上移动试管$2 \, cm$,此时右侧液面低于左侧$2 \, cm$
+
+    \hspace{3.2em}再抬升$B$管直到右侧高于左侧$4 \, cm$,则需要抬升$8 \, cm$
+
+    \hspace{3.2em}$(2)$问由于液面高度差为$4 \, cm $,$A$管气柱此时$38 \, cm$需要上升$2 \,cm$到$36 \, cm$计算
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-15: 不同粗细U型管}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-27.png}
+
+\begin{itemize}
+    \item 正解:\quad 
+    \item 总结:\quad 不同粗细的$U$型管的分析重点在于,某一侧上升或下降的高度,并不等于另一侧
+    
+    \hspace{3.2em}需要严格使用$\triangle V_{降}$
 \end{itemize}
 
 \vspace{2em}
@@ -922,7 +1014,7 @@ $(2)$要使水银全部溢出，则气体温度为多少？
                         \begin{itemize}
                             \item 第一定律:行星运动在椭圆轨道上,太阳处于椭圆的焦点上
                             \item 第二定律:行星与太阳的连线在相同时间内扫过的面积相等
-                            \item 第三定律:$\frac{a^{3}}{T^{2}} = k$
+                            \item 第三定律: $\frac{a^{3}}{T^{2}} = k$
                         \end{itemize}
                     \end{thm*}
               \item 近地卫星的周期为$85$分钟,根据第三定律得知太阳同步轨道卫星的周期至少大$85$分钟,因此选$C$

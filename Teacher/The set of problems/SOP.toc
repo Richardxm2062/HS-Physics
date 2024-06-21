@@ -1,104 +1,110 @@
-\contentsline {section}{\numberline {1}高一}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}2022-2023年度(下)重庆八中高一期末}{3}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}I-7:荷质比问题}{3}{subsubsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.2}II-9:不同类型的碰撞}{3}{subsubsection.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.1.3}II-10:匀强电场下的斜射}{4}{subsubsection.1.1.3}%
-\contentsline {subsubsection}{\numberline {1.1.4}III-1:实验中的Q/U-t图像}{5}{subsubsection.1.1.4}%
-\contentsline {subsection}{\numberline {1.2}2022-2023育才中学期末模拟题(八)}{6}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}I-4:关联体旋转运动分析}{6}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}I-7:P-t图问题}{7}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}II-8:水平内的碰撞+环形追及问题}{8}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}III-12:动量守恒实验-圆弧约束}{9}{subsubsection.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.2.5}IV-2:平抛-圆弧约束的最值问题}{10}{subsubsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.3}2022-2023巴蜀中学下学期期末}{11}{subsection.1.3}%
-\contentsline {subsubsection}{\numberline {1.3.1}I-13:电路中的变化量分析}{11}{subsubsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.3.2}II-2:电路的测量误差}{12}{subsubsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.4}2022-2023南开中学高一下期末}{13}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}I-6:光的几何表示问题}{13}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}I-8:单摆+受迫振动}{14}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}I-10:折射率问题}{15}{subsubsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.5}2022-2023育才中学期末模拟题(六)}{17}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}II-3:水平初动量不为0的杆相互作用模型}{17}{subsubsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.6}2022-2023育才中学期末模拟题(三)}{18}{subsection.1.6}%
-\contentsline {subsubsection}{\numberline {1.6.1}I-6:调和定律-新颖题目}{18}{subsubsection.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.6.2}II-3:连续弹碰(牛顿摆)}{18}{subsubsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.7}2022-2023一中高一下期末}{19}{subsection.1.7}%
-\contentsline {subsubsection}{\numberline {1.7.1}III-1:折射率实验}{19}{subsubsection.1.7.1}%
-\contentsline {section}{\numberline {2}高二}{19}{section.2}%
-\contentsline {subsection}{\numberline {2.1}机械振动专题}{19}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}I-1:起振方向未知的多解问题}{19}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}I-2:球面波干涉图像问题}{20}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}I-3:球面波非干涉图像问题}{20}{subsubsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.4}I-4:折射率几何求解}{21}{subsubsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.5}II-1:平面波干涉图像问题}{21}{subsubsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.6}II-2:斜面弹簧组合体简谐振子}{22}{subsubsection.2.1.6}%
-\contentsline {subsubsection}{\numberline {2.1.7}IV-1:干涉计算}{22}{subsubsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.2}原子核物理}{23}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}I-1: 不同原子核的平均值质量和}{23}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}II-1: 比结合能大小与能量吸收释放}{24}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3}热力学}{24}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}I-1: 三管连通器}{24}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}I-2: 液泡上浮问题}{24}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}I-3: 图像计算}{25}{subsubsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.4}I-4: 液柱动力学问题}{25}{subsubsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.5}I-5: 等体两气挤压问题}{25}{subsubsection.2.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.6}I-5: 斜试管等体变化液面移动与稳态分析}{26}{subsubsection.2.3.6}%
-\contentsline {subsubsection}{\numberline {2.3.7}I-6: 等压液面移动问题}{27}{subsubsection.2.3.7}%
-\contentsline {subsubsection}{\numberline {2.3.8}I-7: 试管移动问题}{27}{subsubsection.2.3.8}%
-\contentsline {subsubsection}{\numberline {2.3.9}I-8: 液面移动综合分析 }{28}{subsubsection.2.3.9}%
-\contentsline {subsubsection}{\numberline {2.3.10}I-9: 充气问题}{28}{subsubsection.2.3.10}%
-\contentsline {subsubsection}{\numberline {2.3.11}IV-1: 放气问题}{29}{subsubsection.2.3.11}%
-\contentsline {subsubsection}{\numberline {2.3.12}IV-1: 单试管加液问题}{29}{subsubsection.2.3.12}%
-\contentsline {subsubsection}{\numberline {2.3.13}IV-2: 单试管液柱加速问题}{30}{subsubsection.2.3.13}%
-\contentsline {subsubsection}{\numberline {2.3.14}IV-3: 单试管多过程问题}{30}{subsubsection.2.3.14}%
-\contentsline {subsubsection}{\numberline {2.3.15}IV-4: 单试管多过程问题2}{31}{subsubsection.2.3.15}%
-\contentsline {subsubsection}{\numberline {2.3.16}IV-5: 气缸多过程问题}{31}{subsubsection.2.3.16}%
-\contentsline {subsubsection}{\numberline {2.3.17}IV-6: L型试管分类讨论问题}{32}{subsubsection.2.3.17}%
-\contentsline {subsubsection}{\numberline {2.3.18}IV-7: L型试管分类讨论问题2}{32}{subsubsection.2.3.18}%
-\contentsline {subsubsection}{\numberline {2.3.19}IV-8: 挤压液体临界情况分析}{32}{subsubsection.2.3.19}%
-\contentsline {section}{\numberline {3}高三}{33}{section.3}%
-\contentsline {subsection}{\numberline {3.1}2023届巴蜀中学高考适应性月考(十)}{33}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}I-6:同步卫星}{33}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}II-1:简谐波的图像问题}{34}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}II-3:动生电动势的平均值问题}{35}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}IV-1:均匀滴落的沙漏问题}{36}{subsubsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.5}IV-2:折射率几何大题}{36}{subsubsection.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.1.6}IV-3:磁聚焦+区域面积问题}{37}{subsubsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.2}2024八中高考适应性月考(六)}{38}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}I-1:万有引力航天}{38}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}I-2:势能计算}{38}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}II-1:纯电阻动生电动势杆模型}{39}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}IV-1:变质量多次碰撞与数列}{39}{subsubsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.3}2024八中高考适应性月考(七)}{40}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}I-1:霍尔元件}{40}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}II-1:弹簧与杆环模型}{41}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}III-2:电容测量实验}{41}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}2024巴蜀高考适应性月考(八)}{42}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}I-1:摩擦力和接触面的大小关系}{42}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}II-1:匀速运动的磁场}{43}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}IV-1:非特征性动量守恒与周期性运动}{44}{subsubsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.5}2024八中高考适应性月考(五)}{44}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}I-1: 质子数-中子数元素衰变图}{44}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}I-2: 隐含全反射考察}{45}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}II-1: 双约束磁场周期问题}{45}{subsubsection.3.5.3}%
-\contentsline {subsubsection}{\numberline {3.5.4}III-1: 热力学漏气实验题}{46}{subsubsection.3.5.4}%
-\contentsline {subsection}{\numberline {3.6}yh五月大区考}{47}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}IV-1:重叠体的静摩擦力判断}{47}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}24南开高三物理质量检测(九)}{48}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}II-1:变比系数变化的动态分析}{48}{subsubsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.8}2024八中高考适应性月考(三)}{49}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}II-1:速度反向判断}{49}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}IV-1:金属球碰撞的电荷守恒}{50}{subsubsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.9}2024八中高考适应性月考(二)}{51}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}III-I:动量守恒实验水平摩擦力}{51}{subsubsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.10}2024巴蜀高考模拟(十)}{52}{subsection.3.10}%
-\contentsline {subsubsection}{\numberline {3.10.1}I-1:天体运动观察角问题}{52}{subsubsection.3.10.1}%
-\contentsline {subsubsection}{\numberline {3.10.2}IV-1:电容电阻动生电动势问题}{53}{subsubsection.3.10.2}%
-\contentsline {subsubsection}{\numberline {3.10.3}IV-2:动量守恒与弹簧势能}{54}{subsubsection.3.10.3}%
-\contentsline {subsection}{\numberline {3.11}七校三诊(攥江中学)}{55}{subsection.3.11}%
-\contentsline {subsubsection}{\numberline {3.11.1}I-1: 机械波的某质点振动方程问题}{55}{subsubsection.3.11.1}%
-\contentsline {subsubsection}{\numberline {3.11.2}I-2: 双球杆连接的运动过程分析}{55}{subsubsection.3.11.2}%
-\contentsline {subsubsection}{\numberline {3.11.3}II-1: 变压器的动态分析}{56}{subsubsection.3.11.3}%
-\contentsline {subsubsection}{\numberline {3.11.4}II-2: 存在外力电容式动生电动势}{56}{subsubsection.3.11.4}%
-\contentsline {subsubsection}{\numberline {3.11.5}IV-1: 热力学的准静态做功计算}{57}{subsubsection.3.11.5}%
-\contentsline {subsubsection}{\numberline {3.11.6}IV-2: 洛伦兹力分量动量定理}{58}{subsubsection.3.11.6}%
+\contentsline {section}{\numberline {1}高一}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}2022-2023年度(下)重庆八中高一期末}{4}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}I-7:荷质比问题}{4}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}II-9:不同类型的碰撞}{4}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}II-10:匀强电场下的斜射}{5}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}III-1:实验中的Q/U-t图像}{6}{subsubsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.2}2022-2023育才中学期末模拟题(八)}{7}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}I-4:关联体旋转运动分析}{7}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}I-7:P-t图问题}{8}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}II-8:水平内的碰撞+环形追及问题}{9}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}III-12:动量守恒实验-圆弧约束}{10}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}IV-2:平抛-圆弧约束的最值问题}{11}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}2022-2023巴蜀中学下学期期末}{12}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}I-13:电路中的变化量分析}{12}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}II-2:电路的测量误差}{13}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}2022-2023南开中学高一下期末}{14}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}I-6:光的几何表示问题}{14}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}I-8:单摆+受迫振动}{15}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}I-10:折射率问题}{16}{subsubsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.5}2022-2023育才中学期末模拟题(六)}{18}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}II-3:水平初动量不为0的杆相互作用模型}{18}{subsubsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.6}2022-2023育才中学期末模拟题(三)}{19}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}I-6:调和定律-新颖题目}{19}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}II-3:连续弹碰(牛顿摆)}{19}{subsubsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.7}2022-2023一中高一下期末}{20}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}III-1:折射率实验}{20}{subsubsection.1.7.1}%
+\contentsline {section}{\numberline {2}高二}{20}{section.2}%
+\contentsline {subsection}{\numberline {2.1}机械振动专题}{20}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}I-1:起振方向未知的多解问题}{20}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}I-2:球面波干涉图像问题}{21}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}I-3:球面波非干涉图像问题}{21}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}I-4:折射率几何求解}{22}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}II-1:平面波干涉图像问题}{22}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}II-2:斜面弹簧组合体简谐振子}{23}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}IV-1:干涉计算}{23}{subsubsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.2}原子核物理}{24}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}I-1: 不同原子核的平均值质量和}{24}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}II-1: 比结合能大小与能量吸收释放}{25}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}热力学}{25}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}I-1: 三管连通器}{25}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}I-2: 液泡上浮问题}{25}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}I-3: 图像计算}{26}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}I-4: 液柱动力学问题}{26}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}I-5: 等体两气挤压问题}{26}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}I-5: 斜试管等体变化液面移动与稳态分析}{27}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}I-6: 等压液面移动问题}{28}{subsubsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.8}I-7: 试管移动问题}{28}{subsubsection.2.3.8}%
+\contentsline {subsubsection}{\numberline {2.3.9}I-8: 液面移动综合分析 }{29}{subsubsection.2.3.9}%
+\contentsline {subsubsection}{\numberline {2.3.10}I-9: 充气问题}{29}{subsubsection.2.3.10}%
+\contentsline {subsubsection}{\numberline {2.3.11}IV-1: 放气问题}{30}{subsubsection.2.3.11}%
+\contentsline {subsubsection}{\numberline {2.3.12}IV-1: 单试管加液问题}{30}{subsubsection.2.3.12}%
+\contentsline {subsubsection}{\numberline {2.3.13}IV-2: 单试管液柱加速问题}{31}{subsubsection.2.3.13}%
+\contentsline {subsubsection}{\numberline {2.3.14}IV-3: 单试管多过程问题}{31}{subsubsection.2.3.14}%
+\contentsline {subsubsection}{\numberline {2.3.15}IV-4: 单试管多过程问题2}{32}{subsubsection.2.3.15}%
+\contentsline {subsubsection}{\numberline {2.3.16}IV-5: 气缸多过程问题}{32}{subsubsection.2.3.16}%
+\contentsline {subsubsection}{\numberline {2.3.17}IV-6: L型试管分类讨论问题}{33}{subsubsection.2.3.17}%
+\contentsline {subsubsection}{\numberline {2.3.18}IV-7: L型试管分类讨论问题2}{33}{subsubsection.2.3.18}%
+\contentsline {subsubsection}{\numberline {2.3.19}IV-8: 挤压液体临界情况分析}{33}{subsubsection.2.3.19}%
+\contentsline {subsubsection}{\numberline {2.3.20}IV-9: 双气缸平衡问题}{34}{subsubsection.2.3.20}%
+\contentsline {subsubsection}{\numberline {2.3.21}IV-10: 双气缸平衡问题2}{35}{subsubsection.2.3.21}%
+\contentsline {subsubsection}{\numberline {2.3.22}IV-11: 双活塞平衡问题}{35}{subsubsection.2.3.22}%
+\contentsline {subsubsection}{\numberline {2.3.23}IV-12: 双活塞漏气问题}{36}{subsubsection.2.3.23}%
+\contentsline {subsubsection}{\numberline {2.3.24}IV-13: U型管问题}{36}{subsubsection.2.3.24}%
+\contentsline {subsubsection}{\numberline {2.3.25}IV-14: U型管移动问题}{37}{subsubsection.2.3.25}%
+\contentsline {section}{\numberline {3}高三}{37}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2023届巴蜀中学高考适应性月考(十)}{37}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}I-6:同步卫星}{37}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}II-1:简谐波的图像问题}{38}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}II-3:动生电动势的平均值问题}{39}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}IV-1:均匀滴落的沙漏问题}{40}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}IV-2:折射率几何大题}{40}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}IV-3:磁聚焦+区域面积问题}{41}{subsubsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.2}2024八中高考适应性月考(六)}{42}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}I-1:万有引力航天}{42}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}I-2:势能计算}{42}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}II-1:纯电阻动生电动势杆模型}{43}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}IV-1:变质量多次碰撞与数列}{43}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}2024八中高考适应性月考(七)}{44}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}I-1:霍尔元件}{44}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}II-1:弹簧与杆环模型}{45}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}III-2:电容测量实验}{45}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}2024巴蜀高考适应性月考(八)}{46}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}I-1:摩擦力和接触面的大小关系}{46}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}II-1:匀速运动的磁场}{47}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}IV-1:非特征性动量守恒与周期性运动}{48}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.5}2024八中高考适应性月考(五)}{48}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}I-1: 质子数-中子数元素衰变图}{48}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}I-2: 隐含全反射考察}{49}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}II-1: 双约束磁场周期问题}{49}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}III-1: 热力学漏气实验题}{50}{subsubsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.6}yh五月大区考}{51}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}IV-1:重叠体的静摩擦力判断}{51}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7}24南开高三物理质量检测(九)}{52}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}II-1:变比系数变化的动态分析}{52}{subsubsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.8}2024八中高考适应性月考(三)}{53}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}II-1:速度反向判断}{53}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}IV-1:金属球碰撞的电荷守恒}{54}{subsubsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.9}2024八中高考适应性月考(二)}{55}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}III-I:动量守恒实验水平摩擦力}{55}{subsubsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.10}2024巴蜀高考模拟(十)}{56}{subsection.3.10}%
+\contentsline {subsubsection}{\numberline {3.10.1}I-1:天体运动观察角问题}{56}{subsubsection.3.10.1}%
+\contentsline {subsubsection}{\numberline {3.10.2}IV-1:电容电阻动生电动势问题}{57}{subsubsection.3.10.2}%
+\contentsline {subsubsection}{\numberline {3.10.3}IV-2:动量守恒与弹簧势能}{58}{subsubsection.3.10.3}%
+\contentsline {subsection}{\numberline {3.11}七校三诊(攥江中学)}{59}{subsection.3.11}%
+\contentsline {subsubsection}{\numberline {3.11.1}I-1: 机械波的某质点振动方程问题}{59}{subsubsection.3.11.1}%
+\contentsline {subsubsection}{\numberline {3.11.2}I-2: 双球杆连接的运动过程分析}{59}{subsubsection.3.11.2}%
+\contentsline {subsubsection}{\numberline {3.11.3}II-1: 变压器的动态分析}{60}{subsubsection.3.11.3}%
+\contentsline {subsubsection}{\numberline {3.11.4}II-2: 存在外力电容式动生电动势}{60}{subsubsection.3.11.4}%
+\contentsline {subsubsection}{\numberline {3.11.5}IV-1: 热力学的准静态做功计算}{61}{subsubsection.3.11.5}%
+\contentsline {subsubsection}{\numberline {3.11.6}IV-2: 洛伦兹力分量动量定理}{62}{subsubsection.3.11.6}%
