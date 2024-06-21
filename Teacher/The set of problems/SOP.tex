@@ -981,17 +981,88 @@ $(2)$要使水银全部溢出，则气体温度为多少？
 
 \vspace{2em}
 
-\subsubsection{IV-15: 不同粗细U型管}
+\subsubsection{IV-15: 不同粗细U型管的活塞移动问题}
 \includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-27.png}
 
 \begin{itemize}
-    \item 正解:\quad 
+    \item 正解:\quad $(1) \, 88 \, cmHg \quad (2) \, 4.5 cm $
     \item 总结:\quad 不同粗细的$U$型管的分析重点在于,某一侧上升或下降的高度,并不等于另一侧
     
-    \hspace{3.2em}需要严格使用$\triangle V_{降}$
+    \hspace{3.2em}需要严格使用$ \triangle V_{down} = \triangle V_{up} \lra 
+    sh_{1} = 3 s h_{2} \quad h_{1} + h_{2} = 4 cm \lra h_{1} = 3cm$
+
+    \hspace{3.2em}最终左侧空气柱长度为$9.5 \, cm$,计算推动距离需要加上液柱下降的高度,$11+3-9.5=4.5 \, cm$
 \end{itemize}
 
 \vspace{2em}
+
+\subsubsection{IV-16: 不同粗细U型管的活塞移动问题2}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-28.png}
+
+\begin{itemize}
+    \item 正解:\quad $\frac{15}{8} L \, cmHg$
+    \item 总结:\quad 此题优先给了活塞移动距离,可以利用此计算出末状态的空气柱长度,计算出$P_{0} = \frac{3}{2} L \, cmHg$
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-17: 不同截面积双气缸活塞问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-29.png}
+
+\begin{itemize}
+    \item 正解:\quad $ 500 \, k $
+    \item 总结:\quad 此类问题需要对活塞进行受力平衡分析,尤其小心因为面积不同而导致压力不同
+    
+    \hspace{3.2em}受力平衡方程$ P_{A}S + P_{B}2S = P_{0}S + P_{0}2S \quad P_{B} = 0.75 P_{0}$
+
+    \hspace{3.2em}同理末状态的受力平衡方程可得$P_{B}^{'} = 0.5 P_{0}$
+
+    \hspace{3.2em}$A$体积$V_{0} = S L$; $B$体积$V_{0} = 2S \frac{L}{2}$,末状态$B$的体积写为$2S(\frac{L}{2} + \triangle L)$,易解得$\triangle L = 0.25L$
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-18: 不同截面积单气缸活塞问题}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-30.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, 400 \,k \quad (2) \, 75 \, N$
+    \item 总结:\quad $(1)$问的难点在于首先要分析到底是到哪一侧底才是合理的
+    
+    \hspace{3.2em}其次在分析受力平衡方程时,末状态某侧活塞触底,但并不意味着去掉该侧内部气体的压强作用
+
+    \hspace{3.2em}如果去掉该侧内部气体压强来做计算则会得到$200 \, k$降温结果(上侧触底为例)
+
+    \hspace{3.2em}实际上由于整个过程时缓慢的,所以需要考虑临界的情况,该侧气体刚刚好还存在时
+
+    \hspace{3.2em}因此整个过程其实是恒压过程(因此可以判断是上塞触底,压强恒定温度升高要求体积上升)
+
+    \hspace{3.2em}$(2)$问更加数学的做法是表示出$F$与$P$的关系$F = P \cross 10 \cross 10^{-4} \, m^{-2} - 150N $
+    
+    \hspace{3.2em}而压强可以表示为与下压深度的关系$P = \frac{(15)^{2} \cross 10^{4}}{15 -x} \quad x \in [0,5]$
+
+    \hspace{3.2em}$F = \frac{(15)^{2} \cross 10}{15 - x} \quad \text{因此} x = 5 \lra F_{max} = 225 - 150 = 75 \, N$
+\end{itemize}
+
+\vspace{2em}
+
+\subsubsection{IV-19: 不同截面积单气缸活塞问题2}
+\includegraphics[width = 0.95\textwidth,keepaspectratio]{./pictures/2.3-31.png}
+
+\begin{itemize}
+    \item 正解:\quad $(1) \, \text{右移} \, L \quad (2) \, 9.8 \cross 10^{4} \, Pa $
+    \item 总结:\quad 计算位移问题最好还是假设移动距离,不要直接带体积
+    
+    \hspace{3.2em}初体积表示为$10^{-2} \, L$,末体积表示为$10^{-2} \cross (L - 0.2 \, x)$
+
+    \hspace{3.2em}$(2)$问的巧妙之处需要判断在降温的过程中,左侧挡板向右移动过程中被挡住时的温度$300 \, k$
+
+    \hspace{3.2em}此温度是大于$294 \, k$的,因此接下来的降温过程是等体降温计算压强的过程(末体积已知,末温度已知)
+\end{itemize}
+
+\vspace{2em}
+
+
 
 \section{高三}
 
