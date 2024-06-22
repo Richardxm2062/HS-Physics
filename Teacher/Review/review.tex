@@ -329,7 +329,7 @@ $$
 
           \vspace{-1em}
           \begin{adjustbox}{minipage=0.86\linewidth, bgcolor=gray!20, padding=1em}
-              \small 
+              \small
               固液相使用球体模型更为准确,气相使用立方体模型更为准确,这里的立方体空间是气体分子的活动空间
           \end{adjustbox}
           \vspace{-1em}
@@ -808,8 +808,104 @@ $$
 
           涉及气体物质的量的变化,待被充气体$P\triangle V = \triangle n RT \quad $($n,V,m$具有等价性)
 
-
 \end{itemize}
+
+\vspace{2em}
+
+\subsection{热力学三大定律}
+\subsubsection{热力学第一定律和能量守恒}
+
+\begin{enumerate}[label = \arabic*]
+    \item 改变物体内能的两种方式
+          \begin{enumerate}[label = (\arabic*)]
+              \item 做功(摩擦生热等)
+              \item 热传递(热辐射等)
+          \end{enumerate}
+    \item 热力学第一定律
+          \begin{enumerate}[label = (\arabic*)]
+              \item 内容: 一个热力学系统的内能增量等于外界向它传递的热量与外界对它所做的功的和
+              \item 表达式: $ \triangle u = W + Q $
+
+                    \begin{center}
+                        \begin{tabular}{|c|c|c|c|}
+                            \hline
+                            \,  & $W$     & $Q$  & $\triangle u$ \\
+                            \hline
+                            $+$ & 外界对物体做功 & 吸收热量 & 内能增加          \\
+                            \hline
+                            $-$ & 物体对外界做功 & 放出热量 & 内能减少          \\
+                            \hline
+                        \end{tabular}
+                    \end{center}
+
+              \item 气体膨胀/压缩时: 物体对外界做功/外界对物体做功
+              \item 判断内能变化不同研究对象分析方式不同:
+                    \begin{enumerate}[label = (\alph*)]
+                        \item 研究对象为 \textbf{固体或液体} \, 时:
+
+                              \begin{minipage}{0.8\textwidth}
+                                  晶体(固定熔点)熔化时温度不变,吸热使得内能增大
+
+                                  \vspace{-1em}
+                                  \hspace{-1em}\begin{adjustbox}{minipage=0.38\linewidth, bgcolor=gray!20, padding=1em}
+                                      \small
+                                      破坏了空间点阵结构,增大了分子势能
+                                  \end{adjustbox}
+                                  \vspace{-1em}
+
+                                  同质量的$0^{\circ}C$水和$0^{\circ}C$冰,后者吸热变成水,因此前者内能更大
+                              \end{minipage}
+                        \item 研究对象为 \textbf{理想气体} \, 时
+
+                              $m$一定时,理想气体无分子势能,其内能只和温度有关
+                    \end{enumerate}
+              \item 做功公式: $W = P \vdot \triangle V \, $(必须要求恒压过程)
+          \end{enumerate}
+    \item 解题中的特殊字眼
+          \begin{enumerate}[label = (\arabic*)]
+              \item 绝热: 没有热传递 $Q = 0$
+              \item 真空: 不做功 $W = 0$
+              \item 膨胀: 对外做功 $W < 0$
+          \end{enumerate}
+
+    \item 能量守恒定律: 能量既不可能凭空消失,也不能凭空产生
+
+          \hspace{6.7em}它只能从一种形式转换为另一种形式,总量保持不变
+\end{enumerate}
+
+\vspace{2em}
+
+\subsubsection{热力学第二定律和永动机}
+\begin{enumerate}[label = \arabic*]
+    \item 概念: 
+    
+    \hspace{2.7em}克劳修斯表述: 热量不能\textbf{自发}的从高温到低温(方向性表述)
+
+    \hspace{2.7em}开尔文表述: 不可能从单一热源吸收能量,使之完全变成\textbf{有用功},而不产生其他影响
+
+    \hspace{8.4em}热机的效率不可能达到$100 \%$
+    \item: 易错概念: 
+    
+    \hspace{4.7em}热量不能自发地从内能低的传到内能高的物体($\times$)
+
+    \hspace{4.7em}根据热力学第二定律,各种形式的能可以互相转换($\times$)
+
+    \hspace{4.7em}自然界中自发进行的与热现象有关的宏观物理过程都具有方向性(\checkmark)
+
+    \hspace{4.7em}一切与热现象有关的宏观自然过程都是不可逆的(\checkmark)
+
+    \item 永动机
+    
+    \begin{enumerate}[label = (\arabic*)]
+        \item 第一类永动机[内部能量互相转换](无法造出来): 违背能量守恒,会有其他能量损耗
+        \item 第二类永动机[从外界吸收能量,即将耗散的能量再作为输入](无法造出): 
+        
+        \hspace{6.2em}违背热二的热传递方向性问题,耗散能量无法完全利用
+    \end{enumerate}
+\end{enumerate} 
+
+\subsubsection{热力学第三定律}
+概念: 绝对零度无法达到($0 \, k \, or \, -273^{\circ}$)
 
 
 
