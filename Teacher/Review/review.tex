@@ -18,7 +18,7 @@
 
           \vspace{-1em}
 
-          \hspace{-1em}\begin{adjustbox}{minipage=0.86\linewidth, bgcolor=gray!20, padding=1em}
+          \hspace{-0.9em}\begin{adjustbox}{minipage=0.86\linewidth, bgcolor=gray!20, padding=1em}
               \small % 将字号变小为 small
               亚里士多德(公元前$384\sim322$年)提出过许多错误的观点和理论,但是我们应该辩证地看待,保持尊重
           \end{adjustbox}
@@ -49,7 +49,7 @@
 
           \vspace{-1em}
 
-          \hspace{-1em}\begin{adjustbox}{minipage=0.865\linewidth, bgcolor=gray!20, padding=1em}
+          \hspace{-0.9em}\begin{adjustbox}{minipage=0.865\linewidth, bgcolor=gray!20, padding=1em}
               \small % 将字号变小为 small
               石英丝连接细杆,两端放置等大质量球,在两球附近放置两大质量球产生引力矩,用光线反射法放大扭转
 
@@ -219,8 +219,8 @@ $$
           $$
     \item 全反射:
           \begin{align*}
-               & \text{光密介质} \, \ra \, \text{光疏介质} \quad \sin{\text{大角}} = 1 \,(\text{大角} = \frac{\pi}{2}) \\
-               & \text{临界角} \quad \sin{C} = \frac{1}{\sin{\text{小角}}}
+               & \text{光密介质(小角)} \, \ra \, \text{光疏介质(大角)}  \\
+               & \text{当大角为90度时:}\text{临界角} \, C = \arcsin{\frac{1}{n}}
           \end{align*}
     \item 视深与视高:
           \begin{itemize}
@@ -234,7 +234,7 @@ $$
           \begin{itemize}
               \item 非平行玻璃砖 $\quad n_{\text{测}} = n_{\text{真}}$
               \item 整体平移  $\quad d_{\text{测}} = d_{\text{玻}} \quad n_{\text{测}} = n_{\text{真}}$
-              \item 其他情况  $\quad n_{\text{测}} \text{和} n_{\text{真}} \text{的大小关系} \,\text{与}\, d_{\text{测}} \text{和} d_{\text{玻}}\text{的大小关系相反}$
+              \item 其他情况  $\quad n_{\text{测}} \, \text{和} \, n_{\text{真}} \, \text{的大小关系} \,\text{与} \, d_{\text{测}} \, \text{和} \, d_{\text{玻}} \, \text{的大小关系相反}$
           \end{itemize}
 \end{itemize}
 
@@ -245,9 +245,9 @@ $$
     \item 薄膜干涉: $\delta = 2d$
           \begin{itemize}
               \item 明暗条纹位置由波长和此处厚度共同决定
-              \item 相邻明(暗)条纹对应的薄膜厚度差为$\frac{\lambda}{2} \quad \lambda$应为光在介质中传播时的波长
+              \item 相邻明(暗)条纹对应的薄膜厚度差为$\frac{\lambda}{2} \quad (\lambda$应为光在\textbf{此介质}中传播时的波长)
           \end{itemize}
-    \item 劈尖干涉: 样板下表面和被检查平面的上表面的反射光发生干涉
+    \item 劈尖干涉: 样板下表面 \, 和 \, 被检查平面的上表面 \, 的反射光发生干涉
 
           \hspace{5em}(标准板的厚度太厚大于相干长度)
 
@@ -255,8 +255,8 @@ $$
               \item[I] 验平问题:
                   \begin{itemize}
                       \item[] 若待测板平整,干涉条纹等距
-                      \item[] 若条纹\textbf{偏头},则条纹提前出现,此处光程差偏大,因此待测样板此处凹
-                      \item[] 若条纹\textbf{偏尾},则条纹延后,此处光程差偏小,因此待测样板此处凸
+                      \item[] 若条纹\textbf{偏头},则条纹提前出现,此处光程差偏大,因此待测样板此处\textbf{凹}
+                      \item[] 若条纹\textbf{偏尾},则条纹延后,此处光程差偏小,因此待测样板此处\textbf{凸}
                   \end{itemize}
               \item[II] 条纹间距问题:
                   \begin{itemize}
@@ -264,6 +264,8 @@ $$
                               \triangle d = f(\lambda) = \dfrac{\lambda}{2}$
                   \end{itemize}
               \item[III] 增反膜;增透膜: 入射光能量 = 折射光能量 + 反射光能量
+                  
+                  \hspace{4em}(薄膜干涉是研究的是两反射光的干涉问题)
 
                   \hspace{4em}(注:光疏到光密反射光产生半波损失,$n_{\text{膜}}$介于空气和另一介质之间)
 
@@ -272,7 +274,7 @@ $$
                   \hspace{4em}增反膜:反射光相长$2d = \frac{\lambda}{2} (2n) $
           \end{itemize}
 
-    \item 双缝干涉: $\triangle d = \lambda \dfrac{L}{d} \,$ (条纹间距$\triangle d $,双缝间距$d$,缝板距离$L$)
+    \item 双缝干涉: $\triangle x = \lambda \dfrac{L}{d} \,$ (条纹间距$\triangle x $,双缝间距$d$,缝板距离$L$)
 \end{enumerate}
 
 \vspace{2em}
@@ -330,7 +332,7 @@ $$
           \end{enumerate}
 
           \vspace{-1em}
-          \begin{adjustbox}{minipage=0.86\linewidth, bgcolor=gray!20, padding=1em}
+          \hspace{1em}\begin{adjustbox}{minipage=0.86\linewidth, bgcolor=gray!20, padding=1em}
               \small
               固液相使用球体模型更为准确,气相使用立方体模型更为准确,这里的立方体空间是气体分子的活动空间
           \end{adjustbox}
@@ -482,7 +484,7 @@ $$
     \item 图像中分子动能的规律
 
           \vspace{-1em}
-          \begin{adjustbox}{minipage=0.91\linewidth, bgcolor=gray!20, padding=1em}
+          \hspace{-0.9em}\begin{adjustbox}{minipage=0.65\linewidth, bgcolor=gray!20, padding=1em}
               \small % 将字号变小为 small
               $$ f(v)= \frac{dN}{Ndv} ={\sqrt {{\frac {2}{\pi }}\left({\frac {m}{kT}}\right)^{3}}}\,v^{2}\exp \left({\frac {-mv^{2}}{2kT}}\right)  \quad
                   \int_{0}^{+\infty} f(v) dv  = \int_{0}^{N} \frac{dN}{N} = 1
@@ -558,7 +560,7 @@ $$
               \item 根据有无规则的外形分为: 单晶体(有) \, 多晶体(无)
 
                     \vspace{-1em}
-                    \begin{adjustbox}{minipage=0.76\linewidth, bgcolor=gray!20, padding=1em}
+                    \hspace{-0.9em}\begin{adjustbox}{minipage=0.76\linewidth, bgcolor=gray!20, padding=1em}
                         \small % 将字号变小为 small
                         单晶体: 其内部微粒有规律地排列在一个空间格子内的晶体.
 
@@ -638,7 +640,7 @@ $$
                         试管越细,那么管内的液体则越少,毛细现象越明显
 
                         \vspace{-1em}
-                        \begin{adjustbox}{minipage=0.7\linewidth, bgcolor=gray!20, padding=1em}
+                        \hspace{-0.9em}\begin{adjustbox}{minipage=0.7\linewidth, bgcolor=gray!20, padding=1em}
                             \small 
                             液面上升高度 $\, h= \dfrac{2\gamma \cos{\theta}}{\rho gr} \quad $($\theta$:液面切线与固体面所成锐角)
 
@@ -722,7 +724,7 @@ $$
               \item 影响压强的因素: $n$单位体积分子数(体积$V$),$v$分子热运动速度(温度$T$)
 
                     \vspace{-1em}
-                    \begin{adjustbox}{minipage=0.53\linewidth, bgcolor=gray!20, padding=1em}
+                    \hspace{-0.9em}\begin{adjustbox}{minipage=0.53\linewidth, bgcolor=gray!20, padding=1em}
                         \small
                         $n = \frac{N}{S \triangle t}$,$\quad n$也可以被定义成单位面积,单位时间撞击次数.
                     \end{adjustbox}
@@ -924,7 +926,7 @@ $$
 
 \vspace{2em}
 
-\section{原子核物理}
+\section{原子物理}
 \subsection{黑体辐射}
 
 \subsubsection{物理大厦上的"两朵乌云"}

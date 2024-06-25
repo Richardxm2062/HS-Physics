@@ -1,8 +1,0 @@
-\contentsline {section}{\numberline {1}电感在电路中的表现}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}通电自感与断电自感}{2}{subsection.1.1}%
-\contentsline {section}{\numberline {2}单杆模型}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}单杆电阻类}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}单杆电源类}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}单杆电容类}{7}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}电容充电式}{7}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}电容放电式}{9}{subsubsection.2.3.2}%
