@@ -74,9 +74,10 @@
 \contentsline {subsubsection}{\numberline {2.3.35}IV-17: 不同截面积双气缸活塞问题}{41}{subsubsection.2.3.35}%
 \contentsline {subsubsection}{\numberline {2.3.36}IV-18: 不同截面积单气缸活塞问题}{41}{subsubsection.2.3.36}%
 \contentsline {subsubsection}{\numberline {2.3.37}IV-19: 不同截面积单气缸活塞问题2}{42}{subsubsection.2.3.37}%
-\contentsline {section}{\numberline {3}高三}{42}{section.3}%
-\contentsline {subsection}{\numberline {3.1}2023届巴蜀中学高考适应性月考(十)}{42}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}I-6:同步卫星}{42}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.38}IV-20: 热力学第三定律做功计算}{42}{subsubsection.2.3.38}%
+\contentsline {section}{\numberline {3}高三}{43}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2023届巴蜀中学高考适应性月考(十)}{43}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}I-6:同步卫星}{43}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}II-1:简谐波的图像问题}{43}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}II-3:动生电动势的平均值问题}{44}{subsubsection.3.1.3}%
 \contentsline {subsubsection}{\numberline {3.1.4}IV-1:均匀滴落的沙漏问题}{45}{subsubsection.3.1.4}%
