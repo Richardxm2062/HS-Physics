@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  25 JUN 2024 17:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  26 JUN 2024 08:13
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/习题及作业/热学总复习习题及作业"
-(/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/习题及作业/热学总复习习题及作业.tex
+**"/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/240630热学复习/习题及作业/热学总复习习题及作业"
+(/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/240630热学复习/习题及作业/热学总复习习题及作业.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (../../../../../LaTex/preamble/preamble_article.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (../../../../../../LaTex/preamble/preamble_article.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-08-29 L3 programming layer (loader) 
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
@@ -976,16 +976,23 @@ File: ./pictures/2.3-39.png Graphic file (type bmp)
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-Package rerunfilecheck Info: File `热学总复习习题及作业.out' has not changed.
-(rerunfilecheck)             Checksum: 0B28BF5EEC3348BAE98A40A2E2D3178C;2317.
+
+
+Package rerunfilecheck Warning: File `热学总复习习题及作业.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `热学总复习习题及作业.out':
+(rerunfilecheck)             Before: 0B28BF5EEC3348BAE98A40A2E2D3178C;2317
+(rerunfilecheck)             After:  D62170B922056461DA3616B792991D09;2333.
  ) 
 Here is how much of TeX's memory you used:
  32103 strings out of 475591
- 667091 string characters out of 5773842
+ 667142 string characters out of 5773842
  1934438 words of memory out of 5000000
  52891 multiletter control sequences out of 15000+600000
  566623 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,12n,120p,609b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,120p,620b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 热学总复习习题及作业.pdf (9 pages).
