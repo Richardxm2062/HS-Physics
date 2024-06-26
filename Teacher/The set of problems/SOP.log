@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  25 JUN 2024 17:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  26 JUN 2024 16:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1235,21 +1235,38 @@ File: ./pictures/3.11-4.png Graphic file (type bmp)
 <./pictures/3.11-4.png>
 File: ./pictures/3.11-5.png Graphic file (type bmp)
 <./pictures/3.11-5.png>
- [66] [67] (./SOP.aux)
+ [66]
+File: ./pictures/3.12-1.png Graphic file (type bmp)
+<./pictures/3.12-1.png>
+ [67]
+File: ./pictures/3.12-2.png Graphic file (type bmp)
+<./pictures/3.12-2.png>
+File: ./pictures/3.12-3.png Graphic file (type bmp)
+<./pictures/3.12-3.png>
+ [68]
+File: ./pictures/3.12-4.png Graphic file (type bmp)
+<./pictures/3.12-4.png>
+ [69]
+File: ./pictures/3.12-5.png Graphic file (type bmp)
+<./pictures/3.12-5.png>
+ [70]
+File: ./pictures/3.12-6.png Graphic file (type bmp)
+<./pictures/3.12-6.png>
+ [71] (./SOP.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `SOP.out' has not changed.
-(rerunfilecheck)             Checksum: 75C4ABE163FAAF26E72D2D4E23E8D376;20277.
+(rerunfilecheck)             Checksum: F7ABC095BDD96FC8FD633896AB160EB6;21539.
  ) 
 Here is how much of TeX's memory you used:
- 33119 strings out of 475591
- 694506 string characters out of 5773842
+ 33174 strings out of 475591
+ 695879 string characters out of 5773842
  1955438 words of memory out of 5000000
- 53794 multiletter control sequences out of 15000+600000
+ 53843 multiletter control sequences out of 15000+600000
  569420 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,15n,120p,599b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on SOP.pdf (67 pages).
+Output written on SOP.pdf (71 pages).

@@ -121,3 +121,10 @@
 \contentsline {subsubsection}{\numberline {3.11.4}II-2: 存在外力电容式动生电动势}{65}{subsubsection.3.11.4}%
 \contentsline {subsubsection}{\numberline {3.11.5}IV-1: 热力学的准静态做功计算}{66}{subsubsection.3.11.5}%
 \contentsline {subsubsection}{\numberline {3.11.6}IV-2: 洛伦兹力分量动量定理}{67}{subsubsection.3.11.6}%
+\contentsline {subsection}{\numberline {3.12}yh六月大区考}{68}{subsection.3.12}%
+\contentsline {subsubsection}{\numberline {3.12.1}I-1: 匀变速运动学(x-t)}{68}{subsubsection.3.12.1}%
+\contentsline {subsubsection}{\numberline {3.12.2}I-2: 匀变速运动学图像结合万有引力}{68}{subsubsection.3.12.2}%
+\contentsline {subsubsection}{\numberline {3.12.3}I-3: 弹簧过程中的图像问题}{69}{subsubsection.3.12.3}%
+\contentsline {subsubsection}{\numberline {3.12.4}II-1: 势能图像的运动学问题}{70}{subsubsection.3.12.4}%
+\contentsline {subsubsection}{\numberline {3.12.5}IV-1: 机械波两质点的运动方向问题}{70}{subsubsection.3.12.5}%
+\contentsline {subsubsection}{\numberline {3.12.6}IV-2: 碰撞反向通过传送带变向}{71}{subsubsection.3.12.6}%
