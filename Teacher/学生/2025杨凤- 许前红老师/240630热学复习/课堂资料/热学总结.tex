@@ -12,6 +12,7 @@
 \zihao{-4}
 \newpage
 
+
 \section{热力学}
 \subsection{分子动理论}
 \subsubsection{物体是由大量分子构成的}
@@ -20,7 +21,7 @@
           \begin{enumerate}[label = (\arabic*{})]
               \item 分子直径数量级: $10^{-10} \, m$
               \item 分子质量数量级: $10^{-26} \, kg$
-              \item 测量分子的方法: 油膜法
+              \item 测量分子直径的方法: 油膜法
           \end{enumerate}
 
           \vspace{2em}
@@ -42,16 +43,20 @@
 
     \item 油墨法测量分子的直径
           \begin{itemize}
-              \item 思路: 第一滴油酸摊开在水面上,近似看成单分子层
+              \item 思路: 滴一滴油酸(已知体积$V$)摊开在水面上,近似看成单分子层(厚度为$d$)
+              
+              \hspace{2.7em}此滴油酸体积可求$V = S \vdot d $,测量面积$S$即可计算厚度$d$
               \item 模型: 认为油酸分子为球体模型
               \item 要点:
                     \begin{itemize}
-                        \item $1ml$油酸溶液配制成$500ml$油酸酒精溶液
+                        \item $1ml$油酸溶液配制成$500ml$油酸酒精溶液(酒精易挥发特点)
                         \item 取$100$滴油酸酒精溶液测得体积为$1ml$
                         \item 先对水撒痱子粉,后滴液解决油膜的透明问题
                         \item 往水面上注射一滴油酸酒精溶液
                         \item 稳定后使用玻璃板盖进行描边
                         \item 使用\textbf{格子法}来计算不规则面积(不足半格取$0$,超过半格取$1$)
+                        \item 一滴为$\frac{1}{100} \, ml$油酸酒精溶液,
+                        其油酸体积为$\frac{1}{100} \, ml \vdot \frac{1}{500} = 2 \times 10 ^{-11} \, m^{3}$
                     \end{itemize}
           \end{itemize}
 
@@ -224,7 +229,7 @@
     \item 温度
           \begin{itemize}
               \item 意义: 宏观上表示物体的冷热程度,微观上表示的是分子热运动的剧烈程度
-              \item 温标: 摄氏温度$t \, ^{\circ}$,热力学温标$T$,单位$K$(开)
+              \item 温标: 摄氏温度$t$,单位$^{\circ} C$;热力学温标$T$,单位$K$(开)
               \item 转化: $T = t + 273.15 \,$(绝对零度: $T = 0 \lra t = -273.15^{\circ} $)
           \end{itemize}
     \item 热平衡: 两个热力学系统之间无温度差(温度相同)
@@ -596,7 +601,7 @@
 \begin{enumerate}[label = \arabic*]
     \item 概念:
 
-          \hspace{2.7em}克劳修斯表述: 热量不能\textbf{自发}的从高温到低温(方向性表述)
+          \hspace{2.7em}克劳修斯表述: 热量不能\textbf{自发}的从低温传递到高温(方向性表述)
 
           \hspace{2.7em}开尔文表述: 不可能从单一热源吸收能量,使之完全变成\textbf{有用功},而不产生其他影响
 
@@ -623,5 +628,6 @@
 
 \subsubsection{热力学第三定律}
 概念: 绝对零度无法达到($0 \, k \, or \, -273^{\circ}$)
+
 
 \end{document}

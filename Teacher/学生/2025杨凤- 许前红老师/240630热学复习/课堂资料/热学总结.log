@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  25 JUN 2024 16:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  28 JUN 2024 13:25
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/课堂资料/热学总结"
-(/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/课堂资料/热学总结.tex
+**"/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/240630热学复习/课堂资料/热学总结"
+(/Users/richard/Github/HS-Physics/Teacher/学生/2025杨凤- 许前红老师/240630热学复习/课堂资料/热学总结.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -23,7 +23,7 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (../../../../../LaTex/preamble/preamble_article.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (../../../../../../LaTex/preamble/preamble_article.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-08-29 L3 programming layer (loader) 
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
@@ -959,11 +959,11 @@ Package rerunfilecheck Info: File `热学总结.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  32116 strings out of 475591
- 668546 string characters out of 5773842
- 1935438 words of memory out of 5000000
+ 668597 string characters out of 5773842
+ 1936438 words of memory out of 5000000
  52889 multiletter control sequences out of 15000+600000
  572565 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,12n,120p,602b,774s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,120p,613b,774s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 热学总结.pdf (10 pages).
