@@ -69,7 +69,32 @@
 
 \vspace{2em}
 
-\section{匀变速直线运动问题}
+\section{匀变速直线运动}
+
+\subsection{运动学公式}
+$$
+    \begin{cases}
+        V_{t} = V_{0} + at                                        \\
+
+        x = \frac{(V_{0} + V_{t})}{2} t = \overline{V} t          \\
+
+        x = V_{0} + \frac{1}{2}at^{2} = V_{t} - \frac{1}{2}at_{2} \\
+
+        V_{t}^{2} - V_{0}^{2} = 2ax
+    \end{cases}
+$$
+
+总结点
+
+\begin{itemize}
+    \item 区分 \, 前秒内 \, 与 \, 第秒内 \,
+    \item 刹车问题需要先求解制动时间或制动距离
+    \item 自由落体运动的初速度为$0$,\textbf{仅}受到重力
+    \item 竖直上抛运动的初速度为$V_{0}$向上,\textbf{仅}受到重力,同一高度的速率大小一样
+    \item 竖直上抛运动时常要分析多解性(向上段或向下段)
+\end{itemize}
+
+\vspace{2em}
 
 \subsection{中间时刻/平均速度}
 中间时刻速度$v_{\frac{t}{2}}$与平均速度$\overline{v}$是同一个值
@@ -94,11 +119,17 @@ $$
 \end{corollary*}
 \begin{proof}
     \begin{align*}
-        x_{n} = \frac{1}{2}a (nT)^{2} -  \frac{1}{2}a [(n-1)T]^{2} & = aT^{2} (\frac{2n-1}{2}) \\
-        x_{n-1}                                                    & = aT^{2} (\frac{2n-3}{2}) \\
-        x_{n} - x_{n-1}                                            & = aT^{2}
+        x_{n} = \frac{1}{2}a (nT)^{2} -  \frac{1}{2}a [(n-1)T]^{2} & = aT^{2} (\frac{2n-1}{2})    \\
+        x_{n-1}                                                    & = aT^{2} (\frac{2n-3}{2})    \\
+        x_{n} - x_{n-1}                                            & = aT^{2}                     \\
+        \text{一般性的\quad} x_{i} - x_{j}                             & = (i-j) \, aT^{2} \hspace{1em} (i = \sum{\text{指标}} > j = \sum{\text{指标}})
     \end{align*}
 \end{proof}
+
+通常打点计时器的频率为$50 \, Hz$,即$0.02 \,s $秒间隔打下计时点,点数太过密集通常取$6$个计时点(间隔$5$个间隙)作为
+计数点,$T = 5 \cross 0.02 \,s = 0.1 \, s$
+
+\vspace{2em}
 
 \begin{corollary*}
     等位移比例式子($1m$,$2m$,$3m \dots$)    \\
@@ -219,7 +250,7 @@ $$
           $$
     \item 全反射:
           \begin{align*}
-               & \text{光密介质(小角)} \, \ra \, \text{光疏介质(大角)}  \\
+               & \text{光密介质(小角)} \, \ra \, \text{光疏介质(大角)}              \\
                & \text{当大角为90度时:}\text{临界角} \, C = \arcsin{\frac{1}{n}}
           \end{align*}
     \item 视深与视高:
@@ -264,7 +295,7 @@ $$
                               \triangle d = f(\lambda) = \dfrac{\lambda}{2}$
                   \end{itemize}
               \item[III] 增反膜;增透膜: 入射光能量 = 折射光能量 + 反射光能量
-                  
+
                   \hspace{4em}(薄膜干涉是研究的是两反射光的干涉问题)
 
                   \hspace{4em}(注:光疏到光密反射光产生半波损失,$n_{\text{膜}}$介于空气和另一介质之间)
@@ -343,8 +374,8 @@ $$
     \item 油墨法测量分子的直径
           \begin{itemize}
               \item 思路: 滴一滴油酸(已知体积$V$)摊开在水面上,近似看成单分子层(厚度为$d$)
-              
-              \hspace{2.7em}此滴油酸体积可求$V = S \vdot d $,测量面积$S$即可计算厚度$d$
+
+                    \hspace{2.7em}此滴油酸体积可求$V = S \vdot d $,测量面积$S$即可计算厚度$d$
               \item 模型: 认为油酸分子为球体模型
               \item 要点:
                     \begin{itemize}
@@ -355,7 +386,7 @@ $$
                         \item 稳定后使用玻璃板盖进行描边
                         \item 使用\textbf{格子法}来计算不规则面积(不足半格取$0$,超过半格取$1$)
                         \item 一滴为$\frac{1}{100} \, ml$油酸酒精溶液,
-                        其油酸体积为$\frac{1}{100} \, ml \vdot \frac{1}{500} = 2 \times 10 ^{-11} \, m^{3}$
+                              其油酸体积为$\frac{1}{100} \, ml \vdot \frac{1}{500} = 2 \times 10 ^{-11} \, m^{3}$
                     \end{itemize}
           \end{itemize}
 
@@ -548,7 +579,7 @@ $$
           \end{enumerate}
     \item 理想气体: 有质量,分子无体积,分子之间没有作用力的气体
     \item 两个意义: 分子无体积(仍有占有体积)意味着气体可以无限被压缩
-    
+
           \hspace{4.7em}分子间无作用力(气体内能\textbf{不包含分子势能})
     \item 结论: 理想气体内能只有动能项,其内能大小仅和温度有关
 \end{enumerate}
@@ -645,7 +676,7 @@ $$
 
                         \vspace{-1em}
                         \hspace{-0.9em}\begin{adjustbox}{minipage=0.7\linewidth, bgcolor=gray!20, padding=1em}
-                            \small 
+                            \small
                             液面上升高度 $\, h= \dfrac{2\gamma \cos{\theta}}{\rho gr} \quad $($\theta$:液面切线与固体面所成锐角)
 
                             $\gamma$:表面张力系数;$\quad \theta$:接触角;$\quad \rho$:液体密度;$\quad r$:试管半径
@@ -687,8 +718,8 @@ $$
               \item 温度: 温度越高,蒸发与冷凝强度均高,分子密度也越大,蒸汽的饱和汽压越大
               \item 体积: 与液面上方的体积\textbf{无关}(改变体积会改变当前状态,稳态不变)
               \item 密度: 无关。增大体积,上方蒸汽密度下降,液化能力下降,蒸发能力不变
-              
-              \hspace{2.7em}上方净累积分子,稳态后,密度不变
+
+                    \hspace{2.7em}上方净累积分子,稳态后,密度不变
           \end{itemize}
 \end{enumerate}
 
