@@ -128,3 +128,9 @@
 \contentsline {subsubsection}{\numberline {3.12.4}II-1: 势能图像的运动学问题}{70}{subsubsection.3.12.4}%
 \contentsline {subsubsection}{\numberline {3.12.5}IV-1: 机械波两质点的运动方向问题}{70}{subsubsection.3.12.5}%
 \contentsline {subsubsection}{\numberline {3.12.6}IV-2: 碰撞反向通过传送带变向}{71}{subsubsection.3.12.6}%
+\contentsline {subsection}{\numberline {3.13}yh七月大区考(2023南开高三7)}{71}{subsection.3.13}%
+\contentsline {section}{\numberline {4}I-1: 电容在接入电路中状态分析}{71}{section.4}%
+\contentsline {section}{\numberline {5}I-2: 牛顿环,偏振镜头与增透增反膜}{72}{section.5}%
+\contentsline {section}{\numberline {6}II-2: 简谐振动双图的路程计算}{73}{section.6}%
+\contentsline {section}{\numberline {7}III-1: 力的合成实验}{74}{section.7}%
+\contentsline {section}{\numberline {8}IV-1: 变质量多次碰撞}{75}{section.8}%
