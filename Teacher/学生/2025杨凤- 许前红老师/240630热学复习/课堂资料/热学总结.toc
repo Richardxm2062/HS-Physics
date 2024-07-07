@@ -1,4 +1,4 @@
-\contentsline {section}{\numberline {1}热力学}{2}{section.1}%
+\contentsline {section}{\numberline {1}热学}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}分子动理论}{2}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}物体是由大量分子构成的}{2}{subsubsection.1.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.2}微观量的估算}{2}{subsubsection.1.1.2}%

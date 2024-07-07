@@ -13,7 +13,7 @@
 \newpage
 
 
-\section{热力学}
+\section{热学}
 \subsection{分子动理论}
 \subsubsection{物体是由大量分子构成的}
 \begin{enumerate}
@@ -44,19 +44,19 @@
     \item 油墨法测量分子的直径
           \begin{itemize}
               \item 思路: 滴一滴油酸(已知体积$V$)摊开在水面上,近似看成单分子层(厚度为$d$)
-              
-              \hspace{2.7em}此滴油酸体积可求$V = S \vdot d $,测量面积$S$即可计算厚度$d$
+
+                    \hspace{2.7em}此滴油酸体积可求$V = S \vdot d $,测量面积$S$即可计算厚度$d$
               \item 模型: 认为油酸分子为球体模型
               \item 要点:
                     \begin{itemize}
-                        \item $1ml$油酸溶液配制成$500ml$油酸酒精溶液(酒精易挥发特点)
-                        \item 取$100$滴油酸酒精溶液测得体积为$1ml$
-                        \item 先对水撒痱子粉,后滴液解决油膜的透明问题
-                        \item 往水面上注射一滴油酸酒精溶液
-                        \item 稳定后使用玻璃板盖进行描边
+                        \item $1ml$油酸溶液配制成$500ml$油酸酒精溶液(酒精易挥发特点)$\hspace{1em}\lra$稀释
+                        \item 取$100$滴油酸酒精溶液测得体积为$1ml$$\hspace{1em}\lra$控制体积
+                        \item \textbf{先}对水撒痱子粉后滴液$\hspace{1em}\lra$解决油膜与水的界面不明显问题
+                        \item 往水面上注射一滴油酸酒精溶液$\hspace{1em}\lra$尽可能少的油酸分子
+                        \item 稳定后使用玻璃板盖进行描边$\hspace{1em}\lra$勾勒面积轮廓
                         \item 使用\textbf{格子法}来计算不规则面积(不足半格取$0$,超过半格取$1$)
-                        \item 一滴为$\frac{1}{100} \, ml$油酸酒精溶液,
-                        其油酸体积为$\frac{1}{100} \, ml \vdot \frac{1}{500} = 2 \times 10 ^{-11} \, m^{3}$
+                        \item 一滴为$\frac{1}{100} \, ml$油酸酒精溶液(浓度为$\frac{1}{500}$),
+                              其油酸体积为$\frac{1}{100} \, ml \vdot \frac{1}{500} = 2 \times 10 ^{-11} \, m^{3}$
                     \end{itemize}
           \end{itemize}
 
@@ -65,30 +65,42 @@
           \subsubsection{微观量的估算}
           \begin{enumerate}[label = (\arabic*{})]
               \item 分子层面: 单个分子质量$m_{0}$,单个分子所占空间体积$V_{0}$
-              \item 化学层面: 摩尔质量$M_{mol} \, (g \slash mol)$,摩尔体积$V_{mol} \, (L \slash mol)$
-              \item 实际层面: 质量$M$,体积$V$
-              \item[] 物理量之间的关系: $n = \frac{N}{N_{A}} \, mol \, (N_{A} = 6.02 \cross 10^{23})$
+              \item 化学层面: 物质的量$n \, (mol)$,阿伏伽德罗$N_{A} = 6.02 \cross 10^{23}$
+
+                    \hspace{4.8em}摩尔质量$M_{mol} \, (g \slash mol)$,摩尔体积$V_{mol} \, (L \slash mol)$
+
+              \item 实际层面: 质量$M$,体积$V$,数量$N$
+              \item[] 物理量之间的关系:
                   $$
-                      M_{mol} = \frac{M}{n}   \quad   m_{0} N_{A} = M_{mol}
+                      m_{0} \vdot N = M \quad V_{0} \vdot N = V \quad m_{0} \vdot N_{A} = M_{mol} \quad V_{0} \vdot N_{A} = V_{mol}
                   $$
+
                   $$
-                      V_{mol} = \frac{V}{n}   \quad   V_{0} N_{A} = V_{mol} \quad
+                      n = \frac{N}{N_{A}} \quad M_{mol} = \frac{M}{n} \quad V_{mol} = \frac{V}{n}
                   $$
+
                   $$
                       \hspace{0.2em} \text{摩尔体积适用于固液相,但是计算出来的并不能视作单分子体积,而是单分子占用空间}
                   $$
                   $$
-                      \text{摩尔体积不适用于气体,因为标况下气体为}22.4L\text{,那么除以}N_{A}\text{会导致每个分子一样大}
+                      \hspace{-2em}\text{摩尔体积不适用于气体.标况下为}22.4L\text{,除以}N_{A}\text{会导致每个分子占用空间一样大}
                   $$
 
                   \vspace{-1em}
                   \hspace{-1em}
-                  \begin{adjustbox}{minipage=0.38\linewidth, bgcolor=gray!20, padding=1em}
+                  \begin{adjustbox}{minipage=0.36\linewidth, bgcolor=gray!20, padding=1em}
                       \small % 将字号变小为 small
                       标况: $0^{\circ}C$,一个标准大气压(约$101kPa$)
                   \end{adjustbox}
 
-              \item[] 密度: 区分 \, 分子密度 \, 与 \, 气体密度,利用气体密度所求体积为 \,分子所占空间体积
+              \item 密度: 区分 \, 气体密度$\rho_{gas}$ \, 与 \, 分子密度$\rho_{malecular}$
+
+                    \hspace{2.8em}利用气体密度所求体积为 \,分子所占空间体积$V_{0}$
+
+                    $$
+                        \rho_{gas} = \frac{M}{V} = \frac{m_{0}}{V_{0}}    \quad \quad \quad   \rho_{molecular} = \frac{m_{0}}{V_{molecular}}
+                    $$
+
           \end{enumerate}
 
 \end{enumerate}
@@ -249,7 +261,7 @@
           \end{enumerate}
     \item 理想气体: 有质量,分子无体积,分子之间没有作用力的气体
     \item 两个意义: 分子无体积(仍有占有体积)意味着气体可以无限被压缩
-    
+
           \hspace{4.7em}分子间无作用力(气体内能\textbf{不包含分子势能})
     \item 结论: 理想气体内能只有动能项,其内能大小仅和温度有关
 \end{enumerate}
@@ -346,7 +358,7 @@
 
                         \vspace{-1em}
                         \hspace{-0.9em}\begin{adjustbox}{minipage=0.7\linewidth, bgcolor=gray!20, padding=1em}
-                            \small 
+                            \small
                             液面上升高度 $\, h= \dfrac{2\gamma \cos{\theta}}{\rho gr} \quad $($\theta$:液面切线与固体面所成锐角)
 
                             $\gamma$:表面张力系数;$\quad \theta$:接触角;$\quad \rho$:液体密度;$\quad r$:试管半径
@@ -388,8 +400,8 @@
               \item 温度: 温度越高,蒸发与冷凝强度均高,分子密度也越大,蒸汽的饱和汽压越大
               \item 体积: 与液面上方的体积\textbf{无关}(改变体积会改变当前状态,稳态不变)
               \item 密度: 无关。增大体积,上方蒸汽密度下降,液化能力下降,蒸发能力不变
-              
-              \hspace{2.7em}上方净累积分子,稳态后,密度不变
+
+                    \hspace{2.7em}上方净累积分子,稳态后,密度不变
           \end{itemize}
 \end{enumerate}
 
@@ -628,6 +640,7 @@
 
 \subsubsection{热力学第三定律}
 概念: 绝对零度无法达到($0 \, k \, or \, -273^{\circ}$)
+
 
 
 \end{document}
