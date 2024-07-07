@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  26 JUN 2024 08:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  7 JUL 2024 15:07
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -976,15 +976,8 @@ File: ./pictures/2.3-39.png Graphic file (type bmp)
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-
-
-Package rerunfilecheck Warning: File `热学总复习习题及作业.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `热学总复习习题及作业.out':
-(rerunfilecheck)             Before: 0B28BF5EEC3348BAE98A40A2E2D3178C;2317
-(rerunfilecheck)             After:  D62170B922056461DA3616B792991D09;2333.
+Package rerunfilecheck Info: File `热学总复习习题及作业.out' has not changed.
+(rerunfilecheck)             Checksum: D62170B922056461DA3616B792991D09;2333.
  ) 
 Here is how much of TeX's memory you used:
  32103 strings out of 475591
