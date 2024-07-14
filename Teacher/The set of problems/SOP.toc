@@ -132,8 +132,8 @@
 \contentsline {subsubsection}{\numberline {3.12.5}IV-1: 机械波两质点的运动方向问题}{71}{subsubsection.3.12.5}%
 \contentsline {subsubsection}{\numberline {3.12.6}IV-2: 碰撞反向通过传送带变向}{72}{subsubsection.3.12.6}%
 \contentsline {subsection}{\numberline {3.13}yh七月大区考(2023南开高三7)}{72}{subsection.3.13}%
-\contentsline {section}{\numberline {4}I-1: 电容在接入电路中状态分析}{72}{section.4}%
-\contentsline {section}{\numberline {5}I-2: 牛顿环,偏振镜头与增透增反膜}{73}{section.5}%
-\contentsline {section}{\numberline {6}II-2: 简谐振动双图的路程计算}{74}{section.6}%
-\contentsline {section}{\numberline {7}III-1: 力的合成实验}{75}{section.7}%
-\contentsline {section}{\numberline {8}IV-1: 变质量多次碰撞}{76}{section.8}%
+\contentsline {subsubsection}{\numberline {3.13.1}I-1: 电容在接入电路中状态分析}{72}{subsubsection.3.13.1}%
+\contentsline {subsubsection}{\numberline {3.13.2}I-2: 牛顿环,偏振镜头与增透增反膜}{73}{subsubsection.3.13.2}%
+\contentsline {subsubsection}{\numberline {3.13.3}II-2: 简谐振动双图的路程计算}{74}{subsubsection.3.13.3}%
+\contentsline {subsubsection}{\numberline {3.13.4}III-1: 力的合成实验}{75}{subsubsection.3.13.4}%
+\contentsline {subsubsection}{\numberline {3.13.5}IV-1: 变质量多次碰撞}{76}{subsubsection.3.13.5}%
