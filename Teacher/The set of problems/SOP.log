@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  24 JUL 2024 13:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  27 JUL 2024 14:33
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1296,8 +1296,8 @@ Package rerunfilecheck Warning: File `SOP.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `SOP.out':
-(rerunfilecheck)             Before: D50F6EA895B1ECBE29CD4461A251768C;23275
-(rerunfilecheck)             After:  691644BB77CB6B9D46E6E0830FBFC1DD;23505.
+(rerunfilecheck)             Before: 691644BB77CB6B9D46E6E0830FBFC1DD;23505
+(rerunfilecheck)             After:  F73F6332734CE0058D2EC75A6063B751;23505.
  ) 
 Here is how much of TeX's memory you used:
  33275 strings out of 475591

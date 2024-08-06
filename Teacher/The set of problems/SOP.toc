@@ -89,7 +89,7 @@
 \contentsline {subsubsection}{\numberline {3.1.6}IV-3:磁聚焦+区域面积问题}{47}{subsubsection.3.1.6}%
 \contentsline {subsection}{\numberline {3.2}2024八中高考适应性月考(六)}{48}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}I-1:万有引力航天}{48}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}I-2:势能计算}{48}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2}I-2:电势计算}{48}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.3}II-1:纯电阻动生电动势杆模型}{49}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}IV-1:变质量多次碰撞与数列}{49}{subsubsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.3}2024八中高考适应性月考(七)}{50}{subsection.3.3}%
