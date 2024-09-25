@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  7 JUL 2024 15:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  27 AUG 2024 18:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -949,22 +949,24 @@ File: ./pictures/2.png Graphic file (type bmp)
 File: ./pictures/3.png Graphic file (type bmp)
 <./pictures/3.png>
  [8] [9] [10]
+File: ./pictures/26.png Graphic file (type bmp)
+<./pictures/26.png>
+ [11]
 File: ./pictures/23.png Graphic file (type bmp)
 <./pictures/23.png>
- [11] [12]
+ [12] [13]
 File: ./pictures/24.png Graphic file (type bmp)
 <./pictures/24.png>
- [13]
 File: ./pictures/25.png Graphic file (type bmp)
 <./pictures/25.png>
  [14] [15] [16] [17]
 File: ./pictures/4.png Graphic file (type bmp)
 <./pictures/4.png>
+ [18]
 File: ./pictures/5.png Graphic file (type bmp)
 <./pictures/5.png>
 File: ./pictures/6.png Graphic file (type bmp)
 <./pictures/6.png>
- [18]
 File: ./pictures/7.png Graphic file (type bmp)
 <./pictures/7.png>
 File: ./pictures/8.png Graphic file (type bmp)
@@ -972,16 +974,20 @@ File: ./pictures/8.png Graphic file (type bmp)
  [19]
 File: ./pictures/9.png Graphic file (type bmp)
 <./pictures/9.png>
+ [20]
 File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
- [20]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
 <./pictures/13.png>
- [21]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21]
 File: ./pictures/14.png Graphic file (type bmp)
 <./pictures/14.png>
 File: ./pictures/15.png Graphic file (type bmp)
@@ -990,9 +996,13 @@ File: ./pictures/16.png Graphic file (type bmp)
 <./pictures/16.png>
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
- [22]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
+[22]
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
  [23]
@@ -1003,28 +1013,26 @@ File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
 
 Missing character: There is no 氘 (U+6C18) in font [lmroman12-regular]:mapping=tex-text;!
+[25]
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
-[25] [26] (./review.aux)
+ [26] (./review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 
 
-Package rerunfilecheck Warning: File `review.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: Checksums for `review.out':
-(rerunfilecheck)             Before: 87DCA770B31474A0F8BA335D5C8FC89D;5982
-(rerunfilecheck)             After:  0635E470750FDE93F797C21A4062C9BF;5974.
+Package rerunfilecheck Info: File `review.out' has not changed.
+(rerunfilecheck)             Checksum: 0635E470750FDE93F797C21A4062C9BF;5974.
  ) 
 Here is how much of TeX's memory you used:
- 32368 strings out of 475591
- 674400 string characters out of 5773842
+ 32377 strings out of 475591
+ 674590 string characters out of 5773842
  1947438 words of memory out of 5000000
- 53114 multiletter control sequences out of 15000+600000
+ 53122 multiletter control sequences out of 15000+600000
  572605 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,16n,120p,587b,768s stack positions out of 10000i,1000n,20000p,200000b,200000s
