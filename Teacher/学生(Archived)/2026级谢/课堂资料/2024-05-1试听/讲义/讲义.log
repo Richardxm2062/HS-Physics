@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  10 MAY 2024 13:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  25 SEP 2024 17:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/richard/Github/Handout/Teacher/学生/2026级谢/课堂资料/2024-05-1试听/讲义/讲义
-(/Users/richard/Github/Handout/Teacher/学生/2026级谢/课堂资料/2024-05-1试听/讲义/讲义.tex
+**/Users/richard/Github/HS-Physics/Teacher/学生(Archived)/2026级谢/课堂资料/2024-05-1试听/讲义/讲义
+(/Users/richard/Github/HS-Physics/Teacher/学生(Archived)/2026级谢/课堂资料/2024-05-1试听/讲义/讲义.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -411,7 +411,16 @@ Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/cases/cases.sty
 Package: cases 2020/03/29 ver 3.2
 \numc@numwid=\dimen273
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -815,7 +824,7 @@ LaTeX Font Info:    ... okay on input line 34.
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
-\symlegacymaths=\mathgroup4
+\symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
 (Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
 LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
@@ -918,14 +927,21 @@ Package hyperref Info: Link coloring ON on input line 34.
 
 Package chemgreek Info: Activating mapping `fontspec' on line 34.
 
- (./讲义.toc)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (./讲义.toc)
 \tf@toc=\write5
 \openout5 = `讲义.toc'.
 
  [1
 
 ] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 180--183
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
 
@@ -951,12 +967,12 @@ Package rerunfilecheck Info: File `讲义.out' has not changed.
 (rerunfilecheck)             Checksum: 7AA604AA5EC5E62F3DA3D7524DF70771;180.
  ) 
 Here is how much of TeX's memory you used:
- 31578 strings out of 475591
- 661095 string characters out of 5773842
- 1941438 words of memory out of 5000000
- 52366 multiletter control sequences out of 15000+600000
- 569061 words of font info for 108 fonts, out of 8000000 for 9000
+ 32114 strings out of 475591
+ 667339 string characters out of 5773842
+ 1944438 words of memory out of 5000000
+ 52883 multiletter control sequences out of 15000+600000
+ 572581 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,12n,120p,603b,822s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,120p,616b,822s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 讲义.pdf (6 pages).
