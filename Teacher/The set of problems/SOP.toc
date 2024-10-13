@@ -140,3 +140,7 @@
 \contentsline {subsubsection}{\numberline {3.13.3}II-2: 简谐振动双图的路程计算}{76}{subsubsection.3.13.3}%
 \contentsline {subsubsection}{\numberline {3.13.4}III-1: 力的合成实验}{77}{subsubsection.3.13.4}%
 \contentsline {subsubsection}{\numberline {3.13.5}IV-1: 变质量多次碰撞}{78}{subsubsection.3.13.5}%
+\contentsline {subsection}{\numberline {3.14}名校方案2025届高三9月}{78}{subsection.3.14}%
+\contentsline {subsubsection}{\numberline {3.14.1}全反射问题}{78}{subsubsection.3.14.1}%
+\contentsline {subsubsection}{\numberline {3.14.2}末状态分析与电场力做功计算}{79}{subsubsection.3.14.2}%
+\contentsline {subsubsection}{\numberline {3.14.3}三维双波源的振动问题}{80}{subsubsection.3.14.3}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  13 OCT 2024 16:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  13 OCT 2024 16:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1287,21 +1287,58 @@ File: ./pictures/3.13-4.png Graphic file (type bmp)
  [76]
 File: ./pictures/3.13-5.png Graphic file (type bmp)
 <./pictures/3.13-5.png>
- [77] [78] (./SOP.aux)
+ [77]
+File: ./pictures/3.14-1.png Graphic file (type bmp)
+<./pictures/3.14-1.png>
+File: ./pictures/3.14-2.png Graphic file (type bmp)
+<./pictures/3.14-2.png>
+
+Overfull \hbox (0.12308pt too wide) in paragraph at lines 2097--2098
+[][] 
+ []
+
+[78]
+File: ./pictures/3.14-3.png Graphic file (type bmp)
+<./pictures/3.14-3.png>
+File: ./pictures/3.14-4.png Graphic file (type bmp)
+<./pictures/3.14-4.png>
+
+Overfull \hbox (0.12308pt too wide) in paragraph at lines 2111--2112
+[][] 
+ []
+
+File: ./pictures/3.14-5.png Graphic file (type bmp)
+<./pictures/3.14-5.png>
+[79]
+File: ./pictures/3.14-6.png Graphic file (type bmp)
+<./pictures/3.14-6.png>
+
+Overfull \hbox (0.12308pt too wide) in paragraph at lines 2123--2124
+[][] 
+ []
+
+[80] (./SOP.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-Package rerunfilecheck Info: File `SOP.out' has not changed.
-(rerunfilecheck)             Checksum: C262773EA59CBD02BBEC27C3F445A34B;23663.
+
+
+Package rerunfilecheck Warning: File `SOP.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `SOP.out':
+(rerunfilecheck)             Before: 895901232BBF7F94A61F731476489A8D;24260
+(rerunfilecheck)             After:  D423A7C975D1D36B8651AE65208E0F53;24249.
  ) 
 Here is how much of TeX's memory you used:
- 33284 strings out of 475591
- 698561 string characters out of 5773842
+ 33338 strings out of 475591
+ 699917 string characters out of 5773842
  1955438 words of memory out of 5000000
- 53941 multiletter control sequences out of 15000+600000
+ 53989 multiletter control sequences out of 15000+600000
  569420 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,15n,120p,599b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on SOP.pdf (78 pages).
+Output written on SOP.pdf (80 pages).
