@@ -105,7 +105,7 @@
     \item 总结:\quad 选出正确答案并不难,本质是$\omega_{//}$
     \item 扩展:\quad 进一步思考本题,$P$点的运动为匀速圆周运动,因此其坐标$(x,y)$是可以被表示的.
           $$
-              P_(x,y) = (\cos{(\omega t + \phi_{0})} , \sin{(\omega t + \phi_{0})})
+              P_(x,y) = (\cos{(\omega t + \varphi_{0})} , \sin{(\omega t + \varphi_{0})})
           $$
           同时$Q$点的坐标也是可以被表示的,存在\textbf{几何约束},$P$到$Q$的距离为固定值线段$\overline{PQ} = L$,显然$Q$也是做匀速圆周运动
           圆心为距离圆心$O$右侧$L$处,且角速度小于$P$点.
@@ -282,7 +282,7 @@
                           \text{令} \quad \omega                                                   & = \sqrt{\frac{g}{L}}       \\
                           \dv[2]{x}{t} + \omega^{2}x                                              & = 0                        \\
                           \text{特征根方程} \quad r^{2} = \omega^{2} \quad r                           & = \pm \omega i             \\
-                          x = C \sin{(\omega t + \phi)} \quad \lra \quad T = \frac{2 \pi}{\omega} & = 2 \pi \sqrt{\frac{L}{g}}
+                          x = C \sin{(\omega t + \varphi)} \quad \lra \quad T = \frac{2 \pi}{\omega} & = 2 \pi \sqrt{\frac{L}{g}}
                       \end{align*}
                   \end{proof}
           \end{itemize}
@@ -1231,9 +1231,9 @@ $(2)$要使水银全部溢出，则气体温度为多少？
 \end{itemize}
 
 \begin{proof}
-    设$ y = 10 \sin{\omega t + \phi_{0}}$
+    设$ y = 10 \sin{\omega t + \varphi_{0}}$
     \begin{align*}
-        t & = 0s \quad \sin{\phi_{0}} = 0 \lra \phi_{0} = 0                           \\
+        t & = 0s \quad \sin{\varphi_{0}} = 0 \lra \varphi_{0} = 0                           \\
         t & = 1s \quad \sin{\omega} = 0 \lra \omega = n\pi                            \\
         t & = \frac{1}{2}s \quad \sin{\frac{\omega}{2}} = 1 \lra \omega = \pi + 4n\pi
     \end{align*}
@@ -1249,10 +1249,10 @@ $$
 
 \begin{itemize}
     \item 正解:\quad $ACD$
-    \item 总结:\quad 选项B, $E = - \frac{\triangle \Phi}{\triangle t}$,在高中阶段$\triangle t$比较小的时候为瞬时
+    \item 总结:\quad 选项B, $E = - \frac{\triangle \varphi}{\triangle t}$,在高中阶段$\triangle t$比较小的时候为瞬时
           电动势,当$\triangle t$比较大的时候,即为一个过程量得到的是$\overline{E}$,因此可以得到$\overline{I},\overline{F}$
           \begin{align*}
-              \varepsilon         & = \frac{\triangle \Phi}{\triangle t} = \frac{B \vdot \triangle S}{\triangle t} \\
+              \varepsilon         & = \frac{\triangle \varphi}{\triangle t} = \frac{B \vdot \triangle S}{\triangle t} \\
               I                   & = \frac{\varepsilon}{2R} = \frac{B}{2R} \vdot \frac{\triangle S}{\triangle t}  \\
               F                   & = B I L = \frac{B^{2}L \triangle S}{2R \vdot \triangle t}                      \\
               F \vdot \triangle t & = \frac{B^{2} L \triangle S}{2 R} = m(v_{t} - v_{0})
@@ -1645,7 +1645,23 @@ $$
 \vspace{2em}
 
 \subsection{2024八中高考适应性月考(三)}
-\subsubsection{II-1:速度反向判断}
+\subsubsection{II-1: \texorpdfstring{$\varphi - \theta$} 的匀强电场计算}
+\includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.8-3.png}
+
+\begin{itemize}
+    \item 正解:\quad $AD$
+    \item 总结:\quad 三条曲线均在$\theta_{0} = \frac{\pi}{6}$时电势达到最大值,说明电场线是沿着与x轴正方向的夹角$\theta_{0}$的直线上,且电场线方向指向左下方,
+    曲线1的最大值在三条图像中最大,只有半径越大,$P$点绕原点逆时针转过$\theta_{0}$时,逆着电场线走过的距离才越大,对应的电势才越高,所以曲线1对应的$r$取值为$3r_{0}$ .
+    由上面分析知曲线3对应的取值为$r_{0}$.由题知,曲线3对应的最高电势和最低电势分别为$\varphi_{0}$,$0$(再转动$\pi$),则坐标原点在最高电势点和最低电势点连线的中点,
+    所以坐标原点的电势为$\frac{\varphi_{0}}{2}$,由场强方向可知$e$到$f$,电势先降低再升高. 
+    
+\end{itemize}
+
+
+\vspace{2em}
+
+
+\subsubsection{II-2:速度反向判断}
 \includegraphics[width=0.95\textwidth,keepaspectratio]{./pictures/3.8-1.png}
 
 \begin{itemize}

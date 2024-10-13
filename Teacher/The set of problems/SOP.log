@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  27 JUL 2024 14:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.4)  13 OCT 2024 16:33
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1222,90 +1222,86 @@ File: ./pictures/3.7-4.png Graphic file (type bmp)
  [59]
 File: ./pictures/3.7-2.png Graphic file (type bmp)
 <./pictures/3.7-2.png>
+File: ./pictures/3.8-3.png Graphic file (type bmp)
+<./pictures/3.8-3.png>
 File: ./pictures/3.8-1.png Graphic file (type bmp)
 <./pictures/3.8-1.png>
+ [60]
 File: ./pictures/3.8-2.png Graphic file (type bmp)
 <./pictures/3.8-2.png>
- [60]
+ [61]
 File: ./pictures/3.9-1.png Graphic file (type bmp)
 <./pictures/3.9-1.png>
- [61]
+ [62]
 File: ./pictures/3.10-1.png Graphic file (type bmp)
 <./pictures/3.10-1.png>
- [62]
-File: ./pictures/3.10-2.png Graphic file (type bmp)
-<./pictures/3.10-2.png>
  [63]
 File: ./pictures/3.10-2.png Graphic file (type bmp)
 <./pictures/3.10-2.png>
  [64]
+File: ./pictures/3.10-2.png Graphic file (type bmp)
+<./pictures/3.10-2.png>
+ [65]
 File: ./pictures/3.11-1.png Graphic file (type bmp)
 <./pictures/3.11-1.png>
- [65]
+ [66]
 File: ./pictures/3.11-6.png Graphic file (type bmp)
 <./pictures/3.11-6.png>
- [66]
+ [67]
 File: ./pictures/3.11-2.png Graphic file (type bmp)
 <./pictures/3.11-2.png>
 File: ./pictures/3.11-3.png Graphic file (type bmp)
 <./pictures/3.11-3.png>
- [67]
+ [68]
 File: ./pictures/3.11-4.png Graphic file (type bmp)
 <./pictures/3.11-4.png>
 File: ./pictures/3.11-5.png Graphic file (type bmp)
 <./pictures/3.11-5.png>
- [68]
+ [69]
 File: ./pictures/3.12-1.png Graphic file (type bmp)
 <./pictures/3.12-1.png>
- [69]
+ [70]
 File: ./pictures/3.12-2.png Graphic file (type bmp)
 <./pictures/3.12-2.png>
 File: ./pictures/3.12-3.png Graphic file (type bmp)
 <./pictures/3.12-3.png>
- [70]
+ [71]
 File: ./pictures/3.12-4.png Graphic file (type bmp)
 <./pictures/3.12-4.png>
- [71]
+ [72]
 File: ./pictures/3.12-5.png Graphic file (type bmp)
 <./pictures/3.12-5.png>
- [72]
+ [73]
 File: ./pictures/3.12-6.png Graphic file (type bmp)
 <./pictures/3.12-6.png>
 File: ./pictures/3.13-1.png Graphic file (type bmp)
 <./pictures/3.13-1.png>
- [73]
+ [74]
 File: ./pictures/3.13-2.png Graphic file (type bmp)
 <./pictures/3.13-2.png>
 File: ./pictures/3.13-3.png Graphic file (type bmp)
 <./pictures/3.13-3.png>
- [74]
+ [75]
 File: ./pictures/3.13-4.png Graphic file (type bmp)
 <./pictures/3.13-4.png>
- [75]
+ [76]
 File: ./pictures/3.13-5.png Graphic file (type bmp)
 <./pictures/3.13-5.png>
- [76] [77] (./SOP.aux)
+ [77] [78] (./SOP.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-
-
-Package rerunfilecheck Warning: File `SOP.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `SOP.out':
-(rerunfilecheck)             Before: 691644BB77CB6B9D46E6E0830FBFC1DD;23505
-(rerunfilecheck)             After:  F73F6332734CE0058D2EC75A6063B751;23505.
+Package rerunfilecheck Info: File `SOP.out' has not changed.
+(rerunfilecheck)             Checksum: C262773EA59CBD02BBEC27C3F445A34B;23663.
  ) 
 Here is how much of TeX's memory you used:
- 33275 strings out of 475591
- 698344 string characters out of 5773842
+ 33284 strings out of 475591
+ 698561 string characters out of 5773842
  1955438 words of memory out of 5000000
- 53933 multiletter control sequences out of 15000+600000
+ 53941 multiletter control sequences out of 15000+600000
  569420 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,15n,120p,599b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on SOP.pdf (77 pages).
+Output written on SOP.pdf (78 pages).
