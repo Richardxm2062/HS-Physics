@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  25 MAR 2026 14:04
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  25 MAR 2026 19:27
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -988,7 +988,12 @@ File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
- [22]
+
+Overfull \hbox (3.76334pt too wide) in paragraph at lines 1133--1163
+[]  $[]$   $[]$ 
+ []
+
+[22]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
