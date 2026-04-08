@@ -47,9 +47,8 @@
 \contentsline {subsubsection}{\numberline {6.2.3}电学实验}{23}{subsubsection.6.2.3}%
 \contentsline {subsection}{\numberline {6.3}原子结构}{23}{subsection.6.3}%
 \contentsline {subsubsection}{\numberline {6.3.1}物理学史}{23}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}$\alpha $散射实验}{23}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.2}$\alpha $散射实验}{24}{subsubsection.6.3.2}%
 \contentsline {subsubsection}{\numberline {6.3.3}玻尔模型}{24}{subsubsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.4}天然放射性现象}{25}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}放射性元素的衰变}{26}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}质能方程}{28}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}结合能与比结合能}{28}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.4}放射性元素的衰变}{26}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}质能方程}{28}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}结合能与比结合能}{28}{subsection.6.6}%
