@@ -1301,7 +1301,7 @@ $$
                                   \begin{itemize}
                                       \item 吸收光子: 必须恰好满足
                                             $$
-                                                h\nu = E_m - E_n = \triangle E
+                                                E = h\nu = E_n - E_m \,(n > m) = \triangle E
                                             $$
 
                                       \item 粒子碰撞: 允许$E \ge \triangle E$
@@ -1314,7 +1314,7 @@ $$
                     \end{minipage}
           \end{itemize}
 
-    \item 电子跃迁(从高$\ra$低)
+    \item 电子自发跃迁(从高$\ra$低)
           \begin{itemize}
               \item 激发态电子不稳定,会\textbf{自发}向低能级跃迁
 
@@ -1335,26 +1335,48 @@ $$
 
 \newpage
 
-\subsection{放射性元素的衰变}
+
+\subsection{核子的概念}
+
 \begin{enumerate}
-    \item 原子核的表示: $_{Z}^{A}X$ \quad ($A$表质量数,$Z$为原子核的电荷数 \, eg. $_{2}^{4}He$)
+    \item 原子核由两种基本粒子构成,它们统称为\textbf{核子}:
+
+          \begin{itemize}
+              \item 质子(proton):带正电 \quad 符号 $p$
+              \item 中子(neutron):不带电 \quad 符号 $n$
+          \end{itemize}
+
+    \item 原子核中:
+          \begin{itemize}
+              \item 质子数为 $Z$
+              \item 中子数为 $N$
+          \end{itemize}
+          则核子总数(质量数)为:
+          $$
+              A = Z + N
+          $$
+
+          原子核的表示: $_{Z}^{A}X$ \quad ($A$表质量数,$Z$为原子核的电荷数 \, eg. $_{2}^{4}He$)
 
           \vspace{-1em}
-          \hspace{-0.9em}\begin{adjustbox}{minipage=0.32\linewidth, bgcolor=gray!20, padding=1em}
+          \hspace{-0.9em}\begin{adjustbox}{minipage=0.305\linewidth, bgcolor=gray!20, padding=1em}
               \small
               同位素: \, 质子数一样,质量数不一样
           \end{adjustbox}
           \vspace{-1em}
+\end{enumerate}
 
-          \vspace*{2em}
+\vspace{2em}
 
-    \item 衰变形式:
+\subsection{放射性元素的衰变}
+\begin{enumerate}
+    \item 衰变类型:
           \begin{itemize}
               \item $\alpha$衰变: 放射性元素原子核整体发射$\alpha$粒子
                     $$
                         \nuc{238}{92}{U} \xlongrightarrow{\quad\quad} \nuc{234}{90}{Th}  + \nuc{4}{2}{He}
                     $$
-              \item $\beta$衰变：放射性元素原子核的中子转变为质子与电子(\textbf{非核外电子})
+              \item $\beta$衰变:放射性元素原子核的中子转变为质子与电子(\textbf{非核外电子})
                     $$
                         \begin{aligned}
                             \nuc{1}{0}{n} & \rightarrow \nuc{1}{1}{H} + \nuc{-1}{0}{e}
@@ -1365,7 +1387,7 @@ $$
                     $$
                         \nuc{234}{90}{Th} \xlongrightarrow{\quad\quad}  \nuc{234}{91}{Pa}+ \nuc{0}{-1}{e}
                     $$
-              \item $\gamma$衰变: $\alpha$衰变与$\beta$衰变过程中通常会伴随着$\gamma$射线
+              \item $\gamma$衰变: $\alpha$衰变与$\beta$衰变过程中通常会伴随着$\gamma$射线(并没有释放$\nuc{1}{0}{n}$)
                     $$
                         \begin{aligned}
                             \text{(1) }\alpha\text{衰变伴随}\gamma:\quad
@@ -1378,25 +1400,27 @@ $$
                              & \nuc{99}{43}{Tc}^* \rightarrow \nuc{99}{43}{Tc} + \gamma
                         \end{aligned}
                     $$
-              \item 三种衰变的区别: $\alpha \, \beta $衰变改变的原子核结构,$\gamma$衰变仅释放能量(并没有释放$\nuc{1}{0}{n}$)
-              \item 衰变的轨迹分析: eg.$\alpha$衰变处在$X$磁场下
+              \item 三种衰变的区别: $\alpha \, \beta $衰变改变的原子核结构,$\gamma$衰变仅释放能量
+              \item 衰变的轨迹分析: eg. \, $\alpha$衰变处在某磁场下
                     \begin{align*}
                          & r = \frac{mv}{qB} \quad \text{由动量守恒}  \quad \abs{m_{\alpha}v_{\alpha}} = \abs{m_{\text{核}}v_{\text{核}}} \\
                          & q_{\text{核}} > q_{\alpha} \hspace*{7em} r_{\text{核}} < r_{\alpha}
                     \end{align*}
-              \item[] \hspace*{2em} 总结: 在磁场下$\alpha$衰变为\textbf{蝴蝶圆},$\beta$衰变为\textbf{内切圆}
+              \item[] \hspace*{7.5em} 总结的规律: 在磁场下$\alpha$衰变为\textbf{蝴蝶圆},$\beta$衰变为\textbf{内切圆}
           \end{itemize}
 
           \vspace{2em}
 
     \item 半衰期: 放射性元素的原子核有半数发生衰变所需要的时间\vspace{-1em}
 
-          \hspace{-0.9em}\begin{adjustbox}{minipage=0.91\linewidth, bgcolor=gray!20, padding=1em}
+          \hspace{-0.9em}\begin{adjustbox}{minipage=0.97\linewidth, bgcolor=gray!20, padding=1em}
               \small % 将字号变小为 small
               \begin{itemize}
-                  \item 通过将放射性元素加速到接近光速,由狭义相对论的时间膨胀效应可以延长半衰期
-                  \item 有些放射性元素的原子核和核外电子的波函数更多的重叠,来发生衰变.因此使得电子和原子核的波函数重叠
-                        更少或者直接剥离所有核外电子能够使得半衰期延长
+                  \item 衰变的根本决定因素:取决于核的内部的能量结构(核子数、核力-强相互作用、库仑斥力)
+                  \item 衰变的实现机制:$\alpha$衰变(量子隧穿);$\beta$衰变(弱相互作用);$\gamma$衰变(核内部的能态变化)
+                  \item 衰变的观测效应:将放射性元素的原子核加速到接近光速,狭义相对论的时间膨胀效应可以延长半衰期
+                  \item 电子俘获衰变:其概率取决于核外电子在核附近的概率密度,因此电子波函数与原子核的重叠程度会影响衰变速率;
+                        电子被剥离时,电子俘获过程会被抑制,从而使半衰期延长.而对于$\alpha \, \beta \, \gamma$等衰变,核外电子基本不起作用
               \end{itemize}
           \end{adjustbox}
 
@@ -1412,10 +1436,16 @@ $$
               \begin{enumerate}[label = (\arabic*)]
                   \vspace*{-1em}
                   \item 不同放射性元素的半衰期不同
-                        \vspace*{3em}
+                        \vspace*{2em}
                   \item 半衰期的大小仅与原子核内部结构有关
-                        \vspace*{3em}
+
+                        {\small 高中没有外部条件(压强$P$,温度$T$等)能影响半衰期}
+                        \vspace*{2em}
                   \item 是对同一元素的大量原子核的统计规律
+
+                        $$
+                            n = \frac{t}{T_{1/2}} \quad N = N_0 \left(\frac{1}{2}\right)^n
+                        $$
               \end{enumerate}
           \end{minipage}
 
@@ -1433,7 +1463,7 @@ $$
                         \nuc{9}{4}{Be} + \nuc{4}{2}{He} \xlra \nuc{12}{6}{C} + \nuc{1}{0}{n}
                     $$
 
-              \item 居里夫人$\alpha$粒子轰击铝原子核发现人工放射性同位素$\nuc{30}{15}{P}$(稳定的磷同位素$\nuc{31}{15}{P}$)
+              \item 居里夫人$\alpha$粒子轰击铝原子核发现人工放射性同位素$\nuc{30}{15}{P} \, $(稳定的磷同位素$\nuc{31}{15}{P}$)
                     $$
                         \nuc{27}{13}{Al} + \nuc{4}{2}{He} \xlra \nuc{30}{15}{P} + \nuc{1}{0}{n}
                     $$
@@ -1448,20 +1478,24 @@ $$
 
     \item 核裂变(链式反应)
 
-          \begin{minipage}{0.26\textwidth}
+          \begin{minipage}{0.22\textwidth}
               \includegraphics[width=\textwidth,keepaspectratio]{./pictures/21.png}
           \end{minipage}
           \begin{minipage}{0.65\textwidth}
               \begin{enumerate}[label = (\arabic*)]
-                  \item $\nuc{235}{92}{U} + \nuc{1}{0}{n} \xlra \nuc{141}{56}{Ba} + \nuc{92}{36}{Kr} + 3\nuc{1}{0}{n}$
-                        \vspace*{3em}
+                  \item $\nuc{235}{92}{U} + \nuc{1}{0}{n} \rightarrow \nuc{141}{56}{Ba} + \nuc{92}{36}{Kr} + 3\nuc{1}{0}{n} + \text{能量}$
                   \item 利用重核裂变的链式反应创造原子弹与可控核电站
-                        \vspace*{3em}
-                  \item 慢化剂以控制快中子
+                  \item \textbf{慢化剂}用于降低\,\textbf{快中子}\,的速度,\textbf{提高}裂变概率
 
                         常见慢化剂有石墨,重水,普通水(轻水)
-                        \vspace*{3em}
-                  \item 氢的同位素: 氕(轻水)$\nuc{1}{1}{H}$,氘(重水)$\nuc{2}{1}{氘}$,氚(超重水)$\nuc{3}{1}{H}$
+
+                        设单个中子引发裂变的概率为 $p$
+
+                        \begin{itemize}
+                            \item 无慢化剂(快中子): $p_{\text{快}} \ \text{较小}$
+                            \item 有慢化剂(慢中子): $p_{\text{慢}} \ \text{较大}$
+                        \end{itemize}
+                  \item 氢的同位素: 氕(轻水)$\nuc{1}{1}{H}$, 氘(重水)$\nuc{2}{1}{H}$, 氚(超重水)$\nuc{3}{1}{H}$
               \end{enumerate}
           \end{minipage}
 
@@ -1487,40 +1521,138 @@ $$
 
 \vspace*{2em}
 
+
 \subsection{质能方程}
+
 \begin{itemize}
-    \item 在核反应方程中\textbf{质量数与质子数是守恒的},但是并\textbf{不代表质量守恒}
-    \item 注意平均值的计算并非简单的加和
-    \item 质子和中子的质量数均为$1$,但实际质量略有差异
-    \item 质能方程: $ E = mc^{2} \quad (m:kg \, E:J)$
-    \item 质量单位: $1u$ (原子质量单位,定义为碳原子质量的1/12)
-    \item 能量单位: $1MeV$ (兆电子伏特) \quad $1u$相当于$ 931.5 MeV \quad $ $ 1MeV $ 相当于 $10^{6} \cross 1.6 \cross 10^{-19} J  $
+    \item 在核反应方程中,\textbf{质量数与质子数守恒},但\textbf{质量并不守恒}
+    \item 原子核的质量不能简单看作质子和中子质量的相加,因为实际存在质量亏损
+    \item 质子和中子的质量数均为 $1$,但实际质量略有差异
+    \item 质能方程:
+          \[
+              E = mc^2 \quad (m:\text{kg},\ E:\text{J})
+          \]
+    \item 质量亏损对应能量:
+          \[
+              \Delta E = \Delta m \, c^2
+          \]
+    \item 质量单位: \, $1u$ \, (原子质量单位,定义为碳原子质量的 $\frac{1}{12}$)
+    \item 能量单位(默认乘过$c^{2}$):
+          \[
+              1u \approx 931.5\text{ MeV}, \quad
+              1\text{ MeV} = 1.6 \times 10^{-13}\text{ J}
+          \]
 \end{itemize}
 
 \subsection{结合能与比结合能}
+
 \begin{enumerate}
-    \item 原子核的核子间有一种强大的相互作用力: \textbf{核力}
-          \begin{enumerate}[label = (\alph*{})]
-              \item 在原子核的尺度内,核力比库伦力要大的多
-              \item 核力是短程力,作用范围在$1.5\cross10^{-15}$之内
+    \item 原子核的核子之间存在强相互作用:\textbf{核力}
+          \begin{enumerate}[label = (\alph*)]
+              \item 在原子核尺度内,核力远大于库仑力
+              \item 核力为短程力,作用范围约为 $1.5\times10^{-15}\text{ m}$
 
-                    (大于此距离表现为吸引力,小于此距离表现为排斥力,因此不会完全融合)
+                    当核子间距离处于该量级时表现为吸引力,距离过小时表现为排斥作用
 
-                    \vspace{-1em}
-                    \hspace{-0.9em}\begin{adjustbox}{minipage=0.92\linewidth, bgcolor=gray!20, padding=1em}
-                        \small % 将字号变小为 small
-                        自然界中较轻原子核,质子数与中子数大致相等,对于较重原子核,中子数大于质子数,越
-                        重元素相差越多
+                    \vspace{-1em}\hspace{-0.6em}\begin{adjustbox}{minipage=0.545\linewidth, bgcolor=gray!20, padding=0.8em}
+                        \small
+                        自然界中较轻原子核,质子数与中子数大致相等;
+
+                        对于较重原子核,中子数大于质子数,且原子序数越大差值越大
                     \end{adjustbox}
-                    \vspace{-1em}
-
           \end{enumerate}
 
-    \item 结合能: 原子核是核子结合构成的,要把它们分开所需要的能量称之为原子核的结合能
+    \item 结合能
 
-          原子核越大,它的结合能就越大,所以有意义的应该是结合能与核子数的比值
+          把原子核中的核子完全分开所需要的能量称为结合能
 
-    \item 比结合能: 比结合能越大,表示核子结合越牢,原子核越稳定(具备更低的能量状态)
+          一般来说,核子数越多,总结合能越大,因此更有意义的是比较其平均值
+
+          原子核的质量\textbf{小于}组成它的核子质量之和,
+          其差值对应的能量即为\textbf{结合能}
+
+    \item 比结合能
+
+          设原子核结合能为 $E_{bind}$,核子数为 $A$,则比结合能$E_{0}$:
+          $$
+              E_0 = \frac{E_{bind}}{A}
+          $$
+
+          比结合能越大,表示核子结合越牢,原子核越稳定
+\end{enumerate}
+
+\subsection{具体核反应的概念辨析}
+
+以铀核裂变反应为例:
+
+\[
+    \nuc{235}{92}{U} + \nuc{1}{0}{n} \rightarrow \nuc{141}{56}{Ba} + \nuc{92}{36}{Kr} + 3\nuc{1}{0}{n} + \text{能量}
+\]
+
+\begin{enumerate}[label = (\arabic*)]
+
+    \item \textbf{质量亏损与放能}
+
+          设反应前总质量为 $m_1$,反应后总质量为 $m_2$
+
+          若 $m_1 > m_2$,则存在质量亏损:
+          $$
+              \Delta m = m_1 - m_2
+          $$
+
+          对应释放能量:
+          $$
+              E = \Delta m \, c^2
+          $$
+
+          说明该反应为放能反应
+
+    \item \textbf{质量亏损的本质——结合能变化}
+
+          该反应中，生成物的总质量小于反应物的总质量，
+
+          说明发生了质量亏损，对应释放能量：
+
+          $$
+              E = \Delta m \, c^2
+          $$
+
+          从结合能角度看：
+
+          生成物的总结合能大于反应物，
+
+          多出的结合能以能量形式释放
+
+    \item \textbf{从结合能角度判断反应}
+
+          比较反应前后总结合能:
+
+          生成物总结合能 $>$ 反应物总结合能
+
+          多出的结合能以能量形式释放
+
+    \item \textbf{从比结合能角度理解稳定性}
+
+          裂变过程中:
+
+          重核(铀) $\rightarrow$ 中等质量核(钡、氪)
+
+          比结合能增大,说明核子结合更牢,原子核更稳定
+
+    \item \textbf{统一理解}
+
+          核反应的本质可以概括为:核反应通常朝着比结合能更大的方向进行
+
+          \hspace{11.6em}但是否发生还取决于具体条件
+          $$
+              \text{比结合能增大}
+              \Longleftrightarrow
+              \text{总结合能增大}
+              \Longleftrightarrow
+              \text{放能}
+              \Longleftrightarrow
+              \text{质量亏损}
+          $$
 
 \end{enumerate}
 

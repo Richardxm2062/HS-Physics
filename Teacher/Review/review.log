@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  8 APR 2026 16:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  9 APR 2026 18:44
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1007,31 +1007,29 @@ File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [25]
+ [25] [26]
 File: ./pictures/20.png Graphic file (type bmp)
 <./pictures/20.png>
- [26]
 File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
-
-Missing character: There is no 氘 (U+6C18) in font [lmroman12-regular]:mapping=tex-text;!
+ [27]
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
-[27] [28] (./review.aux)
+ [28] [29] (./review.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: 900170D2A58423526B25E144F171FE2B;5860.
+(rerunfilecheck)             Checksum: 66ED6B5376DDC761910B64712FB81E9E;6096.
  ) 
 Here is how much of TeX's memory you used:
- 32426 strings out of 474773
- 677107 string characters out of 5757723
+ 32461 strings out of 474773
+ 679341 string characters out of 5757723
  1954839 words of memory out of 5000000
- 53976 multiletter control sequences out of 15000+600000
+ 54011 multiletter control sequences out of 15000+600000
  572637 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,19n,120p,587b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (28 pages).
+Output written on review.pdf (29 pages).
