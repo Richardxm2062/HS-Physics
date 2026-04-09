@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  9 APR 2026 19:02
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  9 APR 2026 21:19
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -984,11 +984,16 @@ File: ./pictures/8.png Graphic file (type bmp)
  [21]
 File: ./pictures/9.png Graphic file (type bmp)
 <./pictures/9.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
+[]\TU/STSong(0)/m/n/12.045 核 外 表 层 电 子 吸 收 能 量 克 服 阻
+ []
+
 File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
- [22]
+[22]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
