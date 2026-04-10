@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  9 APR 2026 21:19
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  10 APR 2026 13:42
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -993,12 +993,12 @@ File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
-[22]
+[22] [23] [24]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
 <./pictures/13.png>
- [23]
+ [25]
 File: ./pictures/14.png Graphic file (type bmp)
 <./pictures/14.png>
 File: ./pictures/15.png Graphic file (type bmp)
@@ -1007,34 +1007,34 @@ File: ./pictures/16.png Graphic file (type bmp)
 <./pictures/16.png>
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
- [24]
+ [26]
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [25] [26]
+ [27] [28]
 File: ./pictures/20.png Graphic file (type bmp)
 <./pictures/20.png>
 File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
- [27]
+ [29]
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
- [28] [29] (./review.aux)
+ [30] [31] (./review.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: 66ED6B5376DDC761910B64712FB81E9E;6096.
+(rerunfilecheck)             Checksum: CA28C1D2F0F9629CBBF69FF43332B1DA;6432.
  ) 
 Here is how much of TeX's memory you used:
- 32461 strings out of 474773
- 679341 string characters out of 5757723
+ 32473 strings out of 474773
+ 680111 string characters out of 5757723
  1954839 words of memory out of 5000000
- 54011 multiletter control sequences out of 15000+600000
+ 54023 multiletter control sequences out of 15000+600000
  572637 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,19n,120p,587b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (29 pages).
+Output written on review.pdf (31 pages).

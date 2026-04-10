@@ -45,12 +45,15 @@
 \contentsline {subsubsection}{\numberline {6.2.1}理想模型}{22}{subsubsection.6.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2}实验雏形}{22}{subsubsection.6.2.2}%
 \contentsline {subsubsection}{\numberline {6.2.3}电学实验}{23}{subsubsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.3}原子结构}{23}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}物理学史}{23}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}$\alpha $散射实验}{24}{subsubsection.6.3.2}%
-\contentsline {subsubsection}{\numberline {6.3.3}玻尔模型}{24}{subsubsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.4}核子的概念}{26}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}放射性元素的衰变}{26}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}质能方程}{28}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}结合能与比结合能}{28}{subsection.6.7}%
-\contentsline {subsection}{\numberline {6.8}具体核反应的概念辨析}{29}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.3}康普顿效应与光子动量}{23}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}物质波}{24}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}光的波粒二象性}{24}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}原子结构}{25}{subsection.6.6}%
+\contentsline {subsubsection}{\numberline {6.6.1}物理学史}{25}{subsubsection.6.6.1}%
+\contentsline {subsubsection}{\numberline {6.6.2}$\alpha $散射实验}{26}{subsubsection.6.6.2}%
+\contentsline {subsubsection}{\numberline {6.6.3}玻尔模型}{26}{subsubsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.7}核子的概念}{28}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}放射性元素的衰变}{28}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}质能方程}{30}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}结合能与比结合能}{30}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}具体核反应的概念辨析}{31}{subsection.6.11}%
