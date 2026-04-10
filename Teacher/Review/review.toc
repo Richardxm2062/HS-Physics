@@ -50,7 +50,7 @@
 \contentsline {subsection}{\numberline {6.5}光的波粒二象性}{24}{subsection.6.5}%
 \contentsline {subsection}{\numberline {6.6}原子结构}{25}{subsection.6.6}%
 \contentsline {subsubsection}{\numberline {6.6.1}物理学史}{25}{subsubsection.6.6.1}%
-\contentsline {subsubsection}{\numberline {6.6.2}$\alpha $散射实验}{26}{subsubsection.6.6.2}%
+\contentsline {subsubsection}{\numberline {6.6.2}$\alpha $散射实验}{25}{subsubsection.6.6.2}%
 \contentsline {subsubsection}{\numberline {6.6.3}玻尔模型}{26}{subsubsection.6.6.3}%
 \contentsline {subsection}{\numberline {6.7}核子的概念}{28}{subsection.6.7}%
 \contentsline {subsection}{\numberline {6.8}放射性元素的衰变}{28}{subsection.6.8}%
