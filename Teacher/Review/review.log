@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  10 APR 2026 13:44
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  13 APR 2026 18:40
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -963,37 +963,31 @@ File: ./pictures/26.png Graphic file (type bmp)
 <./pictures/26.png>
 File: ./pictures/23.png Graphic file (type bmp)
 <./pictures/23.png>
- [12] [13]
+ [12] [13] [14]
 File: ./pictures/24.png Graphic file (type bmp)
 <./pictures/24.png>
- [14]
 File: ./pictures/25.png Graphic file (type bmp)
 <./pictures/25.png>
- [15] [16] [17] [18] [19]
+ [15] [16] [17] [18]
 File: ./pictures/4.png Graphic file (type bmp)
 <./pictures/4.png>
 File: ./pictures/5.png Graphic file (type bmp)
 <./pictures/5.png>
 File: ./pictures/6.png Graphic file (type bmp)
 <./pictures/6.png>
- [20]
+ [19]
 File: ./pictures/7.png Graphic file (type bmp)
 <./pictures/7.png>
 File: ./pictures/8.png Graphic file (type bmp)
 <./pictures/8.png>
- [21]
+ [20]
 File: ./pictures/9.png Graphic file (type bmp)
 <./pictures/9.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
-[]\TU/STSong(0)/m/n/12.045 核 外 表 层 电 子 吸 收 能 量 克 服 阻
- []
-
 File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
-[22] [23] [24]
+ [21] [22] [23]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
@@ -1002,31 +996,31 @@ File: ./pictures/14.png Graphic file (type bmp)
 <./pictures/14.png>
 File: ./pictures/15.png Graphic file (type bmp)
 <./pictures/15.png>
- [25]
+ [24]
 File: ./pictures/16.png Graphic file (type bmp)
 <./pictures/16.png>
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
- [26]
+ [25]
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [27] [28]
+ [26] [27]
 File: ./pictures/20.png Graphic file (type bmp)
 <./pictures/20.png>
 File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
- [29]
+ [28]
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
- [30] [31] (./review.aux)
+ [29] [30] (./review.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: CA28C1D2F0F9629CBBF69FF43332B1DA;6432.
+(rerunfilecheck)             Checksum: BB8F7FCF0B230804443F7171C392037B;6160.
  ) 
 Here is how much of TeX's memory you used:
  32473 strings out of 474773
@@ -1037,4 +1031,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  98i,19n,120p,587b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (31 pages).
+Output written on review.pdf (30 pages).

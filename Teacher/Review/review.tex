@@ -688,6 +688,7 @@ $$
               \item 方向: 与液体表面相切,与液体的分界线垂直
               \item 大小: 温度越高张力越小(例如蒸发现象),有杂质的时候张力更小(类似隔断)
           \end{enumerate}
+          \newpage
     \item 浸润与不浸润
           \begin{enumerate}[label = (\arabic*)]
               \item 浸润现象: 毛巾洗脸,下雨衣服湿了,试管凹液面
@@ -716,9 +717,9 @@ $$
                         \end{adjustbox}
                         \vspace{-1em}
 
-                        长时间下雨\textbf{踩土}(减少土壤缝隙宽度)\textbf{加强}毛细现象,减少树木根部积水
+                        长时间下雨\textbf{踩土}(减少土壤缝隙)\textbf{加强}毛细现象,减少树木根部积水
 
-                        干旱后下雨\textbf{刨土}(使得土壤不再有缝隙)\textbf{破坏}毛细现象,增加树木根部水量
+                        干旱后下雨\textbf{刨土}(破坏缝隙)\textbf{破坏}毛细现象,增加树木根部吸水
                     \end{minipage}
           \end{enumerate}
 
@@ -733,7 +734,7 @@ $$
 
 \vspace{2em}
 
-\subsubsection{饱和汽与饱和汽压}
+\begin{comment}\subsubsection{饱和汽与饱和汽压}
 \begin{enumerate}
     \item 概念:
           \begin{enumerate}[label = (\arabic*)]
@@ -774,6 +775,8 @@ $$
 \end{itemize}
 
 \vspace{2em}
+\end{comment}
+\newpage
 
 \subsection{理想气体}
 \subsubsection{气体压强的微观解释}
@@ -913,7 +916,7 @@ $$
           \end{enumerate}
     \item 热力学第一定律
           \begin{enumerate}[label = (\arabic*)]
-              \item 内容: 一个热力学系统的内能增量等于外界向它传递的热量与外界对它所做的功的和
+              \item 内容: 一个热力学系统的\textbf{内能增量}等于\textbf{外界向它传递的热量}与\textbf{外界对它所做的功}的和
               \item 表达式: $ \triangle u = W + Q $
 
                     \begin{center}
@@ -921,9 +924,9 @@ $$
                             \hline
                             \,  & $W$     & $Q$  & $\triangle u$ \\
                             \hline
-                            $+$ & 外界对物体做功 & 吸收热量 & 内能增加          \\
+                            $+$ & 外界对物体做正功 & 吸收热量 & 内能增加          \\
                             \hline
-                            $-$ & 物体对外界做功 & 放出热量 & 内能减少          \\
+                            $-$ & 物体对外界做正功 & 放出热量 & 内能减少          \\
                             \hline
                         \end{tabular}
                     \end{center}
@@ -949,13 +952,13 @@ $$
 
                               $m$一定时,理想气体无分子势能,其内能只和温度有关
                     \end{enumerate}
-              \item 做功公式: $W = P \vdot \triangle V \, $(必须要求恒压过程)
+              \item 做功公式: $W = P \vdot \triangle V \, $(恒压 or $\overline{P}$过程)
           \end{enumerate}
     \item 解题中的特殊字眼
           \begin{enumerate}[label = (\arabic*)]
               \item 绝热: 没有热传递 $Q = 0$
               \item 真空: 不做功 $W = 0$
-              \item 膨胀:气体对外界外做正功 $W < 0$
+              \item 膨胀:外界对气体做负功 $W < 0$
           \end{enumerate}
 
     \item 能量守恒定律: 能量既不可能凭空消失,也不能凭空产生
@@ -987,8 +990,8 @@ $$
     \item 永动机
 
           \begin{enumerate}[label = (\arabic*)]
-              \item 第一类永动机[内部能量完美相互转换](无法造出来): 违背能量守恒,会有其他能量损耗
-              \item 第二类永动机[从外界吸收能量,即将耗散的能量再作为输入](无法造出):
+              \item 第一类永动机[内部能量完美相互转换]: 违背能量守恒,会有其他能量损耗
+              \item 第二类永动机[从外界吸收能量,即将耗散的能量再作为输入]:
 
                     \hspace{6.2em}违背热二的热传递方向性问题,耗散能量无法完全利用
           \end{enumerate}
@@ -1095,13 +1098,13 @@ $$
 \subsection{光电效应}
 \subsubsection{理想模型}
 
-\begin{minipage}{0.5\textwidth}
+\begin{minipage}{0.48\textwidth}
     \includegraphics[width=15em,keepaspectratio]{./pictures/9.png}
 \end{minipage}
 \hspace{-5em}
 \begin{minipage}{0.5\textwidth}
     \begin{itemize}
-        \item 核外表层电子吸收能量克服阻碍\textbf{逃离(电离)}
+        \item 表层电子吸收能量克服阻碍\textbf{逃离(电离)}
         \item[]
         \item 单个光子的能量被吸收后仍有\textbf{余量}
         \item[]则作为电子的初动能
@@ -1239,7 +1242,7 @@ $$
                   \hline
                   衍射           & 康普顿效应        \\
                   \hline
-                  偏振           & 反康普顿效应       \\
+                  偏振           & 逆康普顿效应       \\
                   \hline
               \end{tabular}
           \end{center}
@@ -1476,7 +1479,7 @@ $$
                     \hspace{3.5em}速度:0.99c (穿透能力强,电荷量小->电离能力弱)
                     $$
                         \begin{aligned}
-                            \nuc{1}{0}{n} & \rightarrow \nuc{1}{1}{H} + \nuc{-1}{0}{e}
+                            \nuc{1}{0}{n} & \rightarrow \nuc{1}{1}{H} + \nuc{0}{-1}{e}
                         \end{aligned}
                     $$
 
@@ -1718,7 +1721,7 @@ $$
 
           放能形成了\textbf{更加稳定的生成物},其\textbf{总能量更低}
 
-          因此生成物总结合能 $>$ 反应物总结合能
+          因此\textbf{生成物总结合能}$>$ \textbf{反应物总结合能}
 
           多出的结合能以能量形式释放
 
@@ -1726,15 +1729,19 @@ $$
 
           裂变过程中: 重核(铀) $\rightarrow$ 中等质量核(钡、氪)
 
-          说明核子结合更牢,原子核更稳定,比结合能增大
+          后者原子核更稳定,核子结合得牢固,比结合能增大
 
     \item \textbf{统一理解}
 
-          核反应的本质: \textbf{反应方向由原子核稳定性决定,通常向着比结合能增大的方向发生}
+          核反应的本质: \textbf{反应方向由原子核稳定性决定}
+
+          \hspace{6.7em}\textbf{通常向着原子核更稳定的方向发生(即能量更低的状态)}
 
           \hspace{6.7em}但是否发生还取决于具体条件
 
-          \hspace{6.7em}$\text{比结合能增大} \Longleftrightarrow \text{总结合能增大} \Longleftrightarrow \text{放能} \Longleftrightarrow \text{质量亏损} $
+          $$
+          \text{能量降低} \llra \text{放能(质量亏损)} \llra \text{稳定性增} \llra \text{总结合能增} \llra \text{比结合能增} 
+          $$
 \end{enumerate}
 
 
