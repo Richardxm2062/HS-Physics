@@ -359,8 +359,6 @@ $$
               \item 测量分子直径的方法: 油膜法
           \end{enumerate}
 
-          \vspace{2em}
-
     \item 两种分子模型
           \begin{enumerate}[label = (\arabic*{})]
               \item 球体模型: 认为分子是一个个紧挨着的球体(适用对象: 固体,液体;体积:$V = \frac{4\pi}{3} R^{3}$)
@@ -395,8 +393,6 @@ $$
                               其油酸体积为$\frac{1}{100} \, ml \vdot \frac{1}{500} \, \vdot {10}^{-6}= 2 \times 10 ^{-11} \, m^{3}$
                     \end{itemize}
           \end{itemize}
-
-          \vspace{2em}
 
           \subsubsection{微观量的估算}
           \begin{enumerate}[label = (\arabic*{})]
@@ -437,12 +433,8 @@ $$
                     $$
                         \rho_{gas} = \frac{M}{V} = \frac{m_{0}}{V_{0}}    \quad \quad \quad   \rho_{\text{分子}} = \frac{m_{0}}{V_{\text{分子}}}
                     $$
-
           \end{enumerate}
-
 \end{enumerate}
-
-\vspace{2em}
 
 \subsubsection{扩散现象和布朗运动}
 一切物质的分子都在不停地做无规则的(热)运动
@@ -477,8 +469,6 @@ $$
           \end{enumerate}
 \end{enumerate}
 
-\vspace{2em}
-
 \subsubsection{分子之间的作用力}
 \begin{itemize}
     \item 现象
@@ -486,7 +476,6 @@ $$
               \item 分子虽然有空隙,大量分子聚集形成固体或液体说明了分子之间存在\textbf{引力}
               \item 用力压缩物体,物体内会产生反抗压缩的弹力,说明了分子之间存在斥力
           \end{enumerate}
-          \newpage
     \item 研究表明
           \begin{enumerate}[label = (\arabic*)]
               \item 分子之间引力和斥力\textbf{同时存在}
@@ -580,6 +569,26 @@ $$
 
 \vspace{2em}
 
+\subsubsection{内能}
+\begin{enumerate}
+    \item 分子平均动能: 温度有关
+    \item 分子势能: 由分子的\textbf{位置}决定,在微观上与\textbf{分子间距}相关,宏观上与\textbf{体积}相关
+    \item 内能的概念: 物体\textbf{所有分子}的 热运动的\textbf{动能与分子势能}的总和
+    \item 内能的决定因素:
+          \begin{enumerate}[label = (\arabic*)]
+              \item 微观上: 分子个数,分子平均动能,分子势能
+              \item 宏观上: 质量,温度,体积
+          \end{enumerate}
+    \item \textbf{理想气体}: 有质量,分子无体积,分子之间没有作用力的气体
+    \item 两个意义: 分子无体积(仍有占有体积)意味着气体可以无限被压缩
+
+          \hspace{4.7em}分子间无作用力(气体内能\textbf{不包含分子势能})
+    \item 结论: 理想气体内能只有动能项,其内能大小仅和温度有关
+\end{enumerate}
+
+\newpage
+
+\subsection{气体、固体和液体}
 \subsubsection{温度和温标}
 \begin{enumerate}
     \item 气体的状态参量
@@ -598,34 +607,139 @@ $$
     \item 热平衡: 两个热力学系统之间无温度差(温度相同)
 \end{enumerate}
 
-\vspace{2em}
+\vspace{1em}
 
-\subsubsection{内能}
+\subsubsection{气体}
 \begin{enumerate}
-    \item 分子平均动能: 温度有关
-    \item 分子势能: 由分子的\textbf{位置}决定,在微观上与\textbf{分子间距}相关,宏观上与\textbf{体积}相关
-    \item 内能的概念: 物体\textbf{所有分子}的 热运动的\textbf{动能与分子势能}的总和
-    \item 内能的决定因素:
+    \item 气体压强的微观解释
           \begin{enumerate}[label = (\arabic*)]
-              \item 微观上: 分子个数,分子平均动能,分子势能
-              \item 宏观上: 质量,温度,体积
-          \end{enumerate}
-    \item \textbf{理想气体}: 有质量,分子无体积,分子之间没有作用力的气体
-    \item 两个意义: 分子无体积(仍有占有体积)意味着气体可以无限被压缩
+              \item 气压: 气体分子对物质界面不断的撞击
 
-          \hspace{4.7em}分子间无作用力(气体内能\textbf{不包含分子势能})
-    \item 结论: 理想气体内能只有动能项,其内能大小仅和温度有关
+              \item 推导(截面积法):
+                    \begin{align*}
+                        F \Delta t                      & = N \cdot 2mv \quad (\text{碰撞后原速反弹})                                                      \\
+                        N                               & = \frac{1}{2} n \Delta V = \frac{1}{2} n (v \Delta t \cdot S) \quad (\text{仅一半粒子速度为碰撞方向}) \\
+                        \Longrightarrow\quad F \Delta t & = \frac{1}{2} n v S \Delta t \cdot 2mv                                                    \\
+                        \Longrightarrow\quad F          & = nmv^2 S                                                                                 \\
+                        \Longrightarrow\quad P          & = \frac{F}{S} = nmv^2
+                    \end{align*}
+
+              \item 影响压强的因素:
+                    $n$(单位体积分子数,与体积$V$有关)
+
+                    \hspace{7.5em} $v$(分子热运动速度,与温度$T$有关)
+
+                    \vspace{-1em}
+                    \hspace{-0.9em}
+                    \begin{adjustbox}{minipage=0.65\linewidth, bgcolor=gray!20, padding=1em}
+                        \small
+                        $\Phi = \frac{N}{S \Delta t}$ (分子通量)表示单位面积、单位时间的撞击次数\\
+                        与分子数密$n$的关系为 $\displaystyle \Phi = \frac{1}{2}n\bar{v}$
+                    \end{adjustbox}
+                    \vspace{-1em}
+          \end{enumerate}
 \end{enumerate}
 
+\vspace{1em}
+
+\subsubsection{压强的表示以及画法}
+\begin{enumerate}
+    \item 压强的表示方法
+          \begin{enumerate}[label = (\arabic*)]
+              \item 公式: $P = \frac{F}{S} \quad $ 单位: 帕斯卡$Pa$
+              \item 表示方法
+                    \begin{enumerate}
+                        \item 帕斯卡: $Pa$
+                        \item 一个大气压: $1atm = 10^{5}Pa$
+                        \item 汞柱高度: $cmHg \,  (1atm = 76cmHg)$
+                        \item 任意液柱: $\rho gh$
+                    \end{enumerate}
+          \end{enumerate}
+    \item 压强的的画法: 气体\textbf{垂直}指向碰撞面
+    \item 压强的等式
+          \begin{enumerate}[label = (\arabic*)]
+              \item 液面封闭气体
+                    \begin{itemize}
+                        \item 研究对象: 液面/液柱
+                        \item 列式模版: 大气压两侧平衡(包括液压)
+                        \item 注意: 等式两边的单位制应该一致,同时用帕斯卡$Pa$或者$cmHg$,$h$取竖直高度
+                    \end{itemize}
+              \item 连通器
+                    \begin{itemize}
+                        \item 原理: 等高液面的压强是相等的
+                        \item 研究对象: 等高液面
+                        \item 列式模版: 连通器两侧对于等高液面的压强相等
+                        \item 注意: $h$为高度差,以及液体的压强方向
+                    \end{itemize}
+              \item 活塞(考虑质量)
+                    \begin{itemize}
+                        \item 研究对象: 活塞(受力分析)
+                        \item 列式模版: 压强转化为力,力学平衡等式
+                        \item 注意: 活塞有一侧为斜面时,斜面积需要重新计算,同时该力进行分解
+                    \end{itemize}
+          \end{enumerate}
+\end{enumerate}
+
+\vspace{1em}
+
+\subsubsection{气体三大实验定律}
+\begin{enumerate}[label = \arabic*]
+    \item 气体的状态参量
+          \begin{enumerate}[label = (\arabic*)]
+              \item 参量: $P \, V \, T$
+              \item 关系: $\frac{PV}{T} = C$
+              \item 适用条件: 同一气体且质量(物质的量)不变(当漏气时$C$下降)
+          \end{enumerate}
+    \item 玻意耳定律(人名要记忆)---$T$不变
+          \begin{itemize}
+              \item 概念: 温度一定时,一定质量的气体,$P,V$成反比$\lra PV = C$
+              \item 记忆方式: \textbf{耳}的右边有类似$T$的存在
+          \end{itemize}
+    \item 查理定律(人名要记)---$V$不变
+          \begin{itemize}
+              \item 概念: 体积一定时,一定质量的气体,$P,T$成正比$\lra \frac{P}{T} = C$
+              \item 记忆方式: \textbf{查}中间有个倒着的$V$
+          \end{itemize}
+    \item 盖-吕萨克定律(人名要记)---$P$不变
+          \begin{itemize}
+              \item 概念: 压强一定时,一定质量的气体,$V,T$成正比$\lra \frac{V}{T} = C$
+              \item 记忆方式: \textbf{萨}左下角有个类似$P$的存在
+          \end{itemize}
+\end{enumerate}
+
+\vspace{1em}
+
+\subsubsection{方法论}
+
+\begin{itemize}
+    \item 瞬态变化量的计算(液柱移动问题)
+
+          $ \frac{P}{T} = \frac{\triangle P}{\triangle T} \quad or \quad \frac{V}{T} = \frac{\triangle V}{\triangle T}  \quad $(过原点的函数才能这样写)
+
+          等式只用做计算$\triangle P \,or\, \triangle T \, or \, \triangle V$瞬间变化程度,以此来判断液面移动方向
+
+          并不代表稳态后的$\triangle P \,or\, \triangle T \,or\, \triangle V$
+
+          若在瞬态过程中,有同时有多个量导致液面的上升或下降
+
+          可以直接考虑末态方程,从结果上判断某些量的确定增减性,在进行判断液面
+
+    \item 充放气问题-物质的量的变化
+
+          克拉伯龙方程: $PV = n R T \quad $($n$:物质的量;$R$:气体常数)
+
+          涉及气体物质的量的变化,待被充气体$P\triangle V = \triangle n RT \quad $($n,V,m$具有等价性)
+
+\end{itemize}
+
 \vspace{2em}
 
-\subsection{物态及物态的变化}
-\subsubsection{晶体与非晶体}
+\subsubsection{固体}
 \begin{enumerate}
-    \item 固体
+    \item 晶体、非晶体
           \begin{itemize}
               \item 根据有无固定熔点分为: 晶体(有) \, 非晶体(无)
-              \item 根据有无规则的外形分为: 单晶体(有) \, 多晶体(无)
+              \item 根据有无规则的外形\textbf{晶体}分为: 单晶体(有) \, 多晶体(无)
 
                     \vspace{-1em}
                     \hspace{-0.9em}\begin{adjustbox}{minipage=0.76\linewidth, bgcolor=gray!20, padding=1em}
@@ -675,8 +789,6 @@ $$
           \end{tabular}
 \end{enumerate}
 
-\vspace{2em}
-
 \subsubsection{液体}
 \begin{enumerate}
     \item 表面张力
@@ -702,9 +814,9 @@ $$
               \item 毛细现象: 本质上是 \, \textbf{浸润} \,和\, \textbf{表面张力} \, 的共同作用
 
                     \hspace{4.7em}\begin{minipage}{0.7\textwidth}
-                        浸润时尽可能贴附固体分子(水液面上升)
+                        浸润时尽可能贴附固体分子\textbf{(水液面上升)}
 
-                        非浸润时尽可能排斥固体分子(水银液面下降)
+                        非浸润时尽可能排斥固体分子\textbf{(水银液面下降)}
 
                         试管越细,那么管内的液体则越少,毛细现象越明显
 
@@ -725,7 +837,7 @@ $$
 
     \item 液晶: 像液体一样具有流动性,光学性质与单晶体相似具有\textbf{各向异性}
 
-          \hspace{2.4em} 液晶不是单/多晶体与非晶体,独立种类
+          \hspace{2.4em} 液晶\textbf{不是}单/多晶体与非晶体,独立种类
 
           \begin{center}
               \includegraphics[width = 0.5\textwidth]{./pictures/25.png}
@@ -776,137 +888,11 @@ $$
 
 \vspace{2em}
 \end{comment}
+
 \newpage
 
-\subsection{理想气体}
-\subsubsection{气体压强的微观解释}
-\begin{enumerate}
-    \item 理解气体压强
-          \begin{enumerate}[label = (\arabic*)]
-              \item 气压: 气体分子对物质界面不断的撞击
-
-              \item 推导(截面积法):
-                    \begin{align*}
-                        F \Delta t                      & = N \cdot 2mv \quad (\text{碰撞后原速反弹})                                                      \\
-                        N                               & = \frac{1}{2} n \Delta V = \frac{1}{2} n (v \Delta t \cdot S) \quad (\text{仅一半粒子速度为碰撞方向}) \\
-                        \Longrightarrow\quad F \Delta t & = \frac{1}{2} n v S \Delta t \cdot 2mv                                                    \\
-                        \Longrightarrow\quad F          & = nmv^2 S                                                                                 \\
-                        \Longrightarrow\quad P          & = \frac{F}{S} = nmv^2
-                    \end{align*}
-
-              \item 影响压强的因素:
-                    $n$(单位体积分子数,与体积$V$有关)
-
-                    \hspace{7.5em} $v$(分子热运动速度,与温度$T$有关)
-
-                    \vspace{-1em}
-                    \hspace{-0.9em}
-                    \begin{adjustbox}{minipage=0.65\linewidth, bgcolor=gray!20, padding=1em}
-                        \small
-                        $\Phi = \frac{N}{S \Delta t}$ (分子通量)表示单位面积、单位时间的撞击次数\\
-                        与分子数密$n$的关系为 $\displaystyle \Phi = \frac{1}{2}n\bar{v}$
-                    \end{adjustbox}
-                    \vspace{-1em}
-
-          \end{enumerate}
-\end{enumerate}
-
-\vspace{2em}
-
-\subsubsection{压强的表示以及画法}
-\begin{enumerate}
-    \item 压强的表示方法
-          \begin{enumerate}[label = (\arabic*)]
-              \item 公式: $P = \frac{F}{S} \quad $ 单位: 帕斯卡$Pa$
-              \item 表示方法
-                    \begin{enumerate}
-                        \item 帕斯卡: $Pa$
-                        \item 一个大气压: $1atm = 10^{5}Pa$
-                        \item 汞柱高度: $cmHg \,  (1atm = 76cmHg)$
-                        \item 任意液柱: $\rho gh$
-                    \end{enumerate}
-          \end{enumerate}
-    \item 压强的的画法: 气体\textbf{垂直}指向碰撞面
-    \item 压强的等式
-          \begin{enumerate}[label = (\arabic*)]
-              \item 液面封闭气体
-                    \begin{itemize}
-                        \item 研究对象: 液柱
-                        \item 列式模版: 大气压两侧平衡(包括液压)
-                        \item 注意: 等式两边的单位制应该一致,同时用帕斯卡$Pa$或者$cmHg$,$h$取竖直高度
-                    \end{itemize}
-              \item 连通器
-                    \begin{itemize}
-                        \item 原理: 等高液面的压强是相等的
-                        \item 研究对象: 等高液面
-                        \item 列式模版: 连通器两侧对于等高液面的压强相等
-                        \item 注意: $h$为高度差,以及液体的压强方向
-                    \end{itemize}
-              \item 活塞(考虑质量)
-                    \begin{itemize}
-                        \item 研究对象: 活塞(受力分析)
-                        \item 列式模版: 压强转化为力,力学平衡等式
-                        \item 注意: 活塞有一侧为斜面时,斜面积需要重新计算,同时该力进行分解
-                    \end{itemize}
-          \end{enumerate}
-\end{enumerate}
-
-\vspace{2em}
-
-\subsubsection{气体三大实验定律}
-\begin{enumerate}[label = \arabic*]
-    \item 气体的状态参量
-          \begin{enumerate}[label = (\arabic*)]
-              \item 参量: $P \, V \, T$
-              \item 关系: $\frac{PV}{T} = C$
-              \item 适用条件: 同一气体且质量(物质的量)不变(当漏气时$C$下降)
-          \end{enumerate}
-    \item 玻意耳定律(人名要记忆)---$T$不变
-          \begin{itemize}
-              \item 概念: 温度一定时,一定质量的气体,$P,V$成反比$\lra PV = C$
-              \item 记忆方式: \textbf{耳}的右边有类似$T$的存在
-          \end{itemize}
-    \item 查理定律(人名要记)---$V$不变
-          \begin{itemize}
-              \item 概念: 体积一定时,一定质量的气体,$P,T$成正比$\lra \frac{P}{T} = C$
-              \item 记忆方式: \textbf{查}中间有个倒着的$V$
-          \end{itemize}
-    \item 盖-吕萨克定律(人名要记)---$P$不变
-          \begin{itemize}
-              \item 概念: 压强一定时,一定质量的气体,$V,T$成正比$\lra \frac{V}{T} = C$
-              \item 记忆方式: \textbf{萨}左下角有个类似$P$的存在
-          \end{itemize}
-\end{enumerate}
-
-\vspace{2em}
-
-\subsubsection{液柱的移动}
-
-\begin{itemize}
-    \item 瞬态变化量的计算
-
-          $ \frac{P}{T} = \frac{\triangle P}{\triangle T} \quad or \quad \frac{V}{T} = \frac{\triangle V}{\triangle T}  \quad $(过原点的函数才能这样写)
-
-          等式只用做计算$\triangle P \,or\, \triangle T \, or \, \triangle V$瞬间变化程度,以此来判断液面移动方向
-
-          并不代表稳态后的$\triangle P \,or\, \triangle T \,or\, \triangle V$
-
-          若在瞬态过程中,有同时有多个量导致液面的上升或下降
-
-          可以直接考虑末态方程,从结果上判断某些量的确定增减性,在进行判断液面
-
-    \item 充放气问题-物质的量的变化
-
-          克拉伯龙方程: $PV = n R T \quad $($n$:物质的量;$R$:气体常数)
-
-          涉及气体物质的量的变化,待被充气体$P\triangle V = \triangle n RT \quad $($n,V,m$具有等价性)
-
-\end{itemize}
-
-\vspace{2em}
-
-\subsection{热力学三大定律}
-\subsubsection{热力学第一定律和能量守恒}
+\subsection{热力学定律}
+\subsubsection{热力学第一定律}
 
 \begin{enumerate}[label = \arabic*]
     \item 改变物体内能的两种方式
@@ -914,9 +900,9 @@ $$
               \item 做功(摩擦生热等)
               \item 热传递(热辐射等)
           \end{enumerate}
-    \item 热力学第一定律
+    \item 定义
           \begin{enumerate}[label = (\arabic*)]
-              \item 内容: 一个热力学系统的\textbf{内能增量}等于\textbf{外界向它传递的热量}与\textbf{外界对它所做的功}的和
+              \item 一个热力学系统的\textbf{内能增量}等于\textbf{外界向它传递的热量}与\textbf{外界对它所做的功}的和
               \item 表达式: $ \triangle u = W + Q $
 
                     \begin{center}
@@ -952,31 +938,34 @@ $$
 
                               $m$一定时,理想气体无分子势能,其内能只和温度有关
                     \end{enumerate}
-              \item 做功公式: $W = P \vdot \triangle V \, $(恒压 or $\overline{P}$过程)
+              \item 做功公式: $W = P \vdot \triangle V \, $(恒压 or $\overline{P}$ or $P-V$图像面积)
           \end{enumerate}
     \item 解题中的特殊字眼
           \begin{enumerate}[label = (\arabic*)]
-              \item 绝热: 没有热传递 $Q = 0$
-              \item 真空: 不做功 $W = 0$
-              \item 膨胀:外界对气体做负功 $W < 0$
+              \item 绝热: 没有热交换 $Q = 0$
+              \item 真空: 外界无气体做功 $W = 0$
+              \item 膨胀: 外界对气体做负功 $W < 0$
           \end{enumerate}
-
-    \item 能量守恒定律: 能量既不可能凭空消失,也不能凭空产生
-
-          \hspace{6.7em}它只能从一种形式转换为另一种形式,总量保持不变
 \end{enumerate}
 
 \vspace{2em}
 
-\subsubsection{热力学第二定律和永动机}
+\subsubsection{能量守恒定律}
+
+        定义: 能量既不可能凭空消失,也不能凭空产生
+
+          \hspace{2.7em}它只能从一种形式转换为另一种形式,总量保持不变
+
+\subsubsection{热力学第二定律}
 \begin{enumerate}[label = \arabic*]
-    \item 概念:
+    \item 定义: 反映宏观自然过程的方向性的定律就是\textbf{热力学第二定律}
+    \item 两种表述:
 
-          \hspace{2.7em}克劳修斯表述: 热量不能\textbf{自发}的从低温传递到高温(方向性表述)
+          \hspace{2.7em}克劳修斯表述: \textbf{热量}不能\textbf{自发}的从低温传递到高温(方向性表述)
 
-          \hspace{2.7em}开尔文表述: 不可能从单一热源吸收能量,使之完全变成\textbf{有用功},而不产生其他影响
+          \hspace{2.7em}开尔文表述: 不可能从\textbf{单一热源}吸收热量,使之完全变成\textbf{有用功},而不产生其他影响
 
-          \hspace{8.4em}热机的效率不可能达到$100 \%$
+          \hspace{8.4em}$\lra$热机的效率不可能达到$100 \%$
     \item: 易错概念:
 
           \hspace{4.7em}热量不能自发地从内能低的传到内能高的物体($\times$)
@@ -986,8 +975,11 @@ $$
           \hspace{4.7em}自然界中自发进行的与热现象有关的宏观物理过程都具有方向性(\checkmark)
 
           \hspace{4.7em}一切与热现象有关的宏观自然过程都是不可逆的(\checkmark)
+\end{enumerate}
 
-    \item 永动机
+\vspace{2em}
+
+\subsubsection{永动机}
 
           \begin{enumerate}[label = (\arabic*)]
               \item 第一类永动机[内部能量完美相互转换]: 违背能量守恒,会有其他能量损耗
@@ -995,7 +987,8 @@ $$
 
                     \hspace{6.2em}违背热二的热传递方向性问题,耗散能量无法完全利用
           \end{enumerate}
-\end{enumerate}
+
+\vspace{2em}
 
 \subsubsection{热力学第三定律}
 概念: 绝对零度无法达到($0 \, k \, or \, -273^{\circ}$)
