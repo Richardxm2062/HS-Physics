@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  24 APR 2026 14:19
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.20)  12 MAY 2026 17:52
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -964,31 +964,31 @@ File: ./pictures/26.png Graphic file (type bmp)
  [11]
 File: ./pictures/23.png Graphic file (type bmp)
 <./pictures/23.png>
- [12] [13] [14] [15] [16]
+ [12] [13] [14] [15] [16] [17]
 File: ./pictures/24.png Graphic file (type bmp)
 <./pictures/24.png>
 File: ./pictures/25.png Graphic file (type bmp)
 <./pictures/25.png>
- [17] [18] [19]
+ [18] [19] [20]
 File: ./pictures/4.png Graphic file (type bmp)
 <./pictures/4.png>
 File: ./pictures/5.png Graphic file (type bmp)
 <./pictures/5.png>
 File: ./pictures/6.png Graphic file (type bmp)
 <./pictures/6.png>
- [20]
+ [21]
 File: ./pictures/7.png Graphic file (type bmp)
 <./pictures/7.png>
 File: ./pictures/8.png Graphic file (type bmp)
 <./pictures/8.png>
- [21]
+ [22]
 File: ./pictures/9.png Graphic file (type bmp)
 <./pictures/9.png>
 File: ./pictures/10.png Graphic file (type bmp)
 <./pictures/10.png>
 File: ./pictures/11.png Graphic file (type bmp)
 <./pictures/11.png>
- [22] [23] [24]
+ [23] [24] [25]
 File: ./pictures/12.png Graphic file (type bmp)
 <./pictures/12.png>
 File: ./pictures/13.png Graphic file (type bmp)
@@ -997,25 +997,25 @@ File: ./pictures/14.png Graphic file (type bmp)
 <./pictures/14.png>
 File: ./pictures/15.png Graphic file (type bmp)
 <./pictures/15.png>
- [25]
+ [26]
 File: ./pictures/16.png Graphic file (type bmp)
 <./pictures/16.png>
 File: ./pictures/17.png Graphic file (type bmp)
 <./pictures/17.png>
 File: ./pictures/18.png Graphic file (type bmp)
 <./pictures/18.png>
- [26]
+ [27]
 File: ./pictures/19.png Graphic file (type bmp)
 <./pictures/19.png>
- [27] [28]
+ [28] [29]
 File: ./pictures/20.png Graphic file (type bmp)
 <./pictures/20.png>
 File: ./pictures/21.png Graphic file (type bmp)
 <./pictures/21.png>
- [29]
+ [30]
 File: ./pictures/22.png Graphic file (type bmp)
 <./pictures/22.png>
- [30] [31] (./review.aux)
+ [31] [32] (./review.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1032,4 +1032,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  98i,19n,120p,587b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on review.pdf (31 pages).
+Output written on review.pdf (32 pages).

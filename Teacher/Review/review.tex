@@ -725,11 +725,55 @@ $$
           可以直接考虑末态方程,从结果上判断某些量的确定增减性,在进行判断液面
 
     \item 充放气问题-物质的量的变化
+          \begin{enumerate}
+              \item 克拉伯龙方程: $PV = n R T \quad $($n$:物质的量;$R$:气体常数)
+              \item 待充$or$待抽气体: $P\triangle V = \triangle n RT \quad $($n,V,m$具有等价性)
+              \item 核心: \textbf{物质的量}守恒
+              \item 充气: 待充气体的压强$P$通常会给出
+                    $$
+                        P_{1}V_{1} + n P\triangle{V} = P_{2}V_{2}
+                    $$
+              \item 抽气: 抽气的压强有两种代法
+                    \begin{itemize}
 
-          克拉伯龙方程: $PV = n R T \quad $($n$:物质的量;$R$:气体常数)
+                        \item 视为等温扩容
+                              $$
+                                  P_{1}V_{1}
+                                  =
+                                  P_{2}(V_{1}+\triangle V)
+                              $$
 
-          涉及气体物质的量的变化,待被充气体$P\triangle V = \triangle n RT \quad $($n,V,m$具有等价性)
+                        \item 按比例抽走部分气体后,剩余气体重新充满原体积
+                              $$
+                                  P_{1}V_{1}
+                                  -
+                                  P_{1}\triangle V
+                                  =
+                                  P_{2}V_{1}
+                              $$
+                        \item $n$次抽气模型(等温),压强等比递减
+                              $$
+                                  P_nV - P_n\triangle V = P_{n+1}V
+                              $$
+                              $$
+                                  P_{n+1}
+                                  =
+                                  P_n
+                                  \left(
+                                  1-\frac{\triangle V}{V}
+                                  \right)
+                              $$
+                              $$
+                                  P_n
+                                  =
+                                  P_0
+                                  \left(
+                                  1-\frac{\triangle V}{V}
+                                  \right)^n
+                              $$
 
+                    \end{itemize}
+          \end{enumerate}
 \end{itemize}
 
 \vspace{2em}
@@ -908,7 +952,7 @@ $$
                     \begin{center}
                         \begin{tabular}{|c|c|c|c|}
                             \hline
-                            \,  & $W$     & $Q$  & $\triangle u$ \\
+                            \,  & $W$      & $Q$  & $\triangle u$ \\
                             \hline
                             $+$ & 外界对物体做正功 & 吸收热量 & 内能增加          \\
                             \hline
@@ -952,9 +996,9 @@ $$
 
 \subsubsection{能量守恒定律}
 
-        定义: 能量既不可能凭空消失,也不能凭空产生
+定义: 能量既不可能凭空消失,也不能凭空产生
 
-          \hspace{2.7em}它只能从一种形式转换为另一种形式,总量保持不变
+\hspace{2.7em}它只能从一种形式转换为另一种形式,总量保持不变
 
 \subsubsection{热力学第二定律}
 \begin{enumerate}[label = \arabic*]
@@ -981,12 +1025,12 @@ $$
 
 \subsubsection{永动机}
 
-          \begin{enumerate}[label = (\arabic*)]
-              \item 第一类永动机[内部能量完美相互转换]: 违背能量守恒,会有其他能量损耗
-              \item 第二类永动机[从外界吸收能量,即将耗散的能量再作为输入]:
+\begin{enumerate}[label = (\arabic*)]
+    \item 第一类永动机[内部能量完美相互转换]: 违背能量守恒,会有其他能量损耗
+    \item 第二类永动机[从外界吸收能量,即将耗散的能量再作为输入]:
 
-                    \hspace{6.2em}违背热二的热传递方向性问题,耗散能量无法完全利用
-          \end{enumerate}
+          \hspace{6.2em}违背热二的热传递方向性问题,耗散能量无法完全利用
+\end{enumerate}
 
 \vspace{2em}
 
@@ -1373,7 +1417,7 @@ $$
                     \end{minipage}
 
                     \newpage
-                
+
               \item[] 氢原子能级(用能级差表示跃迁)
 
               \item[]
@@ -1588,7 +1632,7 @@ $$
                             \item 无慢化剂(快中子): $p_{\text{快}} \ \text{较小}$
                             \item 有慢化剂(慢中子): $p_{\text{慢}} \ \text{较大}$
                         \end{itemize}
-                    \item 插入\textbf{镉棒}吸收中子,降低反应强度
+                  \item 插入\textbf{镉棒}吸收中子,降低反应强度
                   \item 氢的同位素: 氕(轻水)$\nuc{1}{1}{H}$, 氘(重水)$\nuc{2}{1}{H}$, 氚(超重水)$\nuc{3}{1}{H}$
               \end{enumerate}
           \end{minipage}
@@ -1734,7 +1778,7 @@ $$
           \hspace{6.7em}但是否发生还取决于具体条件
 
           $$
-          \text{能量降低} \llra \text{放能(质量亏损)} \llra \text{稳定性增} \llra \text{总结合能增} \llra \text{比结合能增} 
+              \text{能量降低} \llra \text{放能(质量亏损)} \llra \text{稳定性增} \llra \text{总结合能增} \llra \text{比结合能增}
           $$
 \end{enumerate}
 
