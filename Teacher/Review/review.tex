@@ -729,31 +729,23 @@ $$
               \item 克拉伯龙方程: $PV = n R T \quad $($n$:物质的量;$R$:气体常数)
               \item 待充$or$待抽气体: $P\triangle V = \triangle n RT \quad $($n,V,m$具有等价性)
               \item 核心: \textbf{物质的量}守恒
-              \item 充气: 待充气体的压强$P$通常会给出
+              \item 充气: 待充气体的压强$P$通常会给出,容器体积不变
                     $$
-                        P_{1}V_{1} + n P\triangle{V} = P_{2}V_{2}
+                        P_{0}V_{0} + n P\triangle{V} = P_{n}V_{0}
                     $$
-              \item 抽气: 两种抽气模型(不能混用$\triangle{V}$的物理含义不一样)
+              \item 抽气: 两种抽气模型(不能混用,$\triangle{V}$的物理含义不一样)
                     \begin{itemize}
 
-                        \item 固定抽气体积,视为等温扩容
+                        \item 固定抽气体积($\triangle{V}$),视为等温扩容
                               $$
-                                  P_{1}V_{1}
-                                  =
-                                  P_{2}(V_{1}+\triangle {V})
+                                  P_{0}V_{0} = P_{1}(V_{0}+\triangle {V}) \lra P_{n+1} = \frac{V_{0}}{V_{0} + \triangle{V}} P_{n}
                               $$
-
+                              $$
+                                  P_{n} = (\frac{V_{0}}{V_{0} + \triangle{V}})^{n} P_{0}
+                              $$
                         \item 按比例抽气($\triangle{V} = k V$),剩余气体重新充满原体积
                               $$
-                                  P_{1}V_{1}
-                                  -
-                                  P_{1}\triangle V
-                                  =
-                                  P_{2}V_{1}
-                              $$
-                              $n$次等比例抽气模型(等温),压强等比递减
-                              $$
-                                  P_nV - P_n\triangle V = P_{n+1}V  \lra P_{n+1} = P_n \left(1-\frac{\triangle V}{V}\right)
+                                  P_{1}V_{1} - P_{1}\triangle V = P_{2}V_{1} \lra  P_nV - P_n\triangle V = P_{n+1}V  \lra P_{n+1} = P_n (1-\frac{\triangle V}{V})
                               $$
                               $$
                                   P_n = P_0 \left(1-\frac{\triangle V}{V}\right)^n = P_0 \left(1-k\right)^n
